@@ -1,0 +1,20 @@
+Var1	Freq	V3
+GO:0016020	6238	membrane
+GO:0005634	5057	nucleus
+GO:0005886	3754	plasma membrane
+GO:0005829	3057	cytosol
+GO:0070062	2460	extracellular exosome
+GO:0005576	1762	extracellular region
+GO:0005739	1335	mitochondrion
+GO:0005783	1169	endoplasmic reticulum
+GO:0005794	1059	Golgi apparatus
+GO:0005856	1034	cytoskeleton
+GO:0005622	898	intracellular
+GO:0005768	493	endosome
+GO:0005764	297	lysosome
+GO:0005840	135	ribosome
+GO:0005777	102	peroxisome
+GO:0045171	41	intercellular bridge
+GO:0005773	19	vacuole
+GO:0030054	671	 cell junction
+GO:0005929	212	cilium

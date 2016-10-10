@@ -1,0 +1,3451 @@
+Prefix: : <http://purl.obolibrary.org/obo/>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+
+Ontology: <http://www.ebi.ac.uk/metagenomics/CC_median.owl>
+
+
+AnnotationProperty: IAO_0000115
+
+    
+AnnotationProperty: rdfs:label
+
+    
+AnnotationProperty: label_with_counts
+
+    
+Datatype: xsd:string
+
+    
+Class: GO_0044461
+
+    Annotations: 
+        label_with_counts "bacterial-type flagellum part"^^xsd:string,
+        IAO_0000115 "Any constituent part of flagellum, a 20 nm diameter filament composed of subunits of flagellin driven passively at its base by a motor powered by the transmembrane proton potential. Examples of this component are found in bacterial species."^^xsd:string,
+        rdfs:label "bacterial-type flagellum part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044463,
+        GO_0044422,
+        GO_0044424
+    
+    
+Class: GO_0044462
+
+    Annotations: 
+        rdfs:label "external encapsulating structure part"^^xsd:string,
+        label_with_counts "external encapsulating structure part"^^xsd:string,
+        IAO_0000115 "Any constituent part of an external encapsulating structure, a structure that lies outside the plasma membrane and surrounds the entire cell. This does not include the periplasmic space but does include the outer membrane (of gram negative bacteria) or cell wall (of yeast or Gram positive bacteria)."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0044463
+
+    Annotations: 
+        IAO_0000115 "Any constituent part of a cell projection, a prolongation or process extending from a cell, e.g. a flagellum or axon."^^xsd:string,
+        rdfs:label "cell projection part"^^xsd:string,
+        label_with_counts "cell projection part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0044464
+
+    Annotations: 
+        label_with_counts "cell part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a cell, the basic structural and functional unit of all organisms."^^xsd:string,
+        rdfs:label "cell part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0019028
+
+    Annotations: 
+        IAO_0000115 "The protein coat that surrounds the infective nucleic acid in some virus particles. It comprises numerous regularly arranged subunits, or capsomeres."^^xsd:string,
+        rdfs:label "viral capsid"^^xsd:string,
+        label_with_counts "viral capsid - 11595962"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044423
+    
+    
+Class: GO_0012506
+
+    Annotations: 
+        rdfs:label "vesicle membrane"^^xsd:string,
+        IAO_0000115 "The lipid bilayer surrounding any membrane-bounded vesicle in the cell."^^xsd:string,
+        label_with_counts "vesicle membrane - 76884"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031090
+    
+    
+Class: GO_0008250
+
+    Annotations: 
+        rdfs:label "oligosaccharyltransferase complex"^^xsd:string,
+        label_with_counts "oligosaccharyltransferase complex - 76365"^^xsd:string,
+        IAO_0000115 "A protein complex that is found in the endoplasmic reticulum membrane of eukaryotes and transfers lipid-linked oligosaccharide precursor to asparagine residues on nascent proteins. In yeast, the complex includes at least nine different subunits, whereas in mammalian cells at least three different forms of the complex have been detected."^^xsd:string
+    
+    SubClassOf: 
+        GO_1990234,
+        GO_0044432,
+        GO_0098796
+    
+    
+Class: GO_0033573
+
+    Annotations: 
+        rdfs:label "high-affinity iron permease complex"^^xsd:string,
+        label_with_counts "high affinity iron permease complex - 576542"^^xsd:string,
+        IAO_0000115 "A protein complex composed of a multicopper ferroxidase that oxidizes Fe(II) to Fe(III), and a ferric iron permease that transports the produced Fe(III) into the cell. In high-affinity transport the transporter is able to bind the solute even if it is only present at very low concentrations."^^xsd:string
+    
+    SubClassOf: 
+        GO_0098797
+    
+    
+Class: GO_0009341
+
+    Annotations: 
+        label_with_counts "beta-galactosidase complex - 4473874"^^xsd:string,
+        IAO_0000115 "A protein complex that possesses beta-galactosidase activity, i.e. catalyzes the hydrolysis of terminal non-reducing beta-D-galactose residues in beta-D-galactosides. In E. coli, the complex is a homotetramer; dimeric and hexameric beta-galactosidase complexes have been observed in other species."^^xsd:string,
+        rdfs:label "beta-galactosidase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1902494
+    
+    
+Class: GO_0009346
+
+    Annotations: 
+        IAO_0000115 "Citrate lyase is a multienzyme complex with three constituents: the alpha subunit, citrate-ACP transferase; the beta subunit, citryl-ACP lyase; and the gamma subunit, an acyl-carrier protein which also carries the prosthetic group components. All three subunits are required for citrate lyase enzyme activity."^^xsd:string,
+        rdfs:label "citrate lyase complex"^^xsd:string,
+        label_with_counts "citrate lyase complex - 1042042"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044444
+    
+    
+Class: GO_0005783
+
+    Annotations: 
+        rdfs:label "endoplasmic reticulum"^^xsd:string,
+        IAO_0000115 "The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached)."^^xsd:string,
+        label_with_counts "endoplasmic reticulum - 592061"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043231,
+        GO_0044444
+    
+    
+Class: GO_0005663
+
+    Annotations: 
+        rdfs:label "DNA replication factor C complex"^^xsd:string,
+        IAO_0000115 "A complex that loads the DNA polymerase processivity factor proliferating cell nuclear antigen (PCNA) onto DNA, thereby permitting processive DNA synthesis catalyzed by DNA polymerase. In eukaryotes the complex consists of five polypeptides."^^xsd:string,
+        label_with_counts "DNA replication factor C complex - 43314"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044427
+    
+    
+Class: GO_0044459
+
+    Annotations: 
+        IAO_0000115 "Any constituent part of the plasma membrane, the membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins."^^xsd:string,
+        label_with_counts "plasma membrane part"^^xsd:string,
+        rdfs:label "plasma membrane part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464,
+        GO_0044425
+    
+    
+Class: GO_0044217
+
+    Annotations: 
+        IAO_0000115 "Any constituent part of a secondary organism with which the first organism is interacting."^^xsd:string,
+        label_with_counts "other organism part"^^xsd:string,
+        rdfs:label "other organism part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0005787
+
+    Annotations: 
+        rdfs:label "signal peptidase complex"^^xsd:string,
+        label_with_counts "signal peptidase complex - 69534"^^xsd:string,
+        IAO_0000115 "A protein complex that is located in the endoplasmic reticulum membrane and cleaves the signal sequence from precursor proteins following their transport out of the cytoplasmic space."^^xsd:string
+    
+    SubClassOf: 
+        GO_1990234,
+        GO_0044432,
+        GO_0098796
+    
+    
+Class: GO_0009349
+
+    Annotations: 
+        label_with_counts "riboflavin synthase complex - 5462833"^^xsd:string,
+        IAO_0000115 "An flavoprotein that catalyzes the reaction the breakdown of dimethyl(ribityl)lumazine to form riboflavin and ribitylamino-amino-dihydroxypyrimidine."^^xsd:string,
+        rdfs:label "riboflavin synthase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1990234,
+        GO_0044464
+    
+    
+Class: GO_0005667
+
+    Annotations: 
+        rdfs:label "transcription factor complex"^^xsd:string,
+        IAO_0000115 "A protein complex that is capable of associating with DNA by direct binding, or via other DNA-binding proteins or complexes, and regulating transcription."^^xsd:string,
+        label_with_counts "transcription factor complex - 114587"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044424
+    
+    
+Class: GO_0005789
+
+    Annotations: 
+        IAO_0000115 "The lipid bilayer surrounding the endoplasmic reticulum."^^xsd:string,
+        rdfs:label "endoplasmic reticulum membrane"^^xsd:string,
+        label_with_counts "endoplasmic reticulum membrane - 393268"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098588,
+        GO_0044432,
+        GO_0044425
+    
+    
+Class: GO_0005669
+
+    Annotations: 
+        rdfs:label "transcription factor TFIID complex"^^xsd:string,
+        IAO_0000115 "A complex composed of TATA binding protein (TBP) and TBP associated factors (TAFs); the total mass is typically about 800 kDa. Most of the TAFs are conserved across species. In TATA-containing promoters for RNA polymerase II (Pol II), TFIID is believed to recognize at least two distinct elements, the TATA element and a downstream promoter element. TFIID is also involved in recognition of TATA-less Pol II promoters. Binding of TFIID to DNA is necessary but not sufficient for transcription initiation from most RNA polymerase II promoters."^^xsd:string,
+        label_with_counts "transcription factor TFIID complex - 60036"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044451,
+        GO_0090575
+    
+    
+Class: GO_0098533
+
+    Annotations: 
+        IAO_0000115 "A transmembrane protein complex that functions in ATPase dependent active transport across a membrane."^^xsd:string,
+        label_with_counts "ATPase dependent transmembrane transport complex"^^xsd:string,
+        rdfs:label "ATPase dependent transmembrane transport complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1902495,
+        GO_1904949
+    
+    
+Class: GO_0019031
+
+    Annotations: 
+        IAO_0000115 "The lipid bilayer of a virion that surrounds the protein capsid. May also contain glycoproteins."^^xsd:string,
+        label_with_counts "viral envelope - 387477"^^xsd:string,
+        rdfs:label "viral envelope"^^xsd:string
+    
+    SubClassOf: 
+        GO_0036338
+    
+    
+Class: GO_0044451
+
+    Annotations: 
+        rdfs:label "nucleoplasm part"^^xsd:string,
+        label_with_counts "nucleoplasm part"^^xsd:string,
+        IAO_0000115 "Any constituent part of the nucleoplasm, that part of the nuclear content other than the chromosomes or the nucleolus."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044428
+    
+    
+Class: GO_0044452
+
+    Annotations: 
+        label_with_counts "nucleolar part"^^xsd:string,
+        rdfs:label "nucleolar part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a nucleolus, a small, dense body one or more of which are present in the nucleus of eukaryotic cells. It is rich in RNA and protein, is not bounded by a limiting membrane, and is not seen during mitosis."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044428
+    
+    
+Class: GO_0099503
+
+    Annotations: 
+        IAO_0000115 "A cytoplasmic, membrane bound vesicle that is capable of fusing to the plasma membrane to release its contents into the extracellular space."^^xsd:string,
+        rdfs:label "secretory vesicle"^^xsd:string,
+        label_with_counts "secretory vesicle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0016023
+    
+    
+Class: GO_0070069
+
+    Annotations: 
+        label_with_counts "cytochrome complex"^^xsd:string,
+        rdfs:label "cytochrome complex"^^xsd:string,
+        IAO_0000115 "A protein complex in which at least one of the proteins is a cytochrome, i.e. a heme-containing protein involved in catalysis of redox reactions."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234
+    
+    
+Class: GO_0044454
+
+    Annotations: 
+        IAO_0000115 "Any constituent part of a nuclear chromosome, a chromosome that encodes the nuclear genome and is found in the nucleus of a eukaryotic cell during the cell cycle phases when the nucleus is intact."^^xsd:string,
+        label_with_counts "nuclear chromosome part"^^xsd:string,
+        rdfs:label "nuclear chromosome part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044427,
+        GO_0044428
+    
+    
+Class: GO_0044455
+
+    Annotations: 
+        label_with_counts "mitochondrial membrane part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a mitochondrial membrane, either of the lipid bilayers that surround the mitochondrion and form the mitochondrial envelope."^^xsd:string,
+        rdfs:label "mitochondrial membrane part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044425,
+        GO_0044429
+    
+    
+Class: GO_0044456
+
+    Annotations: 
+        label_with_counts "synapse part"^^xsd:string,
+        rdfs:label "synapse part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a synapse, the junction between a nerve fiber of one neuron and another neuron or muscle fiber or glial cell."^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0030054
+
+    Annotations: 
+        label_with_counts "cell junction"^^xsd:string,
+        IAO_0000115 "A cellular component that forms a specialized region of connection between two or more cells or between a cell and the extracellular matrix. At a cell junction, anchoring proteins extend through the plasma membrane to link cytoskeletal proteins in one cell to cytoskeletal proteins in neighboring cells or to proteins in the extracellular matrix."^^xsd:string,
+        rdfs:label "cell junction"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0005672
+
+    Annotations: 
+        rdfs:label "transcription factor TFIIA complex"^^xsd:string,
+        label_with_counts "transcription factor TFIIA complex - 86262"^^xsd:string,
+        IAO_0000115 "A component of the transcription machinery of RNA Polymerase II. In humans, TFIIA is a heterotrimer composed of an alpha (P35), beta (P19) and gamma subunits (P12)."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044451,
+        GO_0090575
+    
+    
+Class: GO_0036038
+
+    Annotations: 
+        rdfs:label "TCTN-B9D complex"^^xsd:string,
+        IAO_0000115 "A protein complex that is located at the ciliary transition zone and consists of tectonic proteins, B9 domain-containing proteins and other proteins. Acts as a barrier that prevents diffusion of transmembrane proteins between the cilia and plasma membranes. In mouse, members of the complex include TCTN1, TCTN2, B9D1, MKS1, CC2D2A and other proteins."^^xsd:string,
+        label_with_counts "TCTN-B9D complex - 49197"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044441,
+        GO_0043234
+    
+    
+Class: GO_0005794
+
+    Annotations: 
+        rdfs:label "Golgi apparatus"^^xsd:string,
+        IAO_0000115 "A compound membranous cytoplasmic organelle of eukaryotic cells, consisting of flattened, ribosome-free vesicles arranged in a more or less regular stack. The Golgi apparatus differs from the endoplasmic reticulum in often having slightly thicker membranes, appearing in sections as a characteristic shallow semicircle so that the convex side (cis or entry face) abuts the endoplasmic reticulum, secretory vesicles emerging from the concave side (trans or exit face). In vertebrate cells there is usually one such organelle, while in invertebrates and plants, where they are known usually as dictyosomes, there may be several scattered in the cytoplasm. The Golgi apparatus processes proteins produced on the ribosomes of the rough endoplasmic reticulum; such processing includes modification of the core oligosaccharides of glycoproteins, and the sorting and packaging of proteins for transport to a variety of cellular locations. Three different regions of the Golgi are now recognized both in terms of structure and function: cis, in the vicinity of the cis face, trans, in the vicinity of the trans face, and medial, lying between the cis and trans regions."^^xsd:string,
+        label_with_counts "Golgi apparatus - 56609"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043231,
+        GO_0044444
+    
+    
+Class: GO_0033202
+
+    Annotations: 
+        label_with_counts "DNA helicase complex"^^xsd:string,
+        IAO_0000115 "A protein complex that possesses DNA helicase activity."^^xsd:string,
+        rdfs:label "DNA helicase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424,
+        GO_1902494
+    
+    
+Class: GO_0044446
+
+    Annotations: 
+        label_with_counts "intracellular organelle part"^^xsd:string,
+        rdfs:label "intracellular organelle part"^^xsd:string,
+        IAO_0000115 "A constituent part of an intracellular organelle, an organized structure of distinctive morphology and function, occurring within the cell. Includes constituent parts of the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton but excludes the plasma membrane."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044422,
+        GO_0044424
+    
+    
+Class: GO_1902911
+
+    Annotations: 
+        label_with_counts "protein kinase complex"^^xsd:string,
+        rdfs:label "protein kinase complex"^^xsd:string,
+        IAO_0000115 "A protein complex which is capable of protein kinase activity."^^xsd:string
+    
+    SubClassOf: 
+        GO_0061695
+    
+    
+Class: GO_0044448
+
+    Annotations: 
+        IAO_0000115 "Any constituent part of the cell cortex, the region of a cell that lies just beneath the plasma membrane and often, but not always, contains a network of actin filaments and associated proteins."^^xsd:string,
+        rdfs:label "cell cortex part"^^xsd:string,
+        label_with_counts "cell cortex part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444
+    
+    
+Class: GO_0099513
+
+    Annotations: 
+        rdfs:label "polymeric cytoskeletal fiber"^^xsd:string,
+        label_with_counts "polymeric cytoskeletal fiber"^^xsd:string,
+        IAO_0000115 "A component of the cytoskeleton consisting of a homo or heteropolymeric fiber constructed from an indeterminate number of protein subunits."^^xsd:string
+    
+    SubClassOf: 
+        GO_0099512,
+        GO_0044430
+    
+    
+Class: GO_0099512
+
+    Annotations: 
+        rdfs:label "supramolecular fiber"^^xsd:string,
+        label_with_counts "supramolecular fiber"^^xsd:string,
+        IAO_0000115 "A polymer consisting of an indefinite number of protein or protein complex subunits that have polymerised to form a fiber-shaped structure."^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0097458
+
+    Annotations: 
+        label_with_counts "neuron part"^^xsd:string,
+        rdfs:label "neuron part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a neuron, the basic cellular unit of nervous tissue. A typical neuron consists of a cell body (often called the soma), an axon, and dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0031966
+
+    Annotations: 
+        label_with_counts "mitochondrial membrane"^^xsd:string,
+        rdfs:label "mitochondrial membrane"^^xsd:string,
+        IAO_0000115 "Either of the lipid bilayers that surround the mitochondrion and form the mitochondrial envelope."^^xsd:string
+    
+    SubClassOf: 
+        GO_0031090,
+        GO_0044429
+    
+    
+Class: GO_0009360
+
+    Annotations: 
+        IAO_0000115 "The DNA polymerase III holoenzyme is a complex that contains 10 different types of subunits. These subunits are organized into 3 functionally essential sub-assemblies: the pol III core, the beta sliding clamp processivity factor and the clamp-loading complex. The pol III core carries out the polymerase and the 3'-5' exonuclease proofreading activities. The polymerase is tethered to the template via the sliding clamp processivity factor. The clamp-loading complex assembles the beta processivity factor onto the primer template and plays a central role in the organization and communication at the replication fork."^^xsd:string,
+        label_with_counts "DNA polymerase III complex - 13131375"^^xsd:string,
+        rdfs:label "DNA polymerase III complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0042575
+    
+    
+Class: GO_0031968
+
+    Annotations: 
+        IAO_0000115 "The outer, i.e. cytoplasm-facing in a cellular organelle, lipid bilayer of an organelle envelope."^^xsd:string,
+        rdfs:label "organelle outer membrane"^^xsd:string,
+        label_with_counts "organelle outer membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098588,
+        GO_0044424,
+        GO_0098805,
+        GO_0019867
+    
+    
+Class: GO_0031967
+
+    Annotations: 
+        rdfs:label "organelle envelope"^^xsd:string,
+        IAO_0000115 "A double membrane structure enclosing an organelle, including two lipid bilayers and the region between them. In some cases, an organelle envelope may have more than two membranes."^^xsd:string,
+        label_with_counts "organelle envelope"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044446,
+        GO_0031975
+    
+    
+Class: GO_0061695
+
+    Annotations: 
+        rdfs:label "transferase complex, transferring phosphorus-containing groups"^^xsd:string,
+        label_with_counts "transferase complex, transferring phosphorus-containing groups"^^xsd:string,
+        IAO_0000115 "A transferase complex capable of catalysis of the transfer of a phosphorus-containing group from one compound (donor) to another (acceptor)."^^xsd:string
+    
+    SubClassOf: 
+        GO_1990234
+    
+    
+Class: GO_0016459
+
+    Annotations: 
+        IAO_0000115 "A protein complex, formed of one or more myosin heavy chains plus associated light chains and other proteins, that functions as a molecular motor; uses the energy of ATP hydrolysis to move actin filaments or to move vesicles or other cargo on fixed actin filaments; has magnesium-ATPase activity and binds actin. Myosin classes are distinguished based on sequence features of the motor, or head, domain, but also have distinct tail regions that are believed to bind specific cargoes."^^xsd:string,
+        rdfs:label "myosin complex"^^xsd:string,
+        label_with_counts "myosin complex - 1760565"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044430,
+        GO_0043234
+    
+    
+Class: GO_0005680
+
+    Annotations: 
+        label_with_counts "anaphase-promoting complex - 49394"^^xsd:string,
+        IAO_0000115 "A ubiquitin ligase complex that degrades mitotic cyclins and anaphase inhibitory protein, thereby triggering sister chromatid separation and exit from mitosis. Substrate recognition by APC occurs through degradation signals, the most common of which is termed the Dbox degradation motif, originally discovered in cyclin B."^^xsd:string,
+        rdfs:label "anaphase-promoting complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031461,
+        GO_0000152
+    
+    
+Class: GO_0005681
+
+    Annotations: 
+        IAO_0000115 "Any of a series of ribonucleoprotein complexes that contain snRNA(s) and small nuclear ribonucleoproteins (snRNPs), and are formed sequentially during the spliceosomal splicing of one or more substrate RNAs, and which also contain the RNA substrate(s) from the initial target RNAs of splicing, the splicing intermediate RNA(s), to the final RNA products. During cis-splicing, the initial target RNA is a single, contiguous RNA transcript, whether mRNA, snoRNA, etc., and the released products are a spliced RNA and an excised intron, generally as a lariat structure. During trans-splicing, there are two initial substrate RNAs, the spliced leader RNA and a pre-mRNA."^^xsd:string,
+        rdfs:label "spliceosomal complex"^^xsd:string,
+        label_with_counts "spliceosomal complex - 150436"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030529,
+        GO_0044428
+    
+    
+Class: GO_0030089
+
+    Annotations: 
+        rdfs:label "phycobilisome"^^xsd:string,
+        IAO_0000115 "Any of the granules, approximately 32 nm x 48 nm and consisting of highly aggregated phycobiliproteins, that are attached in arrays to the external face of a thylakoid membrane in algae of the phyla Cyanophyta and Rhodophyta, where they function as light-harvesting devices in photosynthesis. Excitation energy in the phycobilisome flows in the sequence: phycoerythrin, phycocyanin, allophycocyanin before passing to the antenna chlorophyll of photosystem II."^^xsd:string,
+        label_with_counts "phycobilisome - 1870246"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030076,
+        GO_0044436,
+        GO_0098796
+    
+    
+Class: GO_0090575
+
+    Annotations: 
+        rdfs:label "RNA polymerase II transcription factor complex"^^xsd:string,
+        label_with_counts "RNA polymerase II transcription factor complex"^^xsd:string,
+        IAO_0000115 "A transcription factor complex that acts at promoters of genes transcribed by RNA polymerase II."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044798
+    
+    
+Class: GO_0098552
+
+    Annotations: 
+        IAO_0000115 "A cellular component consisting of one leaflet of a membrane bilayer and any proteins embedded or anchored in it or attached to its surface."^^xsd:string,
+        label_with_counts "side of membrane"^^xsd:string,
+        rdfs:label "side of membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044425
+    
+    
+Class: GO_0098796
+
+    Annotations: 
+        IAO_0000115 "Any protein complex that is part of a membrane."^^xsd:string,
+        rdfs:label "membrane protein complex"^^xsd:string,
+        label_with_counts "membrane protein complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044425
+    
+    
+Class: GO_1990204
+
+    Annotations: 
+        IAO_0000115 "Any protein complex that possesses oxidoreductase activity."^^xsd:string,
+        label_with_counts "oxidoreductase complex"^^xsd:string,
+        rdfs:label "oxidoreductase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464,
+        GO_1902494
+    
+    
+Class: GO_0098797
+
+    Annotations: 
+        IAO_0000115 "Any protein complex that is part of the plasma membrane."^^xsd:string,
+        rdfs:label "plasma membrane protein complex"^^xsd:string,
+        label_with_counts "plasma membrane protein complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044459,
+        GO_0098796
+    
+    
+Class: GO_0098798
+
+    Annotations: 
+        rdfs:label "mitochondrial protein complex"^^xsd:string,
+        label_with_counts "mitochondrial protein complex"^^xsd:string,
+        IAO_0000115 "A protein complex that is part of a mitochondrion."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044429
+    
+    
+Class: GO_0072588
+
+    Annotations: 
+        IAO_0000115 "A ribonucleoprotein complex that contains an RNA of the box H/ACA type and the four core proteins dyskerin, NOP10, NHP2, and GAR1 (human protein nomenclature). RNA pseudouridylation (isomerization of uridine to pseudouridine) is the major, and most likely the ancestral, function of H/ACA RNPs. Pseudouridylation targets include both large and small ribosomal RNAs (rRNAs), and small nuclear RNA (U2 snRNA). In addition to these catalytic H/ACA RNPs, a less abundant but more diverse class of structural H/ACA RNPs exists, which does not have pseudouridylation activity. These include the vertebrate telomerase RNP complex."^^xsd:string,
+        label_with_counts "box H/ACA RNP complex - 112026"^^xsd:string,
+        rdfs:label "box H/ACA RNP complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005732,
+        GO_0044428
+    
+    
+Class: GO_0000172
+
+    Annotations: 
+        rdfs:label "ribonuclease MRP complex"^^xsd:string,
+        IAO_0000115 "A ribonucleoprotein complex that contains an RNA molecule of the snoRNA family, and cleaves the rRNA precursor as part of rRNA transcript processing. It also has other roles: In S. cerevisiae it is involved in cell cycle-regulated degradation of daughter cell-specific mRNAs, while in mammalian cells it also enters the mitochondria and processes RNAs to create RNA primers for DNA replication."^^xsd:string,
+        label_with_counts "ribonuclease MRP complex - 134795"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005732
+    
+    
+Class: GO_0009375
+
+    Annotations: 
+        rdfs:label "ferredoxin hydrogenase complex"^^xsd:string,
+        IAO_0000115 "An enzyme complex that catalyzes the oxidation of reduced ferredoxin. Hydrogenase contains iron-sulfur clusters, and some contain nickel; it can use molecular hydrogen for the reduction of a variety of substances."^^xsd:string,
+        label_with_counts "ferredoxin hydrogenase complex - 169289"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424,
+        GO_1990204
+    
+    
+Class: GO_0008287
+
+    Annotations: 
+        IAO_0000115 "A complex, normally consisting of a catalytic and a regulatory subunit, which catalyzes the removal of a phosphate group from a serine or threonine residue of a protein."^^xsd:string,
+        rdfs:label "protein serine/threonine phosphatase complex"^^xsd:string,
+        label_with_counts "protein serine/threonine phosphatase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464,
+        GO_1903293
+    
+    
+Class: GO_0030076
+
+    Annotations: 
+        IAO_0000115 "A protein-pigment complex that may be closely or peripherally associated to photosynthetic reaction centers that participate in harvesting and transferring radiant energy to the reaction center."^^xsd:string,
+        label_with_counts "light-harvesting complex"^^xsd:string,
+        rdfs:label "light-harvesting complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044424
+    
+    
+Class: GO_0009379
+
+    Annotations: 
+        label_with_counts "Holliday junction helicase complex - 1026188"^^xsd:string,
+        IAO_0000115 "A DNA helicase complex that forms part of a Holliday junction resolvase complex, where the helicase activity is involved in the migration of the junction branch point. The best-characterized example is the E. coli RuvAB complex, in which a hexamer of RuvB subunits possesses helicase activity that is modulated by association with RuvA."^^xsd:string,
+        rdfs:label "Holliday junction helicase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033202
+    
+    
+Class: GO_0030077
+
+    Annotations: 
+        rdfs:label "plasma membrane light-harvesting complex"^^xsd:string,
+        IAO_0000115 "A plasma membrane protein-pigment complex that may be closely or peripherally associated to photosynthetic reaction centers that participate in harvesting and transferring radiant energy to the reaction center. Examples of this complex are found in bacterial species."^^xsd:string,
+        label_with_counts "plasma membrane light-harvesting complex - 359733"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030076,
+        GO_0044433
+    
+    
+Class: GO_0033588
+
+    Annotations: 
+        label_with_counts "Elongator holoenzyme complex - 41975"^^xsd:string,
+        IAO_0000115 "A heterohexameric protein complex that is involved in modification of wobble nucleosides in tRNA. The complex can associate physically with hyperphosphorylated RNA polymerase II; it contains two discrete heterotrimeric subcomplexes."^^xsd:string,
+        rdfs:label "Elongator holoenzyme complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044424
+    
+    
+Class: GO_0005694
+
+    Annotations: 
+        rdfs:label "chromosome"^^xsd:string,
+        label_with_counts "chromosome - 16796121"^^xsd:string,
+        IAO_0000115 "A structure composed of a very long molecule of DNA and associated proteins (e.g. histones) that carries hereditary information."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043232
+    
+    
+Class: GO_0005575
+
+    Annotations: 
+        label_with_counts "cellular_component"^^xsd:string,
+        rdfs:label "cellular_component"^^xsd:string,
+        IAO_0000115 "The part of a cell or its extracellular environment in which a gene product is located. A gene product may be located in one or more parts of a cell and its location may be as specific as a particular macromolecular complex, that is, a stable, persistent association of macromolecules that function together."^^xsd:string
+    
+    
+Class: GO_0005576
+
+    Annotations: 
+        IAO_0000115 "The space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers the host cell environment outside an intracellular parasite."^^xsd:string,
+        rdfs:label "extracellular region"^^xsd:string,
+        label_with_counts "extracellular region - 5430244"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0005578
+
+    Annotations: 
+        rdfs:label "proteinaceous extracellular matrix"^^xsd:string,
+        IAO_0000115 "A layer consisting mainly of proteins (especially collagen) and glycosaminoglycans (mostly as proteoglycans) that forms a sheet underlying or overlying cells such as endothelial and epithelial cells. The proteins are secreted by cells in the vicinity. An example of this component is found in Mus musculus."^^xsd:string,
+        label_with_counts "proteinaceous extracellular matrix - 119012"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031012,
+        GO_0044421
+    
+    
+Class: GO_0098562
+
+    Annotations: 
+        label_with_counts "cytoplasmic side of membrane"^^xsd:string,
+        IAO_0000115 "The side of a membrane that faces the cytoplasm."^^xsd:string,
+        rdfs:label "cytoplasmic side of membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098552
+    
+    
+Class: GO_0042729
+
+    Annotations: 
+        IAO_0000115 "A large protein complex, containing around 8-10 subunits in yeast, including Duo1p, Dam1p, Dad1p and Ask1p. The complex forms part of the kinetochore, associates with microtubules when the kinetochore attaches to the spindle, and plays a role in spindle attachment, chromosome segregation and spindle stability."^^xsd:string,
+        label_with_counts "DASH complex - 41868"^^xsd:string,
+        rdfs:label "DASH complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0000942
+    
+    
+Class: GO_0048500
+
+    Annotations: 
+        label_with_counts "signal recognition particle - 5519454"^^xsd:string,
+        rdfs:label "signal recognition particle"^^xsd:string,
+        IAO_0000115 "A complex of protein and RNA which facilitates translocation of proteins across membranes."^^xsd:string
+    
+    SubClassOf: 
+        GO_0030529,
+        GO_0044444
+    
+    
+Class: owl:Thing
+
+    
+Class: GO_0032039
+
+    Annotations: 
+        rdfs:label "integrator complex"^^xsd:string,
+        IAO_0000115 "A protein complex that stably associates with the C-terminus of RNA polymerase II and mediates 3'-end processing of small nuclear RNAs generated by RNA polymerase II."^^xsd:string,
+        label_with_counts "integrator complex - 79420"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044451,
+        GO_0043234
+    
+    
+Class: GO_0030896
+
+    Annotations: 
+        label_with_counts "checkpoint clamp complex - 38265"^^xsd:string,
+        IAO_0000115 "Conserved heterotrimeric complex of PCNA-like proteins that is loaded onto DNA at sites of DNA damage."^^xsd:string,
+        rdfs:label "checkpoint clamp complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044454,
+        GO_0043234
+    
+    
+Class: GO_0019866
+
+    Annotations: 
+        rdfs:label "organelle inner membrane"^^xsd:string,
+        label_with_counts "organelle inner membrane"^^xsd:string,
+        IAO_0000115 "The inner, i.e. lumen-facing, lipid bilayer of an organelle envelope; usually highly selective to most ions and metabolites."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424,
+        GO_0031090
+    
+    
+Class: GO_0008290
+
+    Annotations: 
+        label_with_counts "F-actin capping protein complex - 199706"^^xsd:string,
+        IAO_0000115 "A heterodimer consisting of alpha and beta subunits that binds to and caps the barbed ends of actin filaments, thereby regulating the polymerization of actin monomers but not severing actin filaments."^^xsd:string,
+        rdfs:label "F-actin capping protein complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044430,
+        GO_0043234
+    
+    
+Class: GO_0019867
+
+    Annotations: 
+        rdfs:label "outer membrane"^^xsd:string,
+        label_with_counts "outer membrane - 15617085"^^xsd:string,
+        IAO_0000115 "The external membrane of Gram-negative bacteria or certain organelles such as mitochondria and chloroplasts; freely permeable to most ions and metabolites."^^xsd:string
+    
+    SubClassOf: 
+        GO_0016020
+    
+    
+Class: GO_0031988
+
+    Annotations: 
+        label_with_counts "membrane-bounded vesicle"^^xsd:string,
+        rdfs:label "membrane-bounded vesicle"^^xsd:string,
+        IAO_0000115 "Any small, fluid-filled, spherical organelle enclosed by a lipid bilayer."^^xsd:string
+    
+    SubClassOf: 
+        GO_0031982
+    
+    
+Class: GO_0015934
+
+    Annotations: 
+        label_with_counts "large ribosomal subunit - 4155696"^^xsd:string,
+        IAO_0000115 "The larger of the two subunits of a ribosome. Two sites on the ribosomal large subunit are involved in translation, namely the aminoacyl site (A site) and peptidyl site (P site)."^^xsd:string,
+        rdfs:label "large ribosomal subunit"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044391
+    
+    
+Class: GO_0015935
+
+    Annotations: 
+        label_with_counts "small ribosomal subunit - 6779382"^^xsd:string,
+        IAO_0000115 "The smaller of the two subunits of a ribosome."^^xsd:string,
+        rdfs:label "small ribosomal subunit"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044391
+    
+    
+Class: GO_0034464
+
+    Annotations: 
+        label_with_counts "BBSome - 63555"^^xsd:string,
+        rdfs:label "BBSome"^^xsd:string,
+        IAO_0000115 "A protein complex that associates with the primary cilium and is involved in cilium biogenesis; consists of seven conserved proteins: BBS1, BBS2, BBS4, BBS5, BBS7, BBS8 and BBS9."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234
+    
+    
+Class: GO_0005581
+
+    Annotations: 
+        label_with_counts "collagen - 61252"^^xsd:string,
+        rdfs:label "collagen trimer"^^xsd:string,
+        IAO_0000115 "A protein complex consisting of three collagen chains assembled into a left-handed triple helix. These trimers typically assemble into higher order structures."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234
+    
+    
+Class: GO_0042995
+
+    Annotations: 
+        rdfs:label "cell projection"^^xsd:string,
+        IAO_0000115 "A prolongation or process extending from a cell, e.g. a flagellum or axon."^^xsd:string,
+        label_with_counts "cell projection"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0016592
+
+    Annotations: 
+        IAO_0000115 "A protein complex that interacts with the carboxy-terminal domain of the largest subunit of RNA polymerase II and plays an active role in transducing the signal from a transcription factor to the transcriptional machinery. The mediator complex is required for activation of transcription of most protein-coding genes, but can also act as a transcriptional corepressor. The Saccharomyces complex contains several identifiable subcomplexes: a head domain comprising Srb2, -4, and -5, Med6, -8, and -11, and Rox3 proteins; a middle domain comprising Med1, -4, and -7, Nut1 and -2, Cse2, Rgr1, Soh1, and Srb7 proteins; a tail consisting of Gal11p, Med2p, Pgd1p, and Sin4p; and a regulatory subcomplex comprising Ssn2, -3, and -8, and Srb8 proteins. Metazoan mediator complexes have similar modular structures and include homologs of yeast Srb and Med proteins."^^xsd:string,
+        label_with_counts "mediator complex - 240252"^^xsd:string,
+        rdfs:label "mediator complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044451,
+        GO_0043234
+    
+    
+Class: GO_0044815
+
+    Annotations: 
+        label_with_counts "DNA packaging complex"^^xsd:string,
+        IAO_0000115 "A protein complex that plays a role in the process of DNA packaging."^^xsd:string,
+        rdfs:label "DNA packaging complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234
+    
+    
+Class: GO_0032040
+
+    Annotations: 
+        rdfs:label "small-subunit processome"^^xsd:string,
+        label_with_counts "small-subunit processome - 310556"^^xsd:string,
+        IAO_0000115 "A large ribonucleoprotein complex that is an early preribosomal complex. In S. cerevisiae, it has a size of 80S and consists of the 35S pre-rRNA, early-associating ribosomal proteins most of which are part of the small ribosomal subunit, the U3 snoRNA and associated proteins."^^xsd:string
+    
+    SubClassOf: 
+        GO_0030684
+    
+    
+Class: GO_0030529
+
+    Annotations: 
+        IAO_0000115 "An intracellular macromolecular complex containing both protein and RNA molecules."^^xsd:string,
+        rdfs:label "intracellular ribonucleoprotein complex"^^xsd:string,
+        label_with_counts "ribonucleoprotein complex - 57464"^^xsd:string
+    
+    SubClassOf: 
+        GO_1990904,
+        GO_0044424
+    
+    
+Class: GO_0000159
+
+    Annotations: 
+        label_with_counts "protein phosphatase type 2A complex - 266470"^^xsd:string,
+        IAO_0000115 "A protein complex that has protein serine/threonine phosphatase activity that is polycation-stimulated (PCS), being directly stimulated by protamine, polylysine, or histone H1; it constitutes a subclass of several enzymes activated by different histones and polylysine, and consists of catalytic, scaffolding, and regulatory subunits. The catalytic and scaffolding subunits form the core enzyme, and the holoenzyme also includes the regulatory subunit."^^xsd:string,
+        rdfs:label "protein phosphatase type 2A complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0008287,
+        GO_0044424
+    
+    
+Class: GO_0000276
+
+    Annotations: 
+        label_with_counts "\"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)\" - 277293"^^xsd:string,
+        rdfs:label "mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)"^^xsd:string,
+        IAO_0000115 "All non-F1 subunits of the mitochondrial hydrogen-transporting ATP synthase, including integral and peripheral mitochondrial inner membrane proteins."^^xsd:string
+    
+    SubClassOf: 
+        GO_0045263,
+        GO_0098800
+    
+    
+Class: GO_0000152
+
+    Annotations: 
+        IAO_0000115 "A ubiquitin ligase complex found in the nucleus."^^xsd:string,
+        label_with_counts "nuclear ubiquitin ligase complex"^^xsd:string,
+        rdfs:label "nuclear ubiquitin ligase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0000151,
+        GO_0044428
+    
+    
+Class: GO_0000151
+
+    Annotations: 
+        rdfs:label "ubiquitin ligase complex"^^xsd:string,
+        IAO_0000115 "A protein complex that includes a ubiquitin-protein ligase and enables ubiquitin protein ligase activity. The complex also contains other proteins that may confer substrate specificity on the complex."^^xsd:string,
+        label_with_counts "ubiquitin ligase complex - 133051"^^xsd:string
+    
+    SubClassOf: 
+        GO_1990234,
+        GO_0044424
+    
+    
+Class: GO_0031975
+
+    Annotations: 
+        label_with_counts "envelope"^^xsd:string,
+        IAO_0000115 "A multilayered structure surrounding all or part of a cell; encompasses one or more lipid bilayers, and may include a cell wall layer; also includes the space between layers."^^xsd:string,
+        rdfs:label "envelope"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0009276
+
+    Annotations: 
+        IAO_0000115 "The peptidoglycan layer of the Gram-negative cell envelope. In Gram-negative cells the peptidoglycan is relatively thin (1-2nm) and is linked to the outer membrane by lipoproteins. In Gram-negative cells the peptidoglycan is too thin to retain the primary stain in the Gram staining procedure and therefore cells appear red after Gram stain."^^xsd:string,
+        rdfs:label "Gram-negative-bacterium-type cell wall"^^xsd:string,
+        label_with_counts "Gram-negative-bacterium-type cell wall - 4536364"^^xsd:string
+    
+    SubClassOf: 
+        GO_0009274
+    
+    
+Class: GO_0009274
+
+    Annotations: 
+        IAO_0000115 "A protective structure outside the cytoplasmic membrane composed of peptidoglycan (also known as murein), a molecule made up of a glycan (sugar) backbone of repetitively alternating N-acetylglucosamine and N-acetylmuramic acid with short, attached, cross-linked peptide chains containing unusual amino acids. An example of this component is found in Escherichia coli."^^xsd:string,
+        rdfs:label "peptidoglycan-based cell wall"^^xsd:string,
+        label_with_counts "peptidoglycan-based cell wall"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005618
+    
+    
+Class: GO_0032156
+
+    Annotations: 
+        IAO_0000115 "The part of the cytoskeleton (the internal framework of a cell) composed of septins and associated proteins. Includes septin cytoskeleton-associated complexes."^^xsd:string,
+        label_with_counts "septin cytoskeleton"^^xsd:string,
+        rdfs:label "septin cytoskeleton"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005856
+    
+    
+Class: GO_0034457
+
+    Annotations: 
+        rdfs:label "Mpp10 complex"^^xsd:string,
+        label_with_counts "Mpp10 complex - 59888"^^xsd:string,
+        IAO_0000115 "A protein complex that forms a subcomplex of the 90S preribosome. In S. cerevisiae, it is composed of Mpp10p, Imp3p and Imp4p."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044452,
+        GO_0043234
+    
+    
+Class: GO_0031982
+
+    Annotations: 
+        rdfs:label "vesicle"^^xsd:string,
+        label_with_counts "vesicle"^^xsd:string,
+        IAO_0000115 "Any small, fluid-filled, spherical organelle enclosed by membrane."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043227
+    
+    
+Class: GO_0009279
+
+    Annotations: 
+        label_with_counts "cell outer membrane - 5875721"^^xsd:string,
+        rdfs:label "cell outer membrane"^^xsd:string,
+        IAO_0000115 "A lipid bilayer that forms the outermost membrane of the cell envelope; enriched in polysaccharide and protein; the outer leaflet of the membrane contains specific lipopolysaccharide structures."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044462,
+        GO_0019867
+    
+    
+Class: GO_0005911
+
+    Annotations: 
+        IAO_0000115 "A cell junction that forms a connection between two or more cells in a multicellular organism; excludes direct cytoplasmic junctions such as ring canals."^^xsd:string,
+        rdfs:label "cell-cell junction"^^xsd:string,
+        label_with_counts "cell-cell junction"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030054
+    
+    
+Class: GO_0000942
+
+    Annotations: 
+        label_with_counts "condensed nuclear chromosome outer kinetochore"^^xsd:string,
+        IAO_0000115 "The region of a condensed nuclear chromosome kinetochore most external to centromeric DNA; this outer region mediates kinetochore-microtubule interactions."^^xsd:string,
+        rdfs:label "condensed nuclear chromosome outer kinetochore"^^xsd:string
+    
+    SubClassOf: 
+        GO_0000940,
+        GO_0044454
+    
+    
+Class: GO_0000940
+
+    Annotations: 
+        label_with_counts "condensed chromosome outer kinetochore"^^xsd:string,
+        rdfs:label "condensed chromosome outer kinetochore"^^xsd:string,
+        IAO_0000115 "The region of a condensed chromosome kinetochore most external to centromeric DNA; this outer region mediates kinetochore-microtubule interactions."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044427
+    
+    
+Class: GO_0000148
+
+    Annotations: 
+        IAO_0000115 "A protein complex that catalyzes the transfer of a glucose group from UDP-glucose to a (1->3)-beta-D-glucan chain."^^xsd:string,
+        label_with_counts "\"1,3-beta-D-glucan synthase complex\" - 143510"^^xsd:string,
+        rdfs:label "1,3-beta-D-glucan synthase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1990234,
+        GO_0098797
+    
+    
+Class: GO_0000145
+
+    Annotations: 
+        label_with_counts "exocyst - 68166"^^xsd:string,
+        rdfs:label "exocyst"^^xsd:string,
+        IAO_0000115 "A protein complex peripherally associated with the plasma membrane that determines where vesicles dock and fuse. At least eight complex components are conserved between yeast and mammals."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044448
+    
+    
+Class: GO_0030312
+
+    Annotations: 
+        rdfs:label "external encapsulating structure"^^xsd:string,
+        IAO_0000115 "A structure that lies outside the plasma membrane and surrounds the entire cell. This does not include the periplasmic space."^^xsd:string,
+        label_with_counts "external encapsulating structure"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0030677
+
+    Annotations: 
+        label_with_counts "ribonuclease P complex - 134795"^^xsd:string,
+        IAO_0000115 "A ribonucleoprotein complex that catalyzes cleavage of the leader sequence of precursor tRNAs (pre-tRNAs), generating the mature 5' end of tRNAs."^^xsd:string,
+        rdfs:label "ribonuclease P complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030529,
+        GO_1902555
+    
+    
+Class: GO_0043190
+
+    Annotations: 
+        IAO_0000115 "A complex for the transport of metabolites into and out of the cell, typically comprised of four domains; two membrane-associated domains and two ATP-binding domains at the intracellular face of the membrane, that form a central pore through the plasma membrane. Each of the four core domains may be encoded as a separate polypeptide or the domains can be fused in any one of a number of ways into multidomain polypeptides. In Bacteria and Archaebacteria, ABC transporters also include substrate binding proteins to bind substrate external to the cytoplasm and deliver it to the transporter."^^xsd:string,
+        label_with_counts "ATP-binding cassette (ABC) transporter complex - 2438455"^^xsd:string,
+        rdfs:label "ATP-binding cassette (ABC) transporter complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098533,
+        GO_0098797
+    
+    
+Class: GO_0009288
+
+    Annotations: 
+        IAO_0000115 "A motor complex composed of an extracellular helical protein filament coupled to a rotary motor embedded in the cell envelope."^^xsd:string,
+        label_with_counts "bacterial-type flagellum - 7971295"^^xsd:string,
+        rdfs:label "bacterial-type flagellum"^^xsd:string
+    
+    SubClassOf: 
+        GO_0042995,
+        GO_0043228
+    
+    
+Class: GO_0031410
+
+    Annotations: 
+        rdfs:label "cytoplasmic vesicle"^^xsd:string,
+        label_with_counts "cytoplasmic vesicle"^^xsd:string,
+        IAO_0000115 "A vesicle found in the cytoplasm of a cell."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0097708
+    
+    
+Class: GO_0009289
+
+    Annotations: 
+        label_with_counts "pilus - 547306"^^xsd:string,
+        rdfs:label "pilus"^^xsd:string,
+        IAO_0000115 "A proteinaceous hair-like appendage on the surface of bacteria ranging from 2-8 nm in diameter."^^xsd:string
+    
+    SubClassOf: 
+        GO_0042995
+    
+    
+Class: GO_0030684
+
+    Annotations: 
+        label_with_counts "preribosome"^^xsd:string,
+        rdfs:label "preribosome"^^xsd:string,
+        IAO_0000115 "Any complex of pre-rRNAs, ribosomal proteins, and associated proteins formed during ribosome biogenesis."^^xsd:string
+    
+    SubClassOf: 
+        GO_0030529
+    
+    
+Class: GO_0031090
+
+    Annotations: 
+        IAO_0000115 "A membrane that is one of the two lipid bilayers of an organelle envelope or the outermost membrane of single membrane bound organelle."^^xsd:string,
+        label_with_counts "organelle membrane"^^xsd:string,
+        rdfs:label "organelle membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044422,
+        GO_0016020
+    
+    
+Class: GO_0005921
+
+    Annotations: 
+        label_with_counts "gap junction - 70405"^^xsd:string,
+        rdfs:label "gap junction"^^xsd:string,
+        IAO_0000115 "A cell-cell junction that is composed of an array of small channels that permit small molecules to pass from one cell to another. At gap junctions, the membranes of two adjacent cells are separated by a uniform narrow gap of about 2-4 nm that is spanned by channel-forming proteins called connexins, which form hexagonal tubes called connexons."^^xsd:string
+    
+    SubClassOf: 
+        GO_0005911
+    
+    
+Class: GO_0005801
+
+    Annotations: 
+        rdfs:label "cis-Golgi network"^^xsd:string,
+        label_with_counts "cis-Golgi network - 69961"^^xsd:string,
+        IAO_0000115 "The network of interconnected tubular and cisternal structures located at the convex side of the Golgi apparatus, which abuts the endoplasmic reticulum."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043231
+    
+    
+Class: GO_0000139
+
+    Annotations: 
+        rdfs:label "Golgi membrane"^^xsd:string,
+        IAO_0000115 "The lipid bilayer surrounding any of the compartments of the Golgi apparatus."^^xsd:string,
+        label_with_counts "Golgi membrane - 203785"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098588,
+        GO_0044431
+    
+    
+Class: GO_0000015
+
+    Annotations: 
+        label_with_counts "phosphopyruvate hydratase complex - 21336489"^^xsd:string,
+        rdfs:label "phosphopyruvate hydratase complex"^^xsd:string,
+        IAO_0000115 "A multimeric enzyme complex, usually a dimer or an octamer, that catalyzes the conversion of 2-phospho-D-glycerate to phosphoenolpyruvate and water."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044445,
+        GO_1902494
+    
+    
+Class: GO_0019773
+
+    Annotations: 
+        label_with_counts "\"proteasome core complex, alpha-subunit complex\" - 309581"^^xsd:string,
+        rdfs:label "proteasome core complex, alpha-subunit complex"^^xsd:string,
+        IAO_0000115 "The proteasome core subcomplex that constitutes the two outer rings of the proteasome core complex. An example of this component is found in Mus musculus."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044424
+    
+    
+Class: GO_0042651
+
+    Annotations: 
+        rdfs:label "thylakoid membrane"^^xsd:string,
+        IAO_0000115 "The pigmented membrane of any thylakoid."^^xsd:string,
+        label_with_counts "thylakoid membrane - 476819"^^xsd:string
+    
+    SubClassOf: 
+        GO_0034357
+    
+    
+Class: GO_0019898
+
+    Annotations: 
+        rdfs:label "extrinsic component of membrane"^^xsd:string,
+        IAO_0000115 "The component of a membrane consisting of gene products and protein complexes that are loosely bound to one of its surfaces, but not integrated into the hydrophobic region."^^xsd:string,
+        label_with_counts "extrinsic to membrane - 1263677"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044425
+    
+    
+Class: GO_0031515
+
+    Annotations: 
+        label_with_counts "tRNA (m1A) methyltransferase complex - 454028"^^xsd:string,
+        rdfs:label "tRNA (m1A) methyltransferase complex"^^xsd:string,
+        IAO_0000115 "A protein complex involved in the catalysis of the formation of the modified nucleotide 1-methyladenosine (m1A) in tRNA. In yeast, it is a heterotetramer of two subunits, Gcd10p and Gcd14p, while in bacteria and archaea it is a homotetramer."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043527
+    
+    
+Class: GO_0009295
+
+    Annotations: 
+        IAO_0000115 "The region of a virus, bacterial cell, mitochondrion or chloroplast to which the nucleic acid is confined."^^xsd:string,
+        rdfs:label "nucleoid"^^xsd:string,
+        label_with_counts "nucleoid - 264315"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0044391
+
+    Annotations: 
+        rdfs:label "ribosomal subunit"^^xsd:string,
+        label_with_counts "ribosomal subunit"^^xsd:string,
+        IAO_0000115 "Either of the two subunits of a ribosome: the ribosomal large subunit or the ribosomal small subunit."^^xsd:string
+    
+    SubClassOf: 
+        GO_0030529,
+        GO_0044444,
+        GO_0044446
+    
+    
+Class: GO_1902494
+
+    Annotations: 
+        IAO_0000115 "A protein complex which is capable of catalytic activity."^^xsd:string,
+        rdfs:label "catalytic complex"^^xsd:string,
+        label_with_counts "catalytic complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234
+    
+    
+Class: GO_1902495
+
+    Annotations: 
+        label_with_counts "transmembrane transporter complex"^^xsd:string,
+        rdfs:label "transmembrane transporter complex"^^xsd:string,
+        IAO_0000115 "A transmembrane protein complex which enables the transfer of a substance from one side of a membrane to the other."^^xsd:string
+    
+    SubClassOf: 
+        GO_1990351,
+        GO_0098796
+    
+    
+Class: GO_0017119
+
+    Annotations: 
+        IAO_0000115 "A complex of proteins that, in vitro, stimulates intra-Golgi transport; a 13S complex, about 800 kDa in size and consists of at least five polypeptides. In yeast, this complex is called the Sec34/35 complex and is composed of eight subunits (Sec34p, Sec35p, Dor1p, Cod1p, Cod2p, Cod3p, Cod4p, and Cod5p)."^^xsd:string,
+        rdfs:label "Golgi transport complex"^^xsd:string,
+        label_with_counts "Golgi transport complex - 119732"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044431,
+        GO_0043234
+    
+    
+Class: GO_0000808
+
+    Annotations: 
+        IAO_0000115 "A multisubunit complex that is located at the replication origins of a chromosome."^^xsd:string,
+        rdfs:label "origin recognition complex"^^xsd:string,
+        label_with_counts "origin recognition complex - 68543"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044427
+    
+    
+Class: GO_0034357
+
+    Annotations: 
+        label_with_counts "photosynthetic membrane"^^xsd:string,
+        rdfs:label "photosynthetic membrane"^^xsd:string,
+        IAO_0000115 "A membrane enriched in complexes formed of reaction centers, accessory pigments and electron carriers, in which photosynthetic reactions take place."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044436,
+        GO_0016020
+    
+    
+Class: GO_0042765
+
+    Annotations: 
+        label_with_counts "GPI-anchor transamidase complex - 117440"^^xsd:string,
+        IAO_0000115 "An enzyme complex which in humans and yeast consists of at least five proteins; for example, the complex contains GAA1, GPI8, PIG-S, PIG-U, and PIG-T in human, and Gaa1p, Gab1p, Gpi8p, Gpi16p, and Gpi17p in yeast. Catalyzes the posttranslational attachment of the carboxyl-terminus of a precursor protein to a GPI-anchor."^^xsd:string,
+        rdfs:label "GPI-anchor transamidase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044432,
+        GO_1902494,
+        GO_0098796
+    
+    
+Class: GO_0016023
+
+    Annotations: 
+        rdfs:label "cytoplasmic, membrane-bounded vesicle"^^xsd:string,
+        label_with_counts "cytoplasmic, membrane-bounded vesicle"^^xsd:string,
+        IAO_0000115 "A membrane-bounded vesicle found in the cytoplasm of the cell."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043231,
+        GO_0031410,
+        GO_0031988
+    
+    
+Class: GO_0016021
+
+    Annotations: 
+        label_with_counts "integral to membrane - 298943394"^^xsd:string,
+        IAO_0000115 "The component of a membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane."^^xsd:string,
+        rdfs:label "integral component of membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031224
+    
+    
+Class: GO_0016020
+
+    Annotations: 
+        label_with_counts "membrane - 664054323"^^xsd:string,
+        IAO_0000115 "A lipid bilayer along with all the proteins and protein complexes embedded in it an attached to it."^^xsd:string,
+        rdfs:label "membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0000922
+
+    Annotations: 
+        rdfs:label "spindle pole"^^xsd:string,
+        IAO_0000115 "Either of the ends of a spindle, where spindle microtubules are organized; usually contains a microtubule organizing center and accessory molecules, spindle microtubules and astral microtubules."^^xsd:string,
+        label_with_counts "spindle pole - 122440"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044430
+    
+    
+Class: GO_0048786
+
+    Annotations: 
+        IAO_0000115 "A specialized region of the plasma membrane and cell cortex of a presynaptic neuron; encompasses a region of the plasma membrane where synaptic vesicles dock and fuse, and a specialized cortical cytoskeletal matrix."^^xsd:string,
+        rdfs:label "presynaptic active zone"^^xsd:string,
+        label_with_counts "presynaptic active zone - 40424"^^xsd:string
+    
+    SubClassOf: 
+        GO_0097458,
+        GO_0044456
+    
+    
+Class: GO_0045275
+
+    Annotations: 
+        rdfs:label "respiratory chain complex III"^^xsd:string,
+        IAO_0000115 "A protein complex that transfers electrons from ubiquinol to cytochrome c and translocates two protons across a membrane. The complex contains a core structure of three catalytic subunits: cytochrome b, the Rieske iron sulfur protein (ISP), and cytochrome c1, which are arranged in an integral membrane-bound dimeric complex; additional subunits are present, and vary among different species."^^xsd:string,
+        label_with_counts "respiratory chain complex III"^^xsd:string
+    
+    SubClassOf: 
+        GO_1902495,
+        GO_0070069,
+        GO_0098803,
+        GO_0044424,
+        GO_1990204
+    
+    
+Class: GO_0005815
+
+    Annotations: 
+        label_with_counts "microtubule organizing center - 138518"^^xsd:string,
+        rdfs:label "microtubule organizing center"^^xsd:string,
+        IAO_0000115 "An intracellular structure that can catalyze gamma-tubulin-dependent microtubule nucleation and that can anchor microtubules by interacting with their minus ends, plus ends or sides."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044430
+    
+    
+Class: GO_0098800
+
+    Annotations: 
+        IAO_0000115 "Any protein complex that is part of the inner mitochondrial membrane."^^xsd:string,
+        rdfs:label "inner mitochondrial membrane protein complex"^^xsd:string,
+        label_with_counts "inner mitochondrial membrane protein complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098798,
+        GO_0044455,
+        GO_0098796
+    
+    
+Class: GO_0071203
+
+    Annotations: 
+        rdfs:label "WASH complex"^^xsd:string,
+        IAO_0000115 "A protein complex that localizes at the surface of endosomes, where it recruits and activates the Arp2/3 complex to induce actin polymerization. In human, the WASH complex is composed of F-actin-capping protein subunits alpha and beta, WASH1, FAM21, KIAA1033, KIAA0196 and CCDC53."^^xsd:string,
+        label_with_counts "WASH complex - 204974"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044444
+    
+    
+Class: GO_0005819
+
+    Annotations: 
+        label_with_counts "spindle"^^xsd:string,
+        rdfs:label "spindle"^^xsd:string,
+        IAO_0000115 "The array of microtubules and associated molecules that forms between opposite poles of a eukaryotic cell during mitosis or meiosis and serves to move the duplicated chromosomes apart."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044430,
+        GO_0043232
+    
+    
+Class: GO_0098803
+
+    Annotations: 
+        label_with_counts "respiratory chain complex"^^xsd:string,
+        IAO_0000115 "Any protein complex that is part of a respiratory chain"^^xsd:string,
+        rdfs:label "respiratory chain complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098796
+    
+    
+Class: GO_0098805
+
+    Annotations: 
+        rdfs:label "whole membrane"^^xsd:string,
+        IAO_0000115 "Any lipid bilayer that completely encloses some structure, and all the proteins embedded in it or attached to it.  Examples include the plasma membrane and most organelle membranes."^^xsd:string,
+        label_with_counts "whole membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0016020
+    
+    
+Class: GO_0031301
+
+    Annotations: 
+        rdfs:label "integral component of organelle membrane"^^xsd:string,
+        IAO_0000115 "The component of the organelle membrane consisting of the gene products having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane."^^xsd:string,
+        label_with_counts "integral component of organelle membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031300,
+        GO_0016021
+    
+    
+Class: GO_0033177
+
+    Annotations: 
+        IAO_0000115 "A protein complex that forms part of a proton-transporting two-sector ATPase complex and carries out proton transport across a membrane. The proton-transporting domain (F0, V0, or A0) includes integral and peripheral membrane proteins."^^xsd:string,
+        rdfs:label "proton-transporting two-sector ATPase complex, proton-transporting domain"^^xsd:string,
+        label_with_counts "\"proton-transporting two-sector ATPase complex, proton-transporting domain\" - 3688901"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098796
+    
+    
+Class: GO_0033179
+
+    Annotations: 
+        IAO_0000115 "A protein complex that forms part of a proton-transporting V-type ATPase and mediates proton transport across a membrane. The V0 complex consists of at least four different subunits (a,c,d and e); six or more c subunits form a proton-binding rotor ring."^^xsd:string,
+        label_with_counts "\"proton-transporting V-type ATPase, V0 domain\" - 1218074"^^xsd:string,
+        rdfs:label "proton-transporting V-type ATPase, V0 domain"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033177
+    
+    
+Class: GO_0033178
+
+    Annotations: 
+        IAO_0000115 "A protein complex that forms part of a proton-transporting two-sector ATPase complex and catalyzes ATP hydrolysis or synthesis. The catalytic domain (F1, V1, or A1) comprises a hexameric catalytic core and a central stalk, and is peripherally associated with the membrane when the two-sector ATPase is assembled."^^xsd:string,
+        label_with_counts "\"proton-transporting two-sector ATPase complex, catalytic domain\" - 8246581"^^xsd:string,
+        rdfs:label "proton-transporting two-sector ATPase complex, catalytic domain"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098796
+    
+    
+Class: GO_0042555
+
+    Annotations: 
+        IAO_0000115 "A hexameric protein complex required for the initiation and regulation of DNA replication."^^xsd:string,
+        rdfs:label "MCM complex"^^xsd:string,
+        label_with_counts "MCM complex - 45783"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234
+    
+    
+Class: GO_0008537
+
+    Annotations: 
+        rdfs:label "proteasome activator complex"^^xsd:string,
+        label_with_counts "proteasome activator complex - 50396"^^xsd:string,
+        IAO_0000115 "A multisubunit complex that activates the hydrolysis of small nonubiquitinated peptides by binding to the proteasome core complex."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044424
+    
+    
+Class: GO_0005940
+
+    Annotations: 
+        IAO_0000115 "A tight ring-shaped structure that forms in the division plane at the site of cytokinesis; composed of members of the conserved family of filament-forming proteins called septins as well as septin-associated proteins. This type of septin structure is observed at the bud neck of budding fungal cells, at the site of cell division in animal cells, at the junction between the mother cell and a pseudohyphal projection, and also within hyphae of filamentous fungi at sites where a septum will form."^^xsd:string,
+        rdfs:label "septin ring"^^xsd:string,
+        label_with_counts "septin ring - 201622"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044430,
+        GO_0032156,
+        GO_0044448
+    
+    
+Class: GO_0016272
+
+    Annotations: 
+        IAO_0000115 "A multisubunit chaperone that is capable of delivering unfolded proteins to cytosolic chaperonin, which it acts as a cofactor for. In humans, the complex is a heterohexamer of two PFD-alpha and four PFD-beta type subunits. In Saccharomyces cerevisiae, it also acts in the nucleus to regulate the rate of elongation by RNA polymerase II via a direct effect on histone dynamics."^^xsd:string,
+        rdfs:label "prefoldin complex"^^xsd:string,
+        label_with_counts "prefoldin complex - 255965"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234
+    
+    
+Class: GO_0043527
+
+    Annotations: 
+        label_with_counts "tRNA methyltransferase complex"^^xsd:string,
+        IAO_0000115 "A multimeric protein complex involved in the methylation of specific nucleotides in tRNA."^^xsd:string,
+        rdfs:label "tRNA methyltransferase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0034708,
+        GO_0044444
+    
+    
+Class: GO_0009507
+
+    Annotations: 
+        IAO_0000115 "A chlorophyll-containing plastid with thylakoids organized into grana and frets, or stroma thylakoids, and embedded in a stroma."^^xsd:string,
+        rdfs:label "chloroplast"^^xsd:string,
+        label_with_counts "chloroplast - 132882"^^xsd:string
+    
+    SubClassOf: 
+        GO_0009536
+    
+    
+Class: GO_0045263
+
+    Annotations: 
+        rdfs:label "proton-transporting ATP synthase complex, coupling factor F(o)"^^xsd:string,
+        IAO_0000115 "All non-F1 subunits of a hydrogen-transporting ATP synthase, including integral and peripheral membrane proteins."^^xsd:string,
+        label_with_counts "\"proton-transporting ATP synthase complex, coupling factor F(o)\" - 16068841"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033177,
+        GO_0044424
+    
+    
+Class: GO_0005829
+
+    Annotations: 
+        IAO_0000115 "The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes."^^xsd:string,
+        rdfs:label "cytosol"^^xsd:string,
+        label_with_counts "cytosol - 157994"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444
+    
+    
+Class: GO_0015629
+
+    Annotations: 
+        IAO_0000115 "The part of the cytoskeleton (the internal framework of a cell) composed of actin and associated proteins. Includes actin cytoskeleton-associated complexes."^^xsd:string,
+        label_with_counts "actin cytoskeleton - 208086"^^xsd:string,
+        rdfs:label "actin cytoskeleton"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005856
+    
+    
+Class: GO_0045261
+
+    Annotations: 
+        label_with_counts "\"proton-transporting ATP synthase complex, catalytic core F(1)\" - 15496535"^^xsd:string,
+        IAO_0000115 "The sector of a hydrogen-transporting ATP synthase complex in which the catalytic activity resides; it comprises the catalytic core and central stalk, and is peripherally associated with a membrane, such as the plasma membrane or the mitochondrial inner membrane, when the entire ATP synthase is assembled."^^xsd:string,
+        rdfs:label "proton-transporting ATP synthase complex, catalytic core F(1)"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033178,
+        GO_0044424
+    
+    
+Class: GO_0015627
+
+    Annotations: 
+        rdfs:label "type II protein secretion system complex"^^xsd:string,
+        label_with_counts "type II protein secretion system complex - 833347"^^xsd:string,
+        IAO_0000115 "A large protein complex, containing 12-15 subunits, that spans the cell envelope of Gram-negative bacteria and mediates the movement of proteins into the extracellular environment. The complex includes a component in the cytoplasm, an inner membrane subcomplex that reaches into the periplasmic compartment and a secretion pore in the outer membrane. Proteins using the Type II pathway are transported across the cytoplasmic membrane by the Sec or Tat complex."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464,
+        GO_0043234
+    
+    
+Class: GO_0032991
+
+    Annotations: 
+        rdfs:label "macromolecular complex"^^xsd:string,
+        label_with_counts "macromolecular complex"^^xsd:string,
+        IAO_0000115 "A stable assembly of two or more macromolecules, i.e. proteins, nucleic acids, carbohydrates or lipids, in which the constituent parts function together."^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0009512
+
+    Annotations: 
+        rdfs:label "cytochrome b6f complex"^^xsd:string,
+        label_with_counts "cytochrome b6f complex - 440513"^^xsd:string,
+        IAO_0000115 "Complex that transfers electrons from reduced plastoquinone to oxidized plastocyanin and translocates protons from the stroma to the lumen. The complex contains a core structure of three catalytic subunits: cytochrome b, the Rieske iron sulfur protein (ISP), and cytochrome f, which are arranged in an integral membrane-bound dimeric complex; additional subunits are present, and vary among different species."^^xsd:string
+    
+    SubClassOf: 
+        GO_0070069,
+        GO_0044436
+    
+    
+Class: GO_0031300
+
+    Annotations: 
+        IAO_0000115 "The component of the organelle membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor that is similarly embedded in the membrane."^^xsd:string,
+        rdfs:label "intrinsic component of organelle membrane"^^xsd:string,
+        label_with_counts "intrinsic component of organelle membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044422,
+        GO_0031224
+    
+    
+Class: GO_0030694
+
+    Annotations: 
+        label_with_counts "\"bacterial-type flagellum basal body, rod\" - 244567"^^xsd:string,
+        IAO_0000115 "The central portion of the flagellar basal body, which spans the periplasm and threads through the rings. Examples of this component are found in Bacterial species."^^xsd:string,
+        rdfs:label "bacterial-type flagellum basal body, rod"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044461
+    
+    
+Class: GO_0032993
+
+    Annotations: 
+        rdfs:label "protein-DNA complex"^^xsd:string,
+        label_with_counts "protein-DNA complex"^^xsd:string,
+        IAO_0000115 "A macromolecular complex containing both protein and DNA molecules."^^xsd:string
+    
+    SubClassOf: 
+        GO_0032991
+    
+    
+Class: GO_0005952
+
+    Annotations: 
+        rdfs:label "cAMP-dependent protein kinase complex"^^xsd:string,
+        label_with_counts "cAMP-dependent protein kinase complex - 212116"^^xsd:string,
+        IAO_0000115 "An enzyme complex, composed of regulatory and catalytic subunits, that catalyzes protein phosphorylation. Inactive forms of the enzyme have two regulatory chains and two catalytic chains; activation by cAMP produces two active catalytic monomers and a regulatory dimer."^^xsd:string
+    
+    SubClassOf: 
+        GO_1902554,
+        GO_0044424
+    
+    
+Class: GO_0000228
+
+    Annotations: 
+        IAO_0000115 "A chromosome that encodes the nuclear genome and is found in the nucleus of a eukaryotic cell during the cell cycle phases when the nucleus is intact."^^xsd:string,
+        label_with_counts "nuclear chromosome - 81149"^^xsd:string,
+        rdfs:label "nuclear chromosome"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005694,
+        GO_0044428
+    
+    
+Class: GO_0005834
+
+    Annotations: 
+        IAO_0000115 "Any of a family of heterotrimeric GTP-binding and hydrolyzing proteins; they belong to a superfamily of GTPases that includes monomeric proteins such as EF-Tu and RAS. Heterotrimeric G-proteins consist of three subunits; the alpha subunit contains the guanine nucleotide binding site and possesses GTPase activity; the beta and gamma subunits are tightly associated and function as a beta-gamma heterodimer; extrinsic plasma membrane proteins (cytoplasmic face) that function as a complex to transduce signals from G-protein coupled receptors to an effector protein."^^xsd:string,
+        rdfs:label "heterotrimeric G-protein complex"^^xsd:string,
+        label_with_counts "heterotrimeric G-protein complex - 46339"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098797,
+        GO_0044424,
+        GO_1902494
+    
+    
+Class: GO_0005956
+
+    Annotations: 
+        label_with_counts "protein kinase CK2 complex - 161233"^^xsd:string,
+        rdfs:label "protein kinase CK2 complex"^^xsd:string,
+        IAO_0000115 "A protein complex that possesses protein serine/threonine kinase activity, and contains two catalytic alpha subunits and two regulatory beta subunits. Protein kinase CK2 complexes are found in nearly every subcellular compartment, and can phosphorylate many protein substrates in addition to casein."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044424
+    
+    
+Class: GO_0005835
+
+    Annotations: 
+        IAO_0000115 "A multienzyme complex that catalyses the synthesis of fatty acids from acetyl CoA."^^xsd:string,
+        rdfs:label "fatty acid synthase complex"^^xsd:string,
+        label_with_counts "fatty acid synthase complex - 180334"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044445
+    
+    
+Class: GO_0005839
+
+    Annotations: 
+        rdfs:label "proteasome core complex"^^xsd:string,
+        IAO_0000115 "A multisubunit barrel shaped endoprotease complex, which is the core of the proteasome complex."^^xsd:string,
+        label_with_counts "proteasome core complex - 2866906"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044424
+    
+    
+Class: GO_0000221
+
+    Annotations: 
+        label_with_counts "\"vacuolar proton-transporting V-type ATPase, V1 domain\" - 93591"^^xsd:string,
+        IAO_0000115 "The V1 domain of a proton-transporting V-type ATPase found in the vacuolar membrane."^^xsd:string,
+        rdfs:label "vacuolar proton-transporting V-type ATPase, V1 domain"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044437,
+        GO_0033180
+    
+    
+Class: GO_0030117
+
+    Annotations: 
+        rdfs:label "membrane coat"^^xsd:string,
+        IAO_0000115 "Any of several different proteinaceous coats that can associate with membranes. Membrane coats include those formed by clathrin plus an adaptor complex, the COPI and COPII complexes, and possibly others. They are found associated with membranes on many vesicles as well as other membrane features such as pits and perhaps tubules."^^xsd:string,
+        label_with_counts "membrane coat - 804762"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0098796
+    
+    
+Class: GO_0030118
+
+    Annotations: 
+        IAO_0000115 "A membrane coat found on coated pits and some coated vesicles; consists of polymerized clathrin triskelions, each comprising three clathrin heavy chains and three clathrin light chains, linked to the membrane via one of the AP adaptor complexes."^^xsd:string,
+        rdfs:label "clathrin coat"^^xsd:string,
+        label_with_counts "clathrin coat"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030117
+    
+    
+Class: GO_0030119
+
+    Annotations: 
+        label_with_counts "AP-type membrane coat adaptor complex"^^xsd:string,
+        rdfs:label "AP-type membrane coat adaptor complex"^^xsd:string,
+        IAO_0000115 "Any of several heterotetrameric complexes that link clathrin (or another coat-forming molecule, as hypothesized for AP-3 and AP-4) to a membrane surface; they are found on coated pits and coated vesicles, and mediate sorting of cargo proteins into vesicles. Each AP complex contains two large (a beta and one of either an alpha, gamma, delta, or epsilon) subunits (110-130 kDa), a medium (mu) subunit (approximately 50 kDa), and a small (sigma) subunit (15-20 kDa)."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0098796
+    
+    
+Class: GO_0042579
+
+    Annotations: 
+        rdfs:label "microbody"^^xsd:string,
+        label_with_counts "microbody"^^xsd:string,
+        IAO_0000115 "Cytoplasmic organelles, spherical or oval in shape, that are bounded by a single membrane and contain oxidative enzymes, especially those utilizing hydrogen peroxide (H2O2)."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043231,
+        GO_0044444
+    
+    
+Class: GO_0030120
+
+    Annotations: 
+        label_with_counts "vesicle coat"^^xsd:string,
+        rdfs:label "vesicle coat"^^xsd:string,
+        IAO_0000115 "A membrane coat found on a coated vesicle."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044433,
+        GO_0030117
+    
+    
+Class: GO_0009522
+
+    Annotations: 
+        label_with_counts "photosystem I - 10014278"^^xsd:string,
+        rdfs:label "photosystem I"^^xsd:string,
+        IAO_0000115 "A photosystem that contains an iron-sulfur reaction center associated with accessory pigments and electron carriers. In cyanobacteria and chloroplasts, photosystem I functions as a light-dependent plastocyanin-ferredoxin oxidoreductase, transferring electrons from plastocyanin to ferredoxin; in photosynthetic bacteria that have only a single type I photosystem, such as the green sulfur bacteria, electrons can go either to ferredoxin (Fd) -> NAD+ or to menaquinone (MK) -> Cytb/FeS -> Cytc555 -> photosystem I (cyclic photophosphorylation)."^^xsd:string
+    
+    SubClassOf: 
+        GO_0009521
+    
+    
+Class: GO_0009523
+
+    Annotations: 
+        rdfs:label "photosystem II"^^xsd:string,
+        label_with_counts "photosystem II - 4943109"^^xsd:string,
+        IAO_0000115 "A photosystem that contains a pheophytin-quinone reaction center with associated accessory pigments and electron carriers. In cyanobacteria and chloroplasts, in the presence of light, PSII functions as a water-plastoquinone oxidoreductase, transferring electrons from water to plastoquinone, whereas other photosynthetic bacteria carry out anoxygenic photosynthesis and oxidize other compounds to re-reduce the photoreaction center."^^xsd:string
+    
+    SubClassOf: 
+        GO_0009521
+    
+    
+Class: GO_0009521
+
+    Annotations: 
+        IAO_0000115 "A complex located in a photosynthetic membrane that consists of a photoreaction center associated with accessory pigments and electron carriers. Examples of this component are found in Arabidopsis thaliana and in photosynthetic bacterial and archaeal species."^^xsd:string,
+        label_with_counts "photosystem - 5276830"^^xsd:string,
+        rdfs:label "photosystem"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044436,
+        GO_0098796
+    
+    
+Class: GO_0005840
+
+    Annotations: 
+        rdfs:label "ribosome"^^xsd:string,
+        label_with_counts "ribosome - 235158024"^^xsd:string,
+        IAO_0000115 "An intracellular organelle, about 200 A in diameter, consisting of RNA and protein. It is the site of protein biosynthesis resulting from translation of messenger RNA (mRNA). It consists of two subunits, one large and one small, each containing only protein and RNA. Both the ribosome and its subunits are characterized by their sedimentation coefficients, expressed in Svedberg units (symbol: S). Hence, the prokaryotic ribosome (70S) comprises a large (50S) subunit and a small (30S) subunit, while the eukaryotic ribosome (80S) comprises a large (60S) subunit and a small (40S) subunit. Two sites on the ribosomal large subunit are involved in translation, namely the aminoacyl site (A site) and peptidyl site (P site). Ribosomes from prokaryotes, eukaryotes, mitochondria, and chloroplasts have characteristically distinct ribosomal proteins."^^xsd:string
+    
+    SubClassOf: 
+        GO_0030529,
+        GO_0043232,
+        GO_0044444
+    
+    
+Class: GO_0005727
+
+    Annotations: 
+        IAO_0000115 "Circular DNA structures that are not part of a chromosome."^^xsd:string,
+        rdfs:label "extrachromosomal circular DNA"^^xsd:string,
+        label_with_counts "extrachromosomal circular DNA - 6847259"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424
+    
+    
+Class: GO_0030904
+
+    Annotations: 
+        rdfs:label "retromer complex"^^xsd:string,
+        label_with_counts "retromer complex - 318059"^^xsd:string,
+        IAO_0000115 "A conserved hetero-pentameric membrane-associated complex involved in retrograde transport from endosomes to the Golgi apparatus. The budding yeast retromer comprises Vps35p, Vps29p, Vps26p, Vps5p, and Vps17p. The mammalian complex shows slight variation in composition compared to yeast, and comprises SNX1 or SNX2, SNX5 or SNX6, VPS26A or VPS26B, VPS29, and VPS35."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464,
+        GO_0098796
+    
+    
+Class: GO_0034708
+
+    Annotations: 
+        IAO_0000115 "A protein complex that possesses methyltransferase activity."^^xsd:string,
+        label_with_counts "methyltransferase complex"^^xsd:string,
+        rdfs:label "methyltransferase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1990234,
+        GO_0044424
+    
+    
+Class: GO_0042575
+
+    Annotations: 
+        rdfs:label "DNA polymerase complex"^^xsd:string,
+        label_with_counts "DNA polymerase complex"^^xsd:string,
+        IAO_0000115 "A protein complex that possesses DNA polymerase activity and is involved in template directed synthesis of DNA."^^xsd:string
+    
+    SubClassOf: 
+        GO_0061695,
+        GO_0044424
+    
+    
+Class: GO_0045281
+
+    Annotations: 
+        rdfs:label "succinate dehydrogenase complex"^^xsd:string,
+        IAO_0000115 "A multimeric complex which consists of flavoprotein (subunit A ; InterPro:IPR003952), iron-sulfur protein (subunit B) and membrane-bound cytochrome b560 (subunit C; InterPro:IPR000701). In some Archaea, the membrane-bound subunits (C or C and D) do not necessarily contain heme. Membrane-bound subunits can bind or react with quinones."^^xsd:string,
+        label_with_counts "succinate dehydrogenase complex - 252215"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098803,
+        GO_0044424,
+        GO_1990204
+    
+    
+Class: GO_0036338
+
+    Annotations: 
+        label_with_counts "viral membrane"^^xsd:string,
+        rdfs:label "viral membrane"^^xsd:string,
+        IAO_0000115 "The lipid bilayer of a virion, a complete fully infectious extracellular virus particle."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044423
+    
+    
+Class: GO_0009654
+
+    Annotations: 
+        IAO_0000115 "A complex, composed of a cluster of manganese, calcium and chloride ions bound to extrinsic proteins, that catalyzes the splitting of water to O2 and 4 H+. In cyanobacteria there are five extrinsic proteins in OEC (PsbO, PsbP-like, PsbQ-like, PsbU and PsbV), while in plants there are only three (PsbO, PsbP and PsbQ)."^^xsd:string,
+        rdfs:label "photosystem II oxygen evolving complex"^^xsd:string,
+        label_with_counts "oxygen evolving complex - 1664062"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044436,
+        GO_0098796,
+        GO_1990204
+    
+    
+Class: GO_0005850
+
+    Annotations: 
+        label_with_counts "eukaryotic translation initiation factor 2 complex - 234532"^^xsd:string,
+        IAO_0000115 "Complex of three heterogeneous polypeptide chains, that form a ternary complex with initiator methionyl-tRNA and GTP. This ternary complex binds to free 40S subunit, which subsequently binds the 5' end of mRNA."^^xsd:string,
+        rdfs:label "eukaryotic translation initiation factor 2 complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044444
+    
+    
+Class: GO_0005730
+
+    Annotations: 
+        IAO_0000115 "A small, dense body one or more of which are present in the nucleus of eukaryotic cells. It is rich in RNA and protein, is not bounded by a limiting membrane, and is not seen during mitosis. Its prime function is the transcription of the nucleolar DNA into 45S ribosomal-precursor RNA, the processing of this RNA into 5.8S, 18S, and 28S components of ribosomal RNA, and the association of these components with 5S RNA and proteins synthesized outside the nucleolus. This association results in the formation of ribonucleoprotein precursors; these pass into the cytoplasm and mature into the 40S and 60S subunits of the ribosome."^^xsd:string,
+        rdfs:label "nucleolus"^^xsd:string,
+        label_with_counts "nucleolus - 113456"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043232,
+        GO_0044428
+    
+    
+Class: GO_0009538
+
+    Annotations: 
+        IAO_0000115 "A photochemical system containing P700, the chlorophyll a dimer that functions as a primary electron donor. Functioning as a light-dependent plastocyanin-ferredoxin oxidoreductase, it transfers electrons from plastocyanin to ferredoxin."^^xsd:string,
+        label_with_counts "photosystem I reaction center - 2146001"^^xsd:string,
+        rdfs:label "photosystem I reaction center"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044436,
+        GO_0098796
+    
+    
+Class: GO_0009898
+
+    Annotations: 
+        IAO_0000115 "The leaflet the plasma membrane that faces the cytoplasm and any proteins embedded or anchored in it or attached to its surface."^^xsd:string,
+        label_with_counts "internal side of plasma membrane - 67350"^^xsd:string,
+        rdfs:label "cytoplasmic side of plasma membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044459,
+        GO_0098562
+    
+    
+Class: GO_0033180
+
+    Annotations: 
+        label_with_counts "\"proton-transporting V-type ATPase, V1 domain\" - 84070"^^xsd:string,
+        IAO_0000115 "A protein complex that forms part of a proton-transporting V-type ATPase and catalyzes ATP hydrolysis. The V1 complex consists of: (1) a globular headpiece with three alternating copies of subunits A and B that form a ring, (2) a central rotational stalk composed of single copies of subunits D and F, and (3) a peripheral stalk made of subunits C, E, G and H. Subunits A and B mediate the hydrolysis of ATP at three reaction sites associated with subunit A."^^xsd:string,
+        rdfs:label "proton-transporting V-type ATPase, V1 domain"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033178
+    
+    
+Class: GO_0005852
+
+    Annotations: 
+        IAO_0000115 "A complex of several polypeptides that plays at least two important roles in protein synthesis: First, eIF3 binds to the 40S ribosome and facilitates loading of the Met-tRNA/eIF2.GTP ternary complex to form the 43S preinitiation complex. Subsequently, eIF3 apparently assists eIF4 in recruiting mRNAs to the 43S complex. The eIF3 complex contains five conserved core subunits, and may contain several additional proteins; the non-core subunits are thought to mediate association of the complex with specific sets of mRNAs."^^xsd:string,
+        label_with_counts "eukaryotic translation initiation factor 3 complex - 390144"^^xsd:string,
+        rdfs:label "eukaryotic translation initiation factor 3 complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0043234
+    
+    
+Class: GO_0005732
+
+    Annotations: 
+        rdfs:label "small nucleolar ribonucleoprotein complex"^^xsd:string,
+        IAO_0000115 "A ribonucleoprotein complex that contains an RNA molecule of the small nucleolar RNA (snoRNA) family and associated proteins. Most are involved in a step of processing of rRNA: cleavage, 2'-O-methylation, or pseudouridylation. The majority, though not all, fall into one of two classes, box C/D type or box H/ACA type."^^xsd:string,
+        label_with_counts "small nucleolar ribonucleoprotein complex - 59888"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030529
+    
+    
+Class: GO_0009536
+
+    Annotations: 
+        label_with_counts "plastid"^^xsd:string,
+        IAO_0000115 "Any member of a family of organelles found in the cytoplasm of plants and some protists, which are membrane-bounded and contain DNA. Plant plastids develop from a common type, the proplastid."^^xsd:string,
+        rdfs:label "plastid"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043231,
+        GO_0044444
+    
+    
+Class: GO_0005853
+
+    Annotations: 
+        rdfs:label "eukaryotic translation elongation factor 1 complex"^^xsd:string,
+        label_with_counts "eukaryotic translation elongation factor 1 complex - 209295"^^xsd:string,
+        IAO_0000115 "A multisubunit nucleotide exchange complex that binds GTP and aminoacyl-tRNAs, and catalyzes their codon-dependent placement at the A-site of the ribosome. In humans, the complex is composed of four subunits, alpha, beta, delta and gamma."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044444
+    
+    
+Class: GO_0005856
+
+    Annotations: 
+        rdfs:label "cytoskeleton"^^xsd:string,
+        label_with_counts "cytoskeleton - 346515"^^xsd:string,
+        IAO_0000115 "Any of the various filamentous elements that form the internal framework of cells, and typically remain after treatment of the cells with mild detergent to remove membrane constituents and soluble components of the cytoplasm. The term embraces intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043232
+    
+    
+Class: GO_0009539
+
+    Annotations: 
+        IAO_0000115 "An integral membrane complex containing P680, the chlorophyll a molecule that functions as a primary electron donor. In the light, functioning as a water-plastoquinone oxidoreductase, it transfers electrons from water to plastoquinone."^^xsd:string,
+        label_with_counts "photosystem II reaction center - 1653117"^^xsd:string,
+        rdfs:label "photosystem II reaction center"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044436,
+        GO_0098796
+    
+    
+Class: GO_0005615
+
+    Annotations: 
+        IAO_0000115 "That part of a multicellular organism outside the cells proper, usually taken to be outside the plasma membranes, and occupied by fluid."^^xsd:string,
+        label_with_counts "extracellular space - 540849"^^xsd:string,
+        rdfs:label "extracellular space"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044421
+    
+    
+Class: GO_1990234
+
+    Annotations: 
+        label_with_counts "transferase complex"^^xsd:string,
+        IAO_0000115 "A protein complex capable of catalyzing the transfer of a group, e.g. a methyl group, glycosyl group, acyl group, phosphorus-containing, or other groups, from one compound (generally regarded as the donor) to another compound (generally regarded as the acceptor)."^^xsd:string,
+        rdfs:label "transferase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1902494
+    
+    
+Class: GO_0098687
+
+    Annotations: 
+        rdfs:label "chromosomal region"^^xsd:string,
+        label_with_counts "chromosomal region"^^xsd:string,
+        IAO_0000115 "Any subdivision of a chromosome along its length."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044427
+    
+    
+Class: GO_0005737
+
+    Annotations: 
+        label_with_counts "cytoplasm - 184043474"^^xsd:string,
+        rdfs:label "cytoplasm"^^xsd:string,
+        IAO_0000115 "All of the contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424
+    
+    
+Class: GO_0005739
+
+    Annotations: 
+        IAO_0000115 "A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration."^^xsd:string,
+        rdfs:label "mitochondrion"^^xsd:string,
+        label_with_counts "mitochondrion - 291758"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043231,
+        GO_0044444
+    
+    
+Class: GO_0005618
+
+    Annotations: 
+        rdfs:label "cell wall"^^xsd:string,
+        IAO_0000115 "The rigid or semi-rigid envelope lying outside the cell membrane of plant, fungal, most prokaryotic cells and some protozoan parasites, maintaining their shape and protecting them from osmotic lysis. In plants it is made of cellulose and, often, lignin; in fungi it is composed largely of polysaccharides; in bacteria it is composed of peptidoglycan; in protozoan parasites such as Giardia species, it's made of carbohydrates and proteins."^^xsd:string,
+        label_with_counts "cell wall - 3540590"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030312
+    
+    
+Class: GO_1990351
+
+    Annotations: 
+        IAO_0000115 "A protein complex facilitating transport of molecules (proteins, small molecules, nucleic acids) into, out of or within a cell, or between cells."^^xsd:string,
+        rdfs:label "transporter complex"^^xsd:string,
+        label_with_counts "transporter complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234
+    
+    
+Class: GO_0044421
+
+    Annotations: 
+        label_with_counts "extracellular region part"^^xsd:string,
+        IAO_0000115 "Any constituent part of the extracellular region, the space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers constituent parts of the host cell environment outside an intracellular parasite."^^xsd:string,
+        rdfs:label "extracellular region part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0044422
+
+    Annotations: 
+        label_with_counts "organelle part"^^xsd:string,
+        IAO_0000115 "Any constituent part of an organelle, an organized structure of distinctive morphology and function. Includes constituent parts of the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton, but excludes the plasma membrane."^^xsd:string,
+        rdfs:label "organelle part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0044423
+
+    Annotations: 
+        label_with_counts "virion part"^^xsd:string,
+        rdfs:label "virion part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a virion, a complete fully infectious extracellular virus particle."^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0030135
+
+    Annotations: 
+        rdfs:label "coated vesicle"^^xsd:string,
+        IAO_0000115 "Small membrane-bounded organelle formed by pinching off of a coated region of membrane. Some coats are made of clathrin, whereas others are made from other proteins."^^xsd:string,
+        label_with_counts "coated vesicle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0016023
+    
+    
+Class: GO_0033646
+
+    Annotations: 
+        IAO_0000115 "Any constituent part of the living contents of a host cell; the matter contained within (but not including) the plasma membrane, usually taken to exclude large vacuoles and masses of secretory or ingested material. In eukaryotes it includes the nucleus and cytoplasm. The host is defined as the larger of the organisms involved in a symbiotic interaction."^^xsd:string,
+        label_with_counts "host intracellular part"^^xsd:string,
+        rdfs:label "host intracellular part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033643
+    
+    
+Class: GO_0030136
+
+    Annotations: 
+        rdfs:label "clathrin-coated vesicle"^^xsd:string,
+        IAO_0000115 "A vesicle with a coat formed of clathrin connected to the membrane via one of the clathrin adaptor complexes."^^xsd:string,
+        label_with_counts "clathrin-coated vesicle - 40481"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030135
+    
+    
+Class: GO_0031224
+
+    Annotations: 
+        rdfs:label "intrinsic component of membrane"^^xsd:string,
+        label_with_counts "intrinsic component of membrane"^^xsd:string,
+        IAO_0000115 "The component of a membrane consisting of the gene products having some covalently attached portion, for example part of a peptide sequence or some other covalently attached group such as a GPI anchor, which spans or is embedded in one or both leaflets of the membrane."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044425
+    
+    
+Class: GO_0033647
+
+    Annotations: 
+        IAO_0000115 "Organized structure of distinctive morphology and function, occurring within the host cell. Includes the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton. Excludes the plasma membrane. The host is defined as the larger of the organisms involved in a symbiotic interaction."^^xsd:string,
+        label_with_counts "host intracellular organelle"^^xsd:string,
+        rdfs:label "host intracellular organelle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033646
+    
+    
+Class: GO_0031226
+
+    Annotations: 
+        rdfs:label "intrinsic component of plasma membrane"^^xsd:string,
+        label_with_counts "intrinsic component of plasma membrane"^^xsd:string,
+        IAO_0000115 "The component of the plasma membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor that is similarly embedded in the membrane."^^xsd:string
+    
+    SubClassOf: 
+        GO_0031224,
+        GO_0044459
+    
+    
+Class: GO_0033648
+
+    Annotations: 
+        rdfs:label "host intracellular membrane-bounded organelle"^^xsd:string,
+        IAO_0000115 "Organized structure of distinctive morphology and function, as found in host cells, bounded by a single or double lipid bilayer membrane and occurring within the cell. Includes the nucleus, mitochondria, plastids, vacuoles, and vesicles. Excludes the plasma membrane. The host is defined as the larger of the organisms involved in a symbiotic interaction."^^xsd:string,
+        label_with_counts "host intracellular membrane-bounded organelle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033647
+    
+    
+Class: GO_0009420
+
+    Annotations: 
+        IAO_0000115 "The long (approximately 20 nm), thin external structure of the flagellum, which acts as a propeller. Examples of this component are found in bacteria."^^xsd:string,
+        label_with_counts "bacterial-type flagellum filament - 495262"^^xsd:string,
+        rdfs:label "bacterial-type flagellum filament"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044461
+    
+    
+Class: GO_0030141
+
+    Annotations: 
+        rdfs:label "secretory granule"^^xsd:string,
+        label_with_counts "secretory granule - 99818"^^xsd:string,
+        IAO_0000115 "A small subcellular vesicle, surrounded by a membrane, that is formed from the Golgi apparatus and contains a highly concentrated protein destined for secretion. Secretory granules move towards the periphery of the cell and upon stimulation, their membranes fuse with the cell membrane, and their protein load is exteriorized. Processing of the contained protein may take place in secretory granules."^^xsd:string
+    
+    SubClassOf: 
+        GO_0099503
+    
+    
+Class: GO_0031231
+
+    Annotations: 
+        IAO_0000115 "The component of the peroxisomal membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor that is similarly embedded in the membrane."^^xsd:string,
+        rdfs:label "intrinsic component of peroxisomal membrane"^^xsd:string,
+        label_with_counts "intrinsic component of peroxisomal membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031300,
+        GO_0044439
+    
+    
+Class: GO_0009424
+
+    Annotations: 
+        IAO_0000115 "The portion of the flagellum that connects the filament to the basal body. Examples of this component are found in bacteria."^^xsd:string,
+        label_with_counts "bacterial-type flagellum hook - 250907"^^xsd:string,
+        rdfs:label "bacterial-type flagellum hook"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044461
+    
+    
+Class: GO_1990904
+
+    Annotations: 
+        rdfs:label "ribonucleoprotein complex"^^xsd:string,
+        IAO_0000115 "A macromolecular complex containing both protein and RNA molecules."^^xsd:string,
+        label_with_counts "ribonucleoprotein complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0032991
+    
+    
+Class: GO_0005740
+
+    Annotations: 
+        IAO_0000115 "The double lipid bilayer enclosing the mitochondrion and separating its contents from the cell cytoplasm; includes the intermembrane space."^^xsd:string,
+        rdfs:label "mitochondrial envelope"^^xsd:string,
+        label_with_counts "mitochondrial envelope - 92181"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044429,
+        GO_0031967
+    
+    
+Class: GO_0009427
+
+    Annotations: 
+        label_with_counts "\"bacterial-type flagellum basal body, distal rod, L ring\" - 657761"^^xsd:string,
+        rdfs:label "bacterial-type flagellum basal body, distal rod, L ring"^^xsd:string,
+        IAO_0000115 "One of the rings of the flagellar basal body; anchors the basal body to the outer membrane. Examples of this component are found in bacteria."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044461
+    
+    
+Class: GO_0005741
+
+    Annotations: 
+        rdfs:label "mitochondrial outer membrane"^^xsd:string,
+        label_with_counts "mitochondrial outer membrane - 73760"^^xsd:string,
+        IAO_0000115 "The outer, i.e. cytoplasm-facing, lipid bilayer of the mitochondrial envelope."^^xsd:string
+    
+    SubClassOf: 
+        GO_0031966,
+        GO_0031968
+    
+    
+Class: GO_0009428
+
+    Annotations: 
+        IAO_0000115 "One of the rings of the flagellar basal body; anchors the basal body to the peptidoglycan layer. Examples of this component are found in bacteria."^^xsd:string,
+        label_with_counts "\"bacterial-type flagellum basal body, distal rod, P ring\" - 1410433"^^xsd:string,
+        rdfs:label "bacterial-type flagellum basal body, distal rod, P ring"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044461
+    
+    
+Class: GO_0000439
+
+    Annotations: 
+        label_with_counts "core TFIIH complex - 121949"^^xsd:string,
+        rdfs:label "core TFIIH complex"^^xsd:string,
+        IAO_0000115 "The 7 subunit core of TFIIH that is a part of either the general transcription factor holo-TFIIH or the nucleotide-excision repair factor 3 complex. In S. cerevisiae/humans the complex is composed of: Ssl2/XPB, Tfb1/p62, Tfb2/p52, Ssl1/p44, Tfb4/p34, Tfb5/p8 and Rad3/XPD."^^xsd:string
+    
+    SubClassOf: 
+        GO_0043234,
+        GO_0044428
+    
+    
+Class: GO_0009425
+
+    Annotations: 
+        label_with_counts "bacterial-type flagellum basal body - 1513188"^^xsd:string,
+        IAO_0000115 "One of the three major substructures of the flagellin-based flagellum; a structure consisting of a rod, a series of rings, the Mot proteins, the switch complex and the flagellum-specific export apparatus. The rings anchor the flagellum to the cytoplasmic membrane (MS ring), the peptidoglycan (P ring) and the outer membrane (L ring). Examples of this component are found in bacteria."^^xsd:string,
+        rdfs:label "bacterial-type flagellum basal body"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044461
+    
+    
+Class: GO_0005743
+
+    Annotations: 
+        label_with_counts "mitochondrial inner membrane - 198408"^^xsd:string,
+        IAO_0000115 "The inner, i.e. lumen-facing, lipid bilayer of the mitochondrial envelope. It is highly folded to form cristae."^^xsd:string,
+        rdfs:label "mitochondrial inner membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0019866,
+        GO_0031966
+    
+    
+Class: GO_0005622
+
+    Annotations: 
+        rdfs:label "intracellular"^^xsd:string,
+        label_with_counts "intracellular - 169954936"^^xsd:string,
+        IAO_0000115 "The living contents of a cell; the matter contained within (but not including) the plasma membrane, usually taken to exclude large vacuoles and masses of secretory or ingested material. In eukaryotes it includes the nucleus and cytoplasm."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0000796
+
+    Annotations: 
+        rdfs:label "condensin complex"^^xsd:string,
+        label_with_counts "condensin complex - 75447"^^xsd:string,
+        IAO_0000115 "A multisubunit protein complex that plays a central role in chromosome condensation."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044427,
+        GO_0044815
+    
+    
+Class: GO_0072686
+
+    Annotations: 
+        label_with_counts "mitotic spindle - 39155"^^xsd:string,
+        IAO_0000115 "A spindle that forms as part of mitosis. Mitotic and meiotic spindles contain distinctive complements of proteins associated with microtubules."^^xsd:string,
+        rdfs:label "mitotic spindle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005819
+    
+    
+Class: GO_0042597
+
+    Annotations: 
+        IAO_0000115 "The region between the inner (cytoplasmic) and outer membrane (Gram-negative Bacteria) or cytoplasmic membrane and cell wall (Fungi and Gram-positive Bacteria)."^^xsd:string,
+        label_with_counts "periplasmic space - 6604439"^^xsd:string,
+        rdfs:label "periplasmic space"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0030125
+
+    Annotations: 
+        rdfs:label "clathrin vesicle coat"^^xsd:string,
+        label_with_counts "clathrin vesicle coat"^^xsd:string,
+        IAO_0000115 "A clathrin coat found on a vesicle."^^xsd:string
+    
+    SubClassOf: 
+        GO_0030120,
+        GO_0030118
+    
+    
+Class: GO_0030126
+
+    Annotations: 
+        IAO_0000115 "One of two multimeric complexes that forms a membrane vesicle coat. The mammalian COPI subunits are called alpha-, beta-, beta'-, gamma-, delta-, epsilon- and zeta-COP. Vesicles with COPI coats are found associated with Golgi membranes at steady state."^^xsd:string,
+        label_with_counts "COPI vesicle coat - 167098"^^xsd:string,
+        rdfs:label "COPI vesicle coat"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044431,
+        GO_0030120
+    
+    
+Class: GO_0030127
+
+    Annotations: 
+        label_with_counts "COPII vesicle coat - 302042"^^xsd:string,
+        IAO_0000115 "One of two multimeric complexes that forms a membrane vesicle coat. COPII is best characterized in S. cerevisiae, where the subunits are called Sar1p, Sec13p, Sec31p, Sec23p, and Sec24p. Vesicles with COPII coats are found associated with endoplasmic reticulum (ER) membranes at steady state."^^xsd:string,
+        rdfs:label "COPII vesicle coat"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030120
+    
+    
+Class: GO_0009431
+
+    Annotations: 
+        label_with_counts "\"bacterial-type flagellum basal body, MS ring\" - 73737"^^xsd:string,
+        rdfs:label "bacterial-type flagellum basal body, MS ring"^^xsd:string,
+        IAO_0000115 "One of the rings of the flagellar basal body; a double-flanged ring that anchors the basal body to the cytoplasmic membrane. Examples of this component are found in bacteria."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044461
+    
+    
+Class: GO_0031461
+
+    Annotations: 
+        label_with_counts "cullin-RING ubiquitin ligase complex - 547748"^^xsd:string,
+        IAO_0000115 "Any ubiquitin ligase complex in which the catalytic core consists of a member of the cullin family and a RING domain protein; the core is associated with one or more additional proteins that confer substrate specificity."^^xsd:string,
+        rdfs:label "cullin-RING ubiquitin ligase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0000151
+    
+    
+Class: GO_0030130
+
+    Annotations: 
+        label_with_counts "clathrin coat of trans-Golgi network vesicle - 231165"^^xsd:string,
+        rdfs:label "clathrin coat of trans-Golgi network vesicle"^^xsd:string,
+        IAO_0000115 "A clathrin coat found on a vesicle of the trans-Golgi network."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044431,
+        GO_0030125
+    
+    
+Class: GO_1902555
+
+    Annotations: 
+        IAO_0000115 "A protein complex which is capable of endoribonuclease activity."^^xsd:string,
+        rdfs:label "endoribonuclease complex"^^xsd:string,
+        label_with_counts "endoribonuclease complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1902494
+    
+    
+Class: GO_0030131
+
+    Annotations: 
+        label_with_counts "clathrin adaptor complex - 476959"^^xsd:string,
+        IAO_0000115 "A membrane coat adaptor complex that links clathrin to a membrane."^^xsd:string,
+        rdfs:label "clathrin adaptor complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0030119
+    
+    
+Class: GO_0033643
+
+    Annotations: 
+        label_with_counts "host cell part"^^xsd:string,
+        rdfs:label "host cell part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a host cell. The host is defined as the larger of the organisms involved in a symbiotic interaction."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044217
+    
+    
+Class: GO_1902554
+
+    Annotations: 
+        rdfs:label "serine/threonine protein kinase complex"^^xsd:string,
+        IAO_0000115 "A protein complex which is capable of protein serine/threonine kinase activity."^^xsd:string,
+        label_with_counts "serine/threonine protein kinase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1902911
+    
+    
+Class: GO_0030132
+
+    Annotations: 
+        label_with_counts "clathrin coat of coated pit - 231165"^^xsd:string,
+        rdfs:label "clathrin coat of coated pit"^^xsd:string,
+        IAO_0000115 "The coat found on coated pits and the coated vesicles derived from coated pits; comprises clathrin and the AP-2 adaptor complex."^^xsd:string
+    
+    SubClassOf: 
+        GO_0098797,
+        GO_0030118
+    
+    
+Class: GO_0005750
+
+    Annotations: 
+        label_with_counts "mitochondrial respiratory chain complex III - 67087"^^xsd:string,
+        rdfs:label "mitochondrial respiratory chain complex III"^^xsd:string,
+        IAO_0000115 "A protein complex located in the mitochondrial inner membrane that forms part of the mitochondrial respiratory chain. Contains about 10 polypeptide subunits including four redox centers: cytochrome b/b6, cytochrome c1 and an 2Fe-2S cluster. Catalyzes the oxidation of ubiquinol by oxidized cytochrome c1."^^xsd:string
+    
+    SubClassOf: 
+        GO_0045275,
+        GO_0098800
+    
+    
+Class: GO_0009317
+
+    Annotations: 
+        IAO_0000115 "A protein complex that catalyzes the first step in long-chain fatty acid biosynthesis. For example, in E. coli the complex is heterohexameric and composed of biotin carbonyl carrier protein, biotin carboxylase and the acetate CoA-transferase complex."^^xsd:string,
+        label_with_counts "acetyl-CoA carboxylase complex - 8369865"^^xsd:string,
+        rdfs:label "acetyl-CoA carboxylase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_1902494
+    
+    
+Class: GO_0009318
+
+    Annotations: 
+        IAO_0000115 "An enzyme complex that catalyzes exonucleolytic cleavage in either 5' to 3' or 3' to 5' direction to yield nucleoside 5'-phosphates; it prefers single-stranded DNA."^^xsd:string,
+        rdfs:label "exodeoxyribonuclease VII complex"^^xsd:string,
+        label_with_counts "exodeoxyribonuclease VII complex - 2161920"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424,
+        GO_1902494
+    
+    
+Class: GO_0005874
+
+    Annotations: 
+        IAO_0000115 "Any of the long, generally straight, hollow tubes of internal diameter 12-15 nm and external diameter 24 nm found in a wide variety of eukaryotic cells; each consists (usually) of 13 protofilaments of polymeric tubulin, staggered in such a manner that the tubulin monomers are arranged in a helical pattern on the microtubular surface, and with the alpha/beta axes of the tubulin subunits parallel to the long axis of the tubule; exist in equilibrium with pool of tubulin monomers and can be rapidly assembled or disassembled in response to physiological stimuli; concerned with force generation, e.g. in the spindle."^^xsd:string,
+        label_with_counts "microtubule - 1078345"^^xsd:string,
+        rdfs:label "microtubule"^^xsd:string
+    
+    SubClassOf: 
+        GO_0099513
+    
+    
+Class: GO_0009316
+
+    Annotations: 
+        rdfs:label "3-isopropylmalate dehydratase complex"^^xsd:string,
+        label_with_counts "3-isopropylmalate dehydratase complex - 49053"^^xsd:string,
+        IAO_0000115 "A heterodimeric enzyme complex composed of subunits leuC and leuD. Catalyzes the isomerization between 2-isopropylmalate and 3-isopropylmalate, via the formation of 2-isopropylmaleate."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044445,
+        GO_1902494
+    
+    
+Class: GO_0005875
+
+    Annotations: 
+        label_with_counts "microtubule associated complex - 205150"^^xsd:string,
+        rdfs:label "microtubule associated complex"^^xsd:string,
+        IAO_0000115 "Any multimeric complex connected to a microtubule."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044430,
+        GO_0043234
+    
+    
+Class: GO_0005634
+
+    Annotations: 
+        IAO_0000115 "A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent."^^xsd:string,
+        label_with_counts "nucleus - 6740907"^^xsd:string,
+        rdfs:label "nucleus"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043231
+    
+    
+Class: GO_0098588
+
+    Annotations: 
+        IAO_0000115 "The lipid bilayer that forms the outer-most layer of an organelle."^^xsd:string,
+        label_with_counts "bounding membrane of organelle"^^xsd:string,
+        rdfs:label "bounding membrane of organelle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031090
+    
+    
+Class: GO_0000786
+
+    Annotations: 
+        rdfs:label "nucleosome"^^xsd:string,
+        label_with_counts "nucleosome - 1812935"^^xsd:string,
+        IAO_0000115 "A complex comprised of DNA wound around a multisubunit core and associated proteins, which forms the primary packing unit of DNA into higher order structures."^^xsd:string
+    
+    SubClassOf: 
+        GO_0032993,
+        GO_0044427,
+        GO_0044815
+    
+    
+Class: GO_0043231
+
+    Annotations: 
+        rdfs:label "intracellular membrane-bounded organelle"^^xsd:string,
+        IAO_0000115 "Organized structure of distinctive morphology and function, bounded by a single or double lipid bilayer membrane and occurring within the cell. Includes the nucleus, mitochondria, plastids, vacuoles, and vesicles. Excludes the plasma membrane."^^xsd:string,
+        label_with_counts "intracellular membrane-bounded organelle - 620578"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043227,
+        GO_0043229
+    
+    
+Class: GO_0044441
+
+    Annotations: 
+        rdfs:label "ciliary part"^^xsd:string,
+        label_with_counts "ciliary part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a cilium, a specialized eukaryotic organelle that consists of a filiform extrusion of the cell surface. Each cilium is bounded by an extrusion of the cytoplasmic (plasma) membrane, and contains a regular longitudinal array of microtubules, anchored basally in a centriole."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044463,
+        GO_0044422
+    
+    
+Class: GO_0043232
+
+    Annotations: 
+        rdfs:label "intracellular non-membrane-bounded organelle"^^xsd:string,
+        IAO_0000115 "Organized structure of distinctive morphology and function, not bounded by a lipid bilayer membrane and occurring within the cell. Includes ribosomes, the cytoskeleton and chromosomes."^^xsd:string,
+        label_with_counts "intracellular non-membrane-bounded organelle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043228,
+        GO_0043229
+    
+    
+Class: GO_0043234
+
+    Annotations: 
+        label_with_counts "protein complex"^^xsd:string,
+        IAO_0000115 "A stable macromolecular complex composed (only) of two or more polypeptide subunits along with any covalently attached molecules (such as lipid anchors or oligosaccharide) or non-protein prosthetic groups (such as nucleotides or metal ions). Prosthetic group in this context refers to a tightly bound cofactor. The component polypeptide subunits may be identical."^^xsd:string,
+        rdfs:label "protein complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0032991
+    
+    
+Class: GO_0044444
+
+    Annotations: 
+        label_with_counts "cytoplasmic part"^^xsd:string,
+        IAO_0000115 "Any constituent part of the cytoplasm, all of the contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures."^^xsd:string,
+        rdfs:label "cytoplasmic part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424
+    
+    
+Class: GO_0044445
+
+    Annotations: 
+        label_with_counts "cytosolic part"^^xsd:string,
+        IAO_0000115 "Any constituent part of cytosol, that part of the cytoplasm that does not contain membranous or particulate subcellular components."^^xsd:string,
+        rdfs:label "cytosolic part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444
+    
+    
+Class: GO_0042025
+
+    Annotations: 
+        rdfs:label "host cell nucleus"^^xsd:string,
+        IAO_0000115 "A membrane-bounded organelle as it is found in the host cell in which chromosomes are housed and replicated. The host is defined as the larger of the organisms involved in a symbiotic interaction."^^xsd:string,
+        label_with_counts "host cell nucleus - 211811"^^xsd:string
+    
+    SubClassOf: 
+        GO_0033648
+    
+    
+Class: GO_1903293
+
+    Annotations: 
+        rdfs:label "phosphatase complex"^^xsd:string,
+        label_with_counts "phosphatase complex"^^xsd:string,
+        IAO_0000115 "A protein complex which is capable of phosphatase activity."^^xsd:string
+    
+    SubClassOf: 
+        GO_1902494
+    
+    
+Class: GO_0019008
+
+    Annotations: 
+        IAO_0000115 "A protein complex that possesses molybdopterin synthase activity. In E. coli, the complex is a heterotetramer consisting of two MoaD and two MoaE subunits."^^xsd:string,
+        label_with_counts "molybdopterin synthase complex - 1447722"^^xsd:string,
+        rdfs:label "molybdopterin synthase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464,
+        GO_0043234
+    
+    
+Class: GO_0032580
+
+    Annotations: 
+        label_with_counts "Golgi cisterna membrane - 79727"^^xsd:string,
+        IAO_0000115 "The lipid bilayer surrounding any of the thin, flattened compartments that form the central portion of the Golgi complex."^^xsd:string,
+        rdfs:label "Golgi cisterna membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0000139
+    
+    
+Class: GO_0031012
+
+    Annotations: 
+        IAO_0000115 "A structure lying external to one or more cells, which provides structural support for cells or tissues; may be completely external to the cell (as in animals and bacteria) or be part of the cell (as in plants)."^^xsd:string,
+        label_with_counts "extracellular matrix - 535529"^^xsd:string,
+        rdfs:label "extracellular matrix"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0090533
+
+    Annotations: 
+        IAO_0000115 "Protein complex that carries out the reaction: ATP + H2O + cation(out) = ADP + phosphate + cation(in)."^^xsd:string,
+        label_with_counts "cation-transporting ATPase complex"^^xsd:string,
+        rdfs:label "cation-transporting ATPase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098533
+    
+    
+Class: GO_0009325
+
+    Annotations: 
+        IAO_0000115 "An enzyme complex that catalyzes the formation of nitrate from nitrite with the concomitant reduction of an acceptor."^^xsd:string,
+        rdfs:label "nitrate reductase complex"^^xsd:string,
+        label_with_counts "nitrate reductase complex - 1163286"^^xsd:string
+    
+    SubClassOf: 
+        GO_1990204
+    
+    
+Class: GO_0030286
+
+    Annotations: 
+        IAO_0000115 "Any of several large complexes that contain two or three dynein heavy chains and several light chains, and have microtubule motor activity."^^xsd:string,
+        label_with_counts "dynein complex - 1370019"^^xsd:string,
+        rdfs:label "dynein complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005875,
+        GO_1902494
+    
+    
+Class: GO_0005882
+
+    Annotations: 
+        rdfs:label "intermediate filament"^^xsd:string,
+        IAO_0000115 "A cytoskeletal structure that forms a distinct elongated structure, characteristically 10 nm in diameter, that occurs in the cytoplasm of eukaryotic cells. Intermediate filaments form a fibrous system, composed of chemically heterogeneous subunits and involved in mechanically integrating the various components of the cytoplasmic space. Intermediate filaments may be divided into five chemically distinct classes: Type I, acidic keratins; Type II, basic keratins; Type III, including desmin, vimentin and others; Type IV, neurofilaments and related filaments; and Type V, lamins."^^xsd:string,
+        label_with_counts "intermediate filament - 74347"^^xsd:string
+    
+    SubClassOf: 
+        GO_0099513
+    
+    
+Class: GO_0030288
+
+    Annotations: 
+        label_with_counts "outer membrane-bounded periplasmic space - 15505757"^^xsd:string,
+        IAO_0000115 "The region between the inner (cytoplasmic or plasma) membrane and outer membrane of organisms with two membranes such as Gram negative bacteria. These periplasmic spaces are relatively thick and contain a thin peptidoglycan layer (PGL), also referred to as a thin cell wall."^^xsd:string,
+        rdfs:label "outer membrane-bounded periplasmic space"^^xsd:string
+    
+    SubClassOf: 
+        GO_0042597
+    
+    
+Class: GO_0044798
+
+    Annotations: 
+        IAO_0000115 "A protein complex, located in the nucleus, that is capable of associating with DNA by direct binding, or via other DNA-binding proteins or complexes, and regulating transcription."^^xsd:string,
+        rdfs:label "nuclear transcription factor complex"^^xsd:string,
+        label_with_counts "nuclear transcription factor complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044428,
+        GO_0005667
+    
+    
+Class: GO_0043226
+
+    Annotations: 
+        label_with_counts "organelle"^^xsd:string,
+        IAO_0000115 "Organized structure of distinctive morphology and function. Includes the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton, and prokaryotic structures such as anammoxosomes and pirellulosomes. Excludes the plasma membrane."^^xsd:string,
+        rdfs:label "organelle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0044436
+
+    Annotations: 
+        label_with_counts "thylakoid part"^^xsd:string,
+        rdfs:label "thylakoid part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a thylakoid, a sac-like vesicle that bears the photosynthetic pigments in photosynthetic organisms."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424
+    
+    
+Class: GO_0043227
+
+    Annotations: 
+        rdfs:label "membrane-bounded organelle"^^xsd:string,
+        IAO_0000115 "Organized structure of distinctive morphology and function, bounded by a single or double lipid bilayer membrane. Includes the nucleus, mitochondria, plastids, vacuoles, and vesicles. Excludes the plasma membrane."^^xsd:string,
+        label_with_counts "membrane-bounded organelle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043226
+    
+    
+Class: GO_0044437
+
+    Annotations: 
+        label_with_counts "vacuolar part"^^xsd:string,
+        rdfs:label "vacuolar part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a vacuole, a closed structure, found only in eukaryotic cells, that is completely surrounded by unit membrane and contains liquid material."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0044446
+    
+    
+Class: GO_0005885
+
+    Annotations: 
+        rdfs:label "Arp2/3 protein complex"^^xsd:string,
+        label_with_counts "Arp2/3 protein complex - 261737"^^xsd:string,
+        IAO_0000115 "A stable protein complex that contains two actin-related proteins, Arp2 and Arp3, and five novel proteins (ARPC1-5), and functions in the nucleation of branched actin filaments."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044430,
+        GO_0043234
+    
+    
+Class: GO_0005643
+
+    Annotations: 
+        rdfs:label "nuclear pore"^^xsd:string,
+        label_with_counts "nuclear pore - 276178"^^xsd:string,
+        IAO_0000115 "Any of the numerous similar discrete openings in the nuclear envelope of a eukaryotic cell, where the inner and outer nuclear membranes are joined."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044428
+    
+    
+Class: GO_0009326
+
+    Annotations: 
+        label_with_counts "formate dehydrogenase complex - 2189262"^^xsd:string,
+        IAO_0000115 "An enzyme complex that catalyzes the dehydrogenation of formate to produce carbon dioxide (CO2)."^^xsd:string,
+        rdfs:label "formate dehydrogenase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1990204
+    
+    
+Class: GO_0043228
+
+    Annotations: 
+        rdfs:label "non-membrane-bounded organelle"^^xsd:string,
+        IAO_0000115 "Organized structure of distinctive morphology and function, not bounded by a lipid bilayer membrane. Includes ribosomes, the cytoskeleton and chromosomes."^^xsd:string,
+        label_with_counts "non-membrane-bounded organelle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0043226
+    
+    
+Class: GO_0044438
+
+    Annotations: 
+        rdfs:label "microbody part"^^xsd:string,
+        label_with_counts "microbody part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a microbody, a cytoplasmic organelle, spherical or oval in shape, that is bounded by a single membrane and contains oxidative enzymes, especially those utilizing hydrogen peroxide (H2O2)."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0044446
+    
+    
+Class: GO_0005886
+
+    Annotations: 
+        IAO_0000115 "The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins."^^xsd:string,
+        rdfs:label "plasma membrane"^^xsd:string,
+        label_with_counts "plasma membrane - 23870640"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464,
+        GO_0016020
+    
+    
+Class: GO_0043229
+
+    Annotations: 
+        IAO_0000115 "Organized structure of distinctive morphology and function, occurring within the cell. Includes the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton. Excludes the plasma membrane."^^xsd:string,
+        label_with_counts "intracellular organelle"^^xsd:string,
+        rdfs:label "intracellular organelle"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424,
+        GO_0043226
+    
+    
+Class: GO_0044439
+
+    Annotations: 
+        label_with_counts "peroxisomal part"^^xsd:string,
+        rdfs:label "peroxisomal part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a peroxisome, a small, membrane-bounded organelle that uses dioxygen (O2) to oxidize organic molecules; contains some enzymes that produce and others that degrade hydrogen peroxide (H2O2)."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044438
+    
+    
+Class: GO_0005887
+
+    Annotations: 
+        label_with_counts "integral to plasma membrane - 2523099"^^xsd:string,
+        rdfs:label "integral component of plasma membrane"^^xsd:string,
+        IAO_0000115 "The component of the plasma membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane."^^xsd:string
+    
+    SubClassOf: 
+        GO_0031226,
+        GO_0016021
+    
+    
+Class: GO_1904949
+
+    Annotations: 
+        IAO_0000115 "A protein complex which is capable of ATPase activity."^^xsd:string,
+        rdfs:label "ATPase complex"^^xsd:string,
+        label_with_counts "ATPase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_1902494
+    
+    
+Class: GO_0000775
+
+    Annotations: 
+        IAO_0000115 "The region of a chromosome that includes the centromeric DNA and associated proteins. In monocentric chromosomes, this region corresponds to a single area of the chromosome, whereas in holocentric chromosomes, it is evenly distributed along the chromosome."^^xsd:string,
+        label_with_counts "\"chromosome, centromeric region\" - 63376"^^xsd:string,
+        rdfs:label "chromosome, centromeric region"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098687
+    
+    
+Class: GO_0044430
+
+    Annotations: 
+        label_with_counts "cytoskeletal part"^^xsd:string,
+        rdfs:label "cytoskeletal part"^^xsd:string,
+        IAO_0000115 "Any constituent part of the cytoskeleton, a cellular scaffolding or skeleton that maintains cell shape, enables some cell motion (using structures such as flagella and cilia), and plays important roles in both intra-cellular transport (e.g. the movement of vesicles and organelles) and cellular division. Includes constituent parts of intermediate filaments, microfilaments, microtubules, and the microtrabecular lattice."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044446
+    
+    
+Class: GO_0019012
+
+    Annotations: 
+        rdfs:label "virion"^^xsd:string,
+        IAO_0000115 "The complete fully infectious extracellular virus particle."^^xsd:string,
+        label_with_counts "virion - 1203130"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0044431
+
+    Annotations: 
+        label_with_counts "Golgi apparatus part"^^xsd:string,
+        rdfs:label "Golgi apparatus part"^^xsd:string,
+        IAO_0000115 "Any constituent part of the Golgi apparatus, a compound membranous cytoplasmic organelle of eukaryotic cells, consisting of flattened, ribosome-free vesicles arranged in a more or less regular stack."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0044446
+    
+    
+Class: GO_0044432
+
+    Annotations: 
+        rdfs:label "endoplasmic reticulum part"^^xsd:string,
+        IAO_0000115 "Any constituent part of the endoplasmic reticulum, the irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae."^^xsd:string,
+        label_with_counts "endoplasmic reticulum part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0044446
+    
+    
+Class: GO_0044433
+
+    Annotations: 
+        IAO_0000115 "Any constituent part of cytoplasmic vesicle, a vesicle formed of membrane or protein, found in the cytoplasm of a cell."^^xsd:string,
+        rdfs:label "cytoplasmic vesicle part"^^xsd:string,
+        label_with_counts "cytoplasmic vesicle part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0044446
+    
+    
+Class: GO_0019015
+
+    Annotations: 
+        rdfs:label "viral genome"^^xsd:string,
+        IAO_0000115 "The whole of the genetic information of a virus, contained as either DNA or RNA."^^xsd:string,
+        label_with_counts "viral genome - 747140"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044423
+    
+    
+Class: GO_0097708
+
+    Annotations: 
+        rdfs:label "intracellular vesicle"^^xsd:string,
+        label_with_counts "intracellular vesicle"^^xsd:string,
+        IAO_0000115 "Any vesicle that is part of the intracellular region."^^xsd:string
+    
+    SubClassOf: 
+        GO_0031982,
+        GO_0044424
+    
+    
+Class: GO_0030700
+
+    Annotations: 
+        rdfs:label "glycine reductase complex"^^xsd:string,
+        label_with_counts "glycine reductase complex - 440855"^^xsd:string,
+        IAO_0000115 "Complex that possesses glycine reductase activity; usually comprises three subunits, of which two are selenoproteins; the subunits are typically designated selenoprotein A, selenoprotein B and protein C."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_1990204
+    
+    
+Class: GO_0031360
+
+    Annotations: 
+        IAO_0000115 "The component of the thylakoid membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor that is similarly embedded in the membrane."^^xsd:string,
+        rdfs:label "intrinsic component of thylakoid membrane"^^xsd:string,
+        label_with_counts "intrinsic component of thylakoid membrane"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031224,
+        GO_0044436
+    
+    
+Class: GO_0009331
+
+    Annotations: 
+        IAO_0000115 "An enzyme complex that catalyzes the dehydrogenation of sn-glycerol 3-phosphate to form glycerone phosphate."^^xsd:string,
+        label_with_counts "glycerol-3-phosphate dehydrogenase complex - 1564991"^^xsd:string,
+        rdfs:label "glycerol-3-phosphate dehydrogenase complex"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_1990204
+    
+    
+Class: GO_0031361
+
+    Annotations: 
+        rdfs:label "integral component of thylakoid membrane"^^xsd:string,
+        IAO_0000115 "The component of the thylakoid membrane consisting of the gene products having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane."^^xsd:string,
+        label_with_counts "integral to thylakoid membrane - 1077902"^^xsd:string
+    
+    SubClassOf: 
+        GO_0031360,
+        GO_0016021
+    
+    
+Class: GO_0005890
+
+    Annotations: 
+        rdfs:label "sodium:potassium-exchanging ATPase complex"^^xsd:string,
+        IAO_0000115 "Sodium:potassium-exchanging ATPases are tetrameric proteins, consisting of two large alpha subunits and two smaller beta subunits. The alpha subunits bear the active site and penetrate the membrane, while the beta subunits carry oligosaccharide groups and face the cell exterior."^^xsd:string,
+        label_with_counts "sodium:potassium-exchanging ATPase complex - 82346"^^xsd:string
+    
+    SubClassOf: 
+        GO_0098797,
+        GO_0090533
+    
+    
+Class: GO_0044424
+
+    Annotations: 
+        label_with_counts "intracellular part"^^xsd:string,
+        IAO_0000115 "Any constituent part of the living contents of a cell; the matter contained within (but not including) the plasma membrane, usually taken to exclude large vacuoles and masses of secretory or ingested material. In eukaryotes it includes the nucleus and cytoplasm."^^xsd:string,
+        rdfs:label "intracellular part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044464
+    
+    
+Class: GO_0044425
+
+    Annotations: 
+        IAO_0000115 "Any constituent part of a membrane, a double layer of lipid molecules that encloses all cells, and, in eukaryotes, many organelles; may be a single or double lipid bilayer; also includes associated proteins."^^xsd:string,
+        label_with_counts "membrane part"^^xsd:string,
+        rdfs:label "membrane part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0005575
+    
+    
+Class: GO_0009579
+
+    Annotations: 
+        IAO_0000115 "A membranous cellular structure that bears the photosynthetic pigments in plants, algae, and cyanobacteria. In cyanobacteria thylakoids are of various shapes and are attached to, or continuous with, the plasma membrane. In eukaryotes they are flattened, membrane-bounded disk-like structures located in the chloroplasts; in the chloroplasts of higher plants the thylakoids form dense stacks called grana. Isolated thylakoid preparations can carry out photosynthetic electron transport and the associated phosphorylation."^^xsd:string,
+        rdfs:label "thylakoid"^^xsd:string,
+        label_with_counts "thylakoid - 7299874"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044424
+    
+    
+Class: GO_0044427
+
+    Annotations: 
+        label_with_counts "chromosomal part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a chromosome, a structure composed of a very long molecule of DNA and associated proteins (e.g. histones) that carries hereditary information."^^xsd:string,
+        rdfs:label "chromosomal part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044446
+    
+    
+Class: GO_0044428
+
+    Annotations: 
+        rdfs:label "nuclear part"^^xsd:string,
+        IAO_0000115 "Any constituent part of the nucleus, a membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated."^^xsd:string,
+        label_with_counts "nuclear part"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044446
+    
+    
+Class: GO_0005777
+
+    Annotations: 
+        IAO_0000115 "A small organelle enclosed by a single membrane, and found in most eukaryotic cells. Contains peroxidases and other enzymes involved in a variety of metabolic processes including free radical detoxification, lipid catabolism and biosynthesis, and hydrogen peroxide metabolism."^^xsd:string,
+        label_with_counts "peroxisome - 116656"^^xsd:string,
+        rdfs:label "peroxisome"^^xsd:string
+    
+    SubClassOf: 
+        GO_0042579
+    
+    
+Class: GO_0044429
+
+    Annotations: 
+        label_with_counts "mitochondrial part"^^xsd:string,
+        rdfs:label "mitochondrial part"^^xsd:string,
+        IAO_0000115 "Any constituent part of a mitochondrion, a semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration."^^xsd:string
+    
+    SubClassOf: 
+        GO_0044444,
+        GO_0044446
+    
+    
+Class: GO_0005779
+
+    Annotations: 
+        rdfs:label "integral component of peroxisomal membrane"^^xsd:string,
+        label_with_counts "integral to peroxisomal membrane - 44399"^^xsd:string,
+        IAO_0000115 "The component of the peroxisomal membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane."^^xsd:string
+    
+    SubClassOf: 
+        GO_0031231,
+        GO_0031301
+    
+    
+Class: GO_0046729
+
+    Annotations: 
+        label_with_counts "viral procapsid - 698384"^^xsd:string,
+        IAO_0000115 "A stable empty viral capsid produced during the assembly of viruses."^^xsd:string,
+        rdfs:label "viral procapsid"^^xsd:string
+    
+    SubClassOf: 
+        GO_0044423
+    
+    

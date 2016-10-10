@@ -1,0 +1,92 @@
+Copyright [1999-2015] Wellcome Trust Sanger Institute and the EMBL-European Bioinformatics Institute
+Copyright [2016] EMBL-European Bioinformatics Institute
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+###################################################
+##
+##      Intro
+##
+
+The EBI Metagenomics group provides a Python script for mapping GO terms to Metagenomics GO slim.
+
+
+###################################################
+##
+##      Supported Platforms
+##
+
+64 bit Linux - tested
+32 bit Linux - tested
+
+In addition it should also work on Windows or Apple (MAC OS X) operating systems.
+
+
+###################################################
+##
+##      Installation requirements
+##
+
+* Linux, 32 bit or 64 bit (64 bit recommended).
+* Python 2.7.x (Python version 3 incompatible)
+* Java 8 - tested (has not been tested for Java 6 or 7)
+
+
+###################################################
+##
+##      How to install the program?
+##
+
+tar -pxvzf go_slim_mapper-1.0.tar.gz
+
+# where:
+#     p = preserve the file permissions
+#     x = extract files from an archive
+#     v = verbosely list the files processed
+#     z = filter the archive through gzip
+#     f = use archive file
+
+###################################################
+##
+##      How to run the program?
+##
+
+cd go_slim_mapper/
+
+usage: go_slim_mapper.py [-h] -i INPUT_FILE [-wd DIRECTORY] [-ob OBO_FILE]
+                         [-s SLIMS] [-bin OWLTOOLS]
+go_slim_mapper.py: error: argument -i/--input_file is required
+
+1. Run the program using the default setup
+
+* tested on Ubuntu 14.04
+
+./go_slim_mapper.py -i test_input.txt
+
+2. Specify your own local installation of OWLTools
+
+./go_slim_mapper.py -i test_input.txt -bin <path_to_the_owltools_wrapper_script>
+
+e.g.
+./go_slim_mapper.py -i test_input.txt -bin ./owltools/owltools
+
+3. Provide your own slim terms (list of GO terms, 1 term per line in TXT format)
+
+./go_slim_mapper.py -i test_input.txt -s <path_to_go_slim_file>
+
+e.g.
+./go_slim_mapper.py -i test_input.txt -s /home/<user-name>/temp/metagenomics_go_slim_ids.txt
+
+4. Provide your own OBO file
+
+./go_slim_mapper.py -i test_input.txt -ob <path_to_obo_file>

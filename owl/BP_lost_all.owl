@@ -1,0 +1,7569 @@
+Prefix: : <http://purl.obolibrary.org/obo/>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+
+Ontology: <http://www.ebi.ac.uk/metagenomics/BP_lost_all.owl>
+
+
+AnnotationProperty: IAO_0000115
+
+    
+AnnotationProperty: label_slim_status
+
+    
+AnnotationProperty: label_with_counts
+
+    
+Datatype: xsd:string
+
+    
+Class: GO_0001973
+
+    Annotations: 
+        label_slim_status "IN - adenosine receptor signaling pathway - 81"^^xsd:string
+    
+    
+Class: GO_0001974
+
+    Annotations: 
+        label_slim_status "OUT - blood vessel remodeling - 24"^^xsd:string
+    
+    
+Class: GO_0046883
+
+    Annotations: 
+        label_slim_status "OUT - regulation of hormone secretion - 407"^^xsd:string
+    
+    
+Class: GO_0055117
+
+    Annotations: 
+        label_slim_status "OUT - regulation of cardiac muscle contraction - 454"^^xsd:string
+    
+    
+Class: GO_0020012
+
+    Annotations: 
+        label_slim_status "IN - evasion or tolerance of host immune response - 18"^^xsd:string
+    
+    
+Class: GO_0010207
+
+    Annotations: 
+        label_slim_status "IN - photosystem II assembly - 330419"^^xsd:string
+    
+    
+Class: GO_0007040
+
+    Annotations: 
+        label_slim_status "IN - lysosome organization - 970"^^xsd:string
+    
+    
+Class: GO_0010447
+
+    Annotations: 
+        label_slim_status "IN - response to acidity - 6726"^^xsd:string
+    
+    
+Class: GO_0032481
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of type I interferon production - 342"^^xsd:string
+    
+    
+Class: GO_0007283
+
+    Annotations: 
+        label_slim_status "OUT - spermatogenesis - 6699"^^xsd:string
+    
+    
+Class: GO_0006198
+
+    Annotations: 
+        label_slim_status "IN - cAMP catabolic process - 23908"^^xsd:string
+    
+    
+Class: GO_0050909
+
+    Annotations: 
+        label_slim_status "OUT - sensory perception of taste - 30552"^^xsd:string
+    
+    
+Class: GO_0009229
+
+    Annotations: 
+        label_slim_status "IN - thiamine diphosphate biosynthetic process - 1592493"^^xsd:string
+    
+    
+Class: GO_0007049
+
+    Annotations: 
+        label_slim_status "OUT - cell cycle - 11327982"^^xsd:string
+    
+    
+Class: GO_0009228
+
+    Annotations: 
+        label_slim_status "IN - thiamine biosynthetic process - 18219934"^^xsd:string
+    
+    
+Class: GO_0043123
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of I-kappaB kinase/NF-kappaB cascade - 1685"^^xsd:string
+    
+    
+Class: GO_0018189
+
+    Annotations: 
+        label_slim_status "IN - pyrroloquinoline quinone biosynthetic process - 106511"^^xsd:string
+    
+    
+Class: GO_0008380
+
+    Annotations: 
+        label_slim_status "IN - RNA splicing - 40196"^^xsd:string
+    
+    
+Class: GO_0010215
+
+    Annotations: 
+        label_slim_status "IN - cellulose microfibril organization - 1460"^^xsd:string
+    
+    
+Class: GO_0050912
+
+    Annotations: 
+        label_slim_status "OUT - detection of chemical stimulus involved in sensory perception of taste - 64001"^^xsd:string
+    
+    
+Class: GO_0007050
+
+    Annotations: 
+        label_slim_status "OUT - cell cycle arrest - 36192"^^xsd:string
+    
+    
+Class: GO_0009231
+
+    Annotations: 
+        label_slim_status "IN - riboflavin biosynthetic process - 33976480"^^xsd:string
+    
+    
+Class: GO_0031144
+
+    Annotations: 
+        label_slim_status "OUT - proteasome localization - 3689"^^xsd:string
+    
+    
+Class: GO_0009236
+
+    Annotations: 
+        label_slim_status "IN - cobalamin biosynthetic process - 21035025"^^xsd:string
+    
+    
+Class: GO_0009234
+
+    Annotations: 
+        label_slim_status "IN - menaquinone biosynthetic process - 2939"^^xsd:string
+    
+    
+Class: GO_0031388
+
+    Annotations: 
+        label_slim_status "IN - organic acid phosphorylation - 3382021"^^xsd:string
+    
+    
+Class: GO_0007059
+
+    Annotations: 
+        label_slim_status "OUT - chromosome segregation - 8547769"^^xsd:string
+    
+    
+Class: GO_0031145
+
+    Annotations: 
+        label_slim_status "IN - anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process - 4587"^^xsd:string
+    
+    
+Class: GO_0009235
+
+    Annotations: 
+        label_slim_status "IN - cobalamin metabolic process - 10094"^^xsd:string
+    
+    
+Class: GO_0042026
+
+    Annotations: 
+        label_slim_status "IN - protein refolding - 258334"^^xsd:string
+    
+    
+Class: GO_0044205
+
+    Annotations: 
+        label_slim_status "IN - 'de novo' UMP biosynthetic process - 1964"^^xsd:string
+    
+    
+Class: GO_0009239
+
+    Annotations: 
+        label_slim_status "IN - enterobactin biosynthetic process - 4507"^^xsd:string
+    
+    
+Class: GO_0019042
+
+    Annotations: 
+        label_slim_status "IN - latent virus infection - 322"^^xsd:string
+    
+    
+Class: GO_0043154
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of cysteine-type endopeptidase activity involved in apoptotic process - 495"^^xsd:string
+    
+    
+Class: GO_0019287
+
+    Annotations: 
+        label_slim_status "IN - \"isopentenyl diphosphate biosynthetic process, mevalonate pathway\" - 651"^^xsd:string
+    
+    
+Class: GO_0045333
+
+    Annotations: 
+        label_slim_status "IN - cellular respiration - 48"^^xsd:string
+    
+    
+Class: GO_0019288
+
+    Annotations: 
+        label_slim_status "IN - \"isopentenyl diphosphate biosynthetic process, mevalonate-independent pathway\" - 10835781"^^xsd:string
+    
+    
+Class: GO_0019048
+
+    Annotations: 
+        label_slim_status "IN - virus-host interaction - 1322942"^^xsd:string
+    
+    
+Class: GO_0019049
+
+    Annotations: 
+        label_slim_status "IN - evasion of host defenses by virus - 1823"^^xsd:string
+    
+    
+Class: GO_0043158
+
+    Annotations: 
+        label_slim_status "OUT - heterocyst differentiation - 3323"^^xsd:string
+    
+    
+Class: GO_0032259
+
+    Annotations: 
+        label_slim_status "IN - methylation - 15535035"^^xsd:string
+    
+    
+Class: GO_0010468
+
+    Annotations: 
+        label_slim_status "IN - regulation of gene expression - 862983"^^xsd:string
+    
+    
+Class: GO_0009244
+
+    Annotations: 
+        label_slim_status "IN - lipopolysaccharide core region biosynthetic process - 3987158"^^xsd:string
+    
+    
+Class: GO_0008152
+
+    Annotations: 
+        label_slim_status "IN - metabolic process - 767325012"^^xsd:string
+    
+    
+Class: GO_0015920
+
+    Annotations: 
+        label_slim_status "IN - lipopolysaccharide transport - 1421"^^xsd:string
+    
+    
+Class: GO_0009247
+
+    Annotations: 
+        label_slim_status "IN - glycolipid biosynthetic process - 166038"^^xsd:string
+    
+    
+Class: GO_0007067
+
+    Annotations: 
+        label_slim_status "IN - mitosis - 110916"^^xsd:string
+    
+    
+Class: GO_0009245
+
+    Annotations: 
+        label_slim_status "IN - lipid A biosynthetic process - 24436653"^^xsd:string
+    
+    
+Class: GO_0009246
+
+    Annotations: 
+        label_slim_status "IN - enterobacterial common antigen biosynthetic process - 90920"^^xsd:string
+    
+    
+Class: GO_0044237
+
+    Annotations: 
+        label_slim_status "IN - cellular metabolic process - 5011140"^^xsd:string
+    
+    
+Class: GO_0044238
+
+    Annotations: 
+        label_slim_status "IN - primary metabolic process - 2468560"^^xsd:string
+    
+    
+Class: GO_0009249
+
+    Annotations: 
+        label_slim_status "IN - protein lipoylation - 7678865"^^xsd:string
+    
+    
+Class: GO_0020027
+
+    Annotations: 
+        label_slim_status "IN - hemoglobin metabolic process - 3477"^^xsd:string
+    
+    
+Class: GO_0046417
+
+    Annotations: 
+        label_slim_status "IN - chorismate metabolic process - 2796540"^^xsd:string
+    
+    
+Class: GO_0019281
+
+    Annotations: 
+        label_slim_status "IN - L-methionine biosynthetic process from homoserine via O-succinyl-L-homoserine and cystathionine - 4115764"^^xsd:string
+    
+    
+Class: GO_0018193
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-amino acid modification - 686086"^^xsd:string
+    
+    
+Class: GO_0019295
+
+    Annotations: 
+        label_slim_status "IN - coenzyme M biosynthetic process - 297204"^^xsd:string
+    
+    
+Class: GO_0019054
+
+    Annotations: 
+        label_slim_status "IN - modulation by virus of host cellular process - 476"^^xsd:string
+    
+    
+Class: GO_0019299
+
+    Annotations: 
+        label_slim_status "IN - rhamnose metabolic process - 1922689"^^xsd:string
+    
+    
+Class: GO_0046654
+
+    Annotations: 
+        label_slim_status "IN - tetrahydrofolate biosynthetic process - 2371215"^^xsd:string
+    
+    
+Class: GO_0046411
+
+    Annotations: 
+        label_slim_status "IN - 2-keto-3-deoxygluconate transport - 92429"^^xsd:string
+    
+    
+Class: GO_0019058
+
+    Annotations: 
+        label_slim_status "IN - viral infectious cycle - 554502"^^xsd:string
+    
+    
+Class: GO_0046653
+
+    Annotations: 
+        label_slim_status "IN - tetrahydrofolate metabolic process - 2113032"^^xsd:string
+    
+    
+Class: GO_0046656
+
+    Annotations: 
+        label_slim_status "IN - folic acid biosynthetic process - 4"^^xsd:string
+    
+    
+Class: GO_0046413
+
+    Annotations: 
+        label_slim_status "IN - organomercury catabolic process - 51032"^^xsd:string
+    
+    
+Class: GO_0032006
+
+    Annotations: 
+        label_slim_status "OUT - regulation of TOR signaling cascade - 16503"^^xsd:string
+    
+    
+Class: GO_0032008
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of TOR signaling cascade - 970"^^xsd:string
+    
+    
+Class: GO_0032007
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of TOR signaling cascade - 51"^^xsd:string
+    
+    
+Class: GO_0071816
+
+    Annotations: 
+        label_slim_status "OUT - tail-anchored membrane protein insertion into ER membrane - 8191"^^xsd:string
+    
+    
+Class: GO_0009250
+
+    Annotations: 
+        label_slim_status "IN - glucan biosynthetic process - 572467"^^xsd:string
+    
+    
+Class: GO_0009254
+
+    Annotations: 
+        label_slim_status "IN - peptidoglycan turnover - 5494103"^^xsd:string
+    
+    
+Class: GO_0009252
+
+    Annotations: 
+        label_slim_status "IN - peptidoglycan biosynthetic process - 1408012"^^xsd:string
+    
+    
+Class: GO_0007076
+
+    Annotations: 
+        label_slim_status "IN - mitotic chromosome condensation - 75447"^^xsd:string
+    
+    
+Class: GO_0009253
+
+    Annotations: 
+        label_slim_status "IN - peptidoglycan catabolic process - 13817568"^^xsd:string
+    
+    
+Class: GO_0032012
+
+    Annotations: 
+        label_slim_status "OUT - regulation of ARF protein signal transduction - 222454"^^xsd:string
+    
+    
+Class: GO_0031167
+
+    Annotations: 
+        label_slim_status "IN - rRNA methylation - 5255334"^^xsd:string
+    
+    
+Class: GO_0055114
+
+    Annotations: 
+        label_slim_status "IN - oxidation-reduction process - 1124784882"^^xsd:string
+    
+    
+Class: GO_0046649
+
+    Annotations: 
+        label_slim_status "OUT - lymphocyte activation - 211"^^xsd:string
+    
+    
+Class: GO_0019290
+
+    Annotations: 
+        label_slim_status "IN - siderophore biosynthetic process - 776935"^^xsd:string
+    
+    
+Class: GO_0019050
+
+    Annotations: 
+        label_slim_status "IN - suppression by virus of host apoptosis - 250"^^xsd:string
+    
+    
+Class: GO_0001934
+
+    Annotations: 
+        label_slim_status "IN - positive regulation of protein phosphorylation - 1139"^^xsd:string
+    
+    
+Class: GO_0019051
+
+    Annotations: 
+        label_slim_status "IN - induction by virus of host apoptosis - 2"^^xsd:string
+    
+    
+Class: GO_0030071
+
+    Annotations: 
+        label_slim_status "OUT - regulation of mitotic metaphase/anaphase transition - 24238"^^xsd:string
+    
+    
+Class: GO_0001932
+
+    Annotations: 
+        label_slim_status "IN - regulation of protein phosphorylation - 212116"^^xsd:string
+    
+    
+Class: GO_0019064
+
+    Annotations: 
+        label_slim_status "IN - viral envelope fusion with host membrane - 214755"^^xsd:string
+    
+    
+Class: GO_0044262
+
+    Annotations: 
+        label_slim_status "IN - cellular carbohydrate metabolic process - 17382511"^^xsd:string
+    
+    
+Class: GO_0046685
+
+    Annotations: 
+        label_slim_status "IN - response to arsenic-containing substance - 101094"^^xsd:string
+    
+    
+Class: GO_0045596
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of cell differentiation - 528"^^xsd:string
+    
+    
+Class: GO_0019068
+
+    Annotations: 
+        label_slim_status "IN - virion assembly - 136513"^^xsd:string
+    
+    
+Class: GO_0044267
+
+    Annotations: 
+        label_slim_status "IN - cellular protein metabolic process - 14321"^^xsd:string
+    
+    
+Class: GO_0019069
+
+    Annotations: 
+        label_slim_status "IN - viral capsid assembly - 1059429"^^xsd:string
+    
+    
+Class: GO_0046689
+
+    Annotations: 
+        label_slim_status "IN - response to mercury ion - 1895"^^xsd:string
+    
+    
+Class: GO_0045116
+
+    Annotations: 
+        label_slim_status "IN - protein neddylation - 28884"^^xsd:string
+    
+    
+Class: GO_0046688
+
+    Annotations: 
+        label_slim_status "IN - response to copper ion - 230154"^^xsd:string
+    
+    
+Class: GO_0035307
+
+    Annotations: 
+        label_slim_status "IN - positive regulation of protein dephosphorylation - 8912"^^xsd:string
+    
+    
+Class: GO_0034219
+
+    Annotations: 
+        label_slim_status "IN - carbohydrate transmembrane transport - 255993"^^xsd:string
+    
+    
+Class: GO_0050708
+
+    Annotations: 
+        label_slim_status "OUT - regulation of protein secretion - 24468"^^xsd:string
+    
+    
+Class: GO_0050709
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of protein secretion - 5"^^xsd:string
+    
+    
+Class: GO_0015936
+
+    Annotations: 
+        label_slim_status "IN - coenzyme A metabolic process - 2298879"^^xsd:string
+    
+    
+Class: GO_0015937
+
+    Annotations: 
+        label_slim_status "IN - coenzyme A biosynthetic process - 7553318"^^xsd:string
+    
+    
+Class: GO_0044260
+
+    Annotations: 
+        label_slim_status "IN - cellular macromolecule metabolic process - 293"^^xsd:string
+    
+    
+Class: GO_0015941
+
+    Annotations: 
+        label_slim_status "IN - pantothenate catabolic process - 1"^^xsd:string
+    
+    
+Class: GO_0010498
+
+    Annotations: 
+        label_slim_status "IN - proteasomal protein catabolic process - 1346551"^^xsd:string
+    
+    
+Class: GO_0009264
+
+    Annotations: 
+        label_slim_status "IN - deoxyribonucleotide catabolic process - 306375"^^xsd:string
+    
+    
+Class: GO_0015700
+
+    Annotations: 
+        label_slim_status "IN - arsenite transport - 646216"^^xsd:string
+    
+    
+Class: GO_0034220
+
+    Annotations: 
+        label_slim_status "IN - ion transmembrane transport - 758680"^^xsd:string
+    
+    
+Class: GO_0035556
+
+    Annotations: 
+        label_slim_status "IN - intracellular signal transduction - 8875892"^^xsd:string
+    
+    
+Class: GO_0015940
+
+    Annotations: 
+        label_slim_status "IN - pantothenate biosynthetic process - 15215469"^^xsd:string
+    
+    
+Class: GO_0009267
+
+    Annotations: 
+        label_slim_status "IN - cellular response to starvation - 3458137"^^xsd:string
+    
+    
+Class: GO_0046439
+
+    Annotations: 
+        label_slim_status "IN - L-cysteine metabolic process - 186132"^^xsd:string
+    
+    
+Class: GO_0019060
+
+    Annotations: 
+        label_slim_status "IN - intracellular transport of viral proteins in host cell - 21099"^^xsd:string
+    
+    
+Class: GO_0019062
+
+    Annotations: 
+        label_slim_status "OUT - viral attachment to host cell - 46797"^^xsd:string
+    
+    
+Class: GO_0019076
+
+    Annotations: 
+        label_slim_status "IN - release of virus from host - 2272"^^xsd:string
+    
+    
+Class: GO_0071630
+
+    Annotations: 
+        label_slim_status "IN - nucleus-associated proteasomal ubiquitin-dependent protein catabolic process - 3689"^^xsd:string
+    
+    
+Class: GO_0043165
+
+    Annotations: 
+        label_slim_status "IN - Gram-negative-bacterium-type cell outer membrane assembly - 163851"^^xsd:string
+    
+    
+Class: GO_0019079
+
+    Annotations: 
+        label_slim_status "IN - viral genome replication - 42968"^^xsd:string
+    
+    
+Class: GO_0046677
+
+    Annotations: 
+        label_slim_status "IN - response to antibiotic - 770754"^^xsd:string
+    
+    
+Class: GO_0015708
+
+    Annotations: 
+        label_slim_status "IN - silicate transport - 10722"^^xsd:string
+    
+    
+Class: GO_0007093
+
+    Annotations: 
+        label_slim_status "OUT - mitotic cell cycle checkpoint - 424"^^xsd:string
+    
+    
+Class: GO_0015947
+
+    Annotations: 
+        label_slim_status "IN - methane metabolic process - 4523"^^xsd:string
+    
+    
+Class: GO_0015706
+
+    Annotations: 
+        label_slim_status "IN - nitrate transport - 4"^^xsd:string
+    
+    
+Class: GO_0015948
+
+    Annotations: 
+        label_slim_status "IN - methanogenesis - 5775920"^^xsd:string
+    
+    
+Class: GO_0015703
+
+    Annotations: 
+        label_slim_status "IN - chromate transport - 2265729"^^xsd:string
+    
+    
+Class: GO_0015946
+
+    Annotations: 
+        label_slim_status "IN - methanol oxidation - 2479"^^xsd:string
+    
+    
+Class: GO_0007094
+
+    Annotations: 
+        label_slim_status "OUT - mitotic cell cycle spindle assembly checkpoint - 7902"^^xsd:string
+    
+    
+Class: GO_0043161
+
+    Annotations: 
+        label_slim_status "IN - proteasomal ubiquitin-dependent protein catabolic process - 51249"^^xsd:string
+    
+    
+Class: GO_0009271
+
+    Annotations: 
+        label_slim_status "IN - phage shock - 51344"^^xsd:string
+    
+    
+Class: GO_0042073
+
+    Annotations: 
+        label_slim_status "IN - intraflagellar transport - 55922"^^xsd:string
+    
+    
+Class: GO_0007096
+
+    Annotations: 
+        label_slim_status "OUT - regulation of exit from mitosis - 732"^^xsd:string
+    
+    
+Class: GO_0034453
+
+    Annotations: 
+        label_slim_status "IN - microtubule anchoring - 16078"^^xsd:string
+    
+    
+Class: GO_0010024
+
+    Annotations: 
+        label_slim_status "IN - phytochromobilin biosynthetic process - 1962968"^^xsd:string
+    
+    
+Class: GO_0030097
+
+    Annotations: 
+        label_slim_status "OUT - hemopoiesis - 3477"^^xsd:string
+    
+    
+Class: GO_0015711
+
+    Annotations: 
+        label_slim_status "IN - organic anion transport - 235560"^^xsd:string
+    
+    
+Class: GO_0001919
+
+    Annotations: 
+        label_slim_status "IN - regulation of receptor recycling - 970"^^xsd:string
+    
+    
+Class: GO_0001916
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of T cell mediated cytotoxicity - 3373"^^xsd:string
+    
+    
+Class: GO_0044249
+
+    Annotations: 
+        label_slim_status "IN - cellular biosynthetic process - 1285862"^^xsd:string
+    
+    
+Class: GO_0019072
+
+    Annotations: 
+        label_slim_status "IN - viral genome packaging - 39415"^^xsd:string
+    
+    
+Class: GO_0019073
+
+    Annotations: 
+        label_slim_status "IN - viral DNA genome packaging - 443390"^^xsd:string
+    
+    
+Class: GO_0045132
+
+    Annotations: 
+        label_slim_status "OUT - meiotic chromosome segregation - 5377"^^xsd:string
+    
+    
+Class: GO_0019087
+
+    Annotations: 
+        label_slim_status "IN - transformation of host cell by virus - 5861"^^xsd:string
+    
+    
+Class: GO_0050920
+
+    Annotations: 
+        label_slim_status "OUT - regulation of chemotaxis - 116072"^^xsd:string
+    
+    
+Class: GO_0019089
+
+    Annotations: 
+        label_slim_status "IN - transmission of virus - 1865"^^xsd:string
+    
+    
+Class: GO_0015716
+
+    Annotations: 
+        label_slim_status "IN - organic phosphonate transport - 114232"^^xsd:string
+    
+    
+Class: GO_0010027
+
+    Annotations: 
+        label_slim_status "IN - thylakoid membrane organization - 600105"^^xsd:string
+    
+    
+Class: GO_0015721
+
+    Annotations: 
+        label_slim_status "IN - bile acid and bile salt transport - 143"^^xsd:string
+    
+    
+Class: GO_0032065
+
+    Annotations: 
+        label_slim_status "OUT - cortical protein anchoring - 7228"^^xsd:string
+    
+    
+Class: GO_0010033
+
+    Annotations: 
+        label_slim_status "IN - response to organic substance - 935566"^^xsd:string
+    
+    
+Class: GO_0060967
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of gene silencing by RNA - 53"^^xsd:string
+    
+    
+Class: GO_0022008
+
+    Annotations: 
+        label_slim_status "OUT - neurogenesis - 1260"^^xsd:string
+    
+    
+Class: GO_0019082
+
+    Annotations: 
+        label_slim_status "IN - viral protein processing - 16369"^^xsd:string
+    
+    
+Class: GO_0019083
+
+    Annotations: 
+        label_slim_status "IN - viral transcription - 171767"^^xsd:string
+    
+    
+Class: GO_0033151
+
+    Annotations: 
+        label_slim_status "IN - V(D)J recombination - 948"^^xsd:string
+    
+    
+Class: GO_0045122
+
+    Annotations: 
+        label_slim_status "IN - aflatoxin biosynthetic process - 111"^^xsd:string
+    
+    
+Class: GO_0044038
+
+    Annotations: 
+        label_slim_status "IN - cell wall macromolecule biosynthetic process - 445862"^^xsd:string
+    
+    
+Class: GO_0034229
+
+    Annotations: 
+        label_slim_status "IN - ethanolamine transport - 195795"^^xsd:string
+    
+    
+Class: GO_0032049
+
+    Annotations: 
+        label_slim_status "IN - cardiolipin biosynthetic process - 6"^^xsd:string
+    
+    
+Class: GO_0009291
+
+    Annotations: 
+        label_slim_status "OUT - unidirectional conjugation - 757215"^^xsd:string
+    
+    
+Class: GO_0034227
+
+    Annotations: 
+        label_slim_status "IN - tRNA thio-modification - 25646"^^xsd:string
+    
+    
+Class: GO_0070526
+
+    Annotations: 
+        label_slim_status "OUT - threonylcarbamoyladenosine biosynthetic process - 4375098"^^xsd:string
+    
+    
+Class: GO_0046690
+
+    Annotations: 
+        label_slim_status "IN - response to tellurium ion - 9"^^xsd:string
+    
+    
+Class: GO_0010038
+
+    Annotations: 
+        label_slim_status "IN - response to metal ion - 1152940"^^xsd:string
+    
+    
+Class: GO_0009052
+
+    Annotations: 
+        label_slim_status "IN - \"pentose-phosphate shunt, non-oxidative branch\" - 2239072"^^xsd:string
+    
+    
+Class: GO_0009294
+
+    Annotations: 
+        label_slim_status "OUT - DNA mediated transformation - 2359921"^^xsd:string
+    
+    
+Class: GO_0015727
+
+    Annotations: 
+        label_slim_status "IN - lactate transport - 2479823"^^xsd:string
+    
+    
+Class: GO_0015969
+
+    Annotations: 
+        label_slim_status "IN - guanosine tetraphosphate metabolic process - 6536183"^^xsd:string
+    
+    
+Class: GO_0048870
+
+    Annotations: 
+        label_slim_status "OUT - cell motility - 32050"^^xsd:string
+    
+    
+Class: GO_0044030
+
+    Annotations: 
+        label_slim_status "IN - regulation of DNA methylation - 24"^^xsd:string
+    
+    
+Class: GO_0003081
+
+    Annotations: 
+        label_slim_status "OUT - regulation of systemic arterial blood pressure by renin-angiotensin - 892"^^xsd:string
+    
+    
+Class: GO_0010045
+
+    Annotations: 
+        label_slim_status "IN - response to nickel cation - 2"^^xsd:string
+    
+    
+Class: GO_0009298
+
+    Annotations: 
+        label_slim_status "IN - GDP-mannose biosynthetic process - 242457"^^xsd:string
+    
+    
+Class: GO_0015976
+
+    Annotations: 
+        label_slim_status "OUT - carbon utilization - 309477"^^xsd:string
+    
+    
+Class: GO_0009056
+
+    Annotations: 
+        label_slim_status "IN - catabolic process - 638596"^^xsd:string
+    
+    
+Class: GO_0015977
+
+    Annotations: 
+        label_slim_status "IN - carbon fixation - 10293514"^^xsd:string
+    
+    
+Class: GO_0032297
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of DNA-dependent DNA replication initiation - 70614"^^xsd:string
+    
+    
+Class: GO_0009297
+
+    Annotations: 
+        label_slim_status "IN - pilus assembly - 28258"^^xsd:string
+    
+    
+Class: GO_0009058
+
+    Annotations: 
+        label_slim_status "IN - biosynthetic process - 253057860"^^xsd:string
+    
+    
+Class: GO_0034477
+
+    Annotations: 
+        label_slim_status "IN - U6 snRNA 3'-end processing - 11879"^^xsd:string
+    
+    
+Class: GO_0009059
+
+    Annotations: 
+        label_slim_status "IN - macromolecule biosynthetic process - 12839"^^xsd:string
+    
+    
+Class: GO_0090124
+
+    Annotations: 
+        label_slim_status "IN - N-4 methylation of cytosine - 1067353"^^xsd:string
+    
+    
+Class: GO_0046488
+
+    Annotations: 
+        label_slim_status "IN - phosphatidylinositol metabolic process - 326228"^^xsd:string
+    
+    
+Class: GO_0009060
+
+    Annotations: 
+        label_slim_status "IN - aerobic respiration - 19291329"^^xsd:string
+    
+    
+Class: GO_0009063
+
+    Annotations: 
+        label_slim_status "IN - cellular amino acid catabolic process - 656381"^^xsd:string
+    
+    
+Class: GO_0045151
+
+    Annotations: 
+        label_slim_status "IN - acetoin biosynthetic process - 545042"^^xsd:string
+    
+    
+Class: GO_0015979
+
+    Annotations: 
+        label_slim_status "IN - photosynthesis - 22642724"^^xsd:string
+    
+    
+Class: GO_0015743
+
+    Annotations: 
+        label_slim_status "IN - malate transport - 1902"^^xsd:string
+    
+    
+Class: GO_0015986
+
+    Annotations: 
+        label_slim_status "IN - ATP synthesis coupled proton transport - 37002722"^^xsd:string
+    
+    
+Class: GO_0015740
+
+    Annotations: 
+        label_slim_status "IN - C4-dicarboxylate transport - 2775232"^^xsd:string
+    
+    
+Class: GO_0051603
+
+    Annotations: 
+        label_slim_status "IN - proteolysis involved in cellular protein catabolic process - 2866912"^^xsd:string
+    
+    
+Class: GO_0050992
+
+    Annotations: 
+        label_slim_status "IN - dimethylallyl diphosphate biosynthetic process - 10835781"^^xsd:string
+    
+    
+Class: GO_0070588
+
+    Annotations: 
+        label_slim_status "IN - calcium ion transmembrane transport - 122209"^^xsd:string
+    
+    
+Class: GO_0071436
+
+    Annotations: 
+        label_slim_status "IN - sodium ion export - 369537"^^xsd:string
+    
+    
+Class: GO_0045149
+
+    Annotations: 
+        label_slim_status "IN - acetoin metabolic process - 4617"^^xsd:string
+    
+    
+Class: GO_0051609
+
+    Annotations: 
+        label_slim_status "OUT - inhibition of neurotransmitter uptake - 4358"^^xsd:string
+    
+    
+Class: GO_0009074
+
+    Annotations: 
+        label_slim_status "IN - aromatic amino acid family catabolic process - 1154"^^xsd:string
+    
+    
+Class: GO_0046470
+
+    Annotations: 
+        label_slim_status "IN - phosphatidylcholine metabolic process - 6625"^^xsd:string
+    
+    
+Class: GO_0051607
+
+    Annotations: 
+        label_slim_status "IN - defense response to virus - 6362"^^xsd:string
+    
+    
+Class: GO_0009072
+
+    Annotations: 
+        label_slim_status "IN - aromatic amino acid family metabolic process - 1024598"^^xsd:string
+    
+    
+Class: GO_0051606
+
+    Annotations: 
+        label_slim_status "OUT - detection of stimulus - 47"^^xsd:string
+    
+    
+Class: GO_0009073
+
+    Annotations: 
+        label_slim_status "IN - aromatic amino acid family biosynthetic process - 24761187"^^xsd:string
+    
+    
+Class: GO_0015756
+
+    Annotations: 
+        label_slim_status "IN - fucose transport - 2"^^xsd:string
+    
+    
+Class: GO_0015757
+
+    Annotations: 
+        label_slim_status "IN - galactose transport - 2"^^xsd:string
+    
+    
+Class: GO_0015996
+
+    Annotations: 
+        label_slim_status "IN - chlorophyll catabolic process - 50594"^^xsd:string
+    
+    
+Class: GO_0015755
+
+    Annotations: 
+        label_slim_status "IN - fructose transport - 15"^^xsd:string
+    
+    
+Class: GO_0034258
+
+    Annotations: 
+        label_slim_status "IN - nicotinamide riboside transport - 1555548"^^xsd:string
+    
+    
+Class: GO_0015995
+
+    Annotations: 
+        label_slim_status "IN - chlorophyll biosynthetic process - 4816346"^^xsd:string
+    
+    
+Class: GO_0015992
+
+    Annotations: 
+        label_slim_status "IN - proton transport - 27381183"^^xsd:string
+    
+    
+Class: GO_0015990
+
+    Annotations: 
+        label_slim_status "IN - electron transport coupled proton transport - 211"^^xsd:string
+    
+    
+Class: GO_0015991
+
+    Annotations: 
+        label_slim_status "IN - ATP hydrolysis coupled proton transport - 13230465"^^xsd:string
+    
+    
+Class: GO_0006801
+
+    Annotations: 
+        label_slim_status "IN - superoxide metabolic process - 5348085"^^xsd:string
+    
+    
+Class: GO_0006807
+
+    Annotations: 
+        label_slim_status "IN - nitrogen compound metabolic process - 56984702"^^xsd:string
+    
+    
+Class: GO_0006809
+
+    Annotations: 
+        label_slim_status "IN - nitric oxide biosynthetic process - 194482"^^xsd:string
+    
+    
+Class: GO_0006808
+
+    Annotations: 
+        label_slim_status "IN - regulation of nitrogen utilization - 3531692"^^xsd:string
+    
+    
+Class: GO_0009081
+
+    Annotations: 
+        label_slim_status "IN - branched chain family amino acid metabolic process - 11"^^xsd:string
+    
+    
+Class: GO_0009082
+
+    Annotations: 
+        label_slim_status "IN - branched chain family amino acid biosynthetic process - 5826948"^^xsd:string
+    
+    
+Class: GO_0072519
+
+    Annotations: 
+        label_slim_status "OUT - parasitism - 1304"^^xsd:string
+    
+    
+Class: GO_0009086
+
+    Annotations: 
+        label_slim_status "IN - methionine biosynthetic process - 8929449"^^xsd:string
+    
+    
+Class: GO_0015758
+
+    Annotations: 
+        label_slim_status "IN - glucose transport - 110"^^xsd:string
+    
+    
+Class: GO_0009089
+
+    Annotations: 
+        label_slim_status "IN - lysine biosynthetic process via diaminopimelate - 13562393"^^xsd:string
+    
+    
+Class: GO_0015768
+
+    Annotations: 
+        label_slim_status "IN - maltose transport - 13790"^^xsd:string
+    
+    
+Class: GO_0009088
+
+    Annotations: 
+        label_slim_status "IN - threonine biosynthetic process - 887"^^xsd:string
+    
+    
+Class: GO_0033198
+
+    Annotations: 
+        label_slim_status "IN - response to ATP - 29382"^^xsd:string
+    
+    
+Class: GO_0015761
+
+    Annotations: 
+        label_slim_status "IN - mannose transport - 1214"^^xsd:string
+    
+    
+Class: GO_0006810
+
+    Annotations: 
+        label_slim_status "IN - transport - 324855969"^^xsd:string
+    
+    
+Class: GO_0006812
+
+    Annotations: 
+        label_slim_status "IN - cation transport - 21740220"^^xsd:string
+    
+    
+Class: GO_0006811
+
+    Annotations: 
+        label_slim_status "IN - ion transport - 2763661"^^xsd:string
+    
+    
+Class: GO_0006814
+
+    Annotations: 
+        label_slim_status "IN - sodium ion transport - 29258774"^^xsd:string
+    
+    
+Class: GO_0006813
+
+    Annotations: 
+        label_slim_status "IN - potassium ion transport - 16337971"^^xsd:string
+    
+    
+Class: GO_0006816
+
+    Annotations: 
+        label_slim_status "IN - calcium ion transport - 19382"^^xsd:string
+    
+    
+Class: GO_0006817
+
+    Annotations: 
+        label_slim_status "IN - phosphate ion transport - 4710235"^^xsd:string
+    
+    
+Class: GO_0030908
+
+    Annotations: 
+        label_slim_status "IN - protein splicing - 80985"^^xsd:string
+    
+    
+Class: GO_0070329
+
+    Annotations: 
+        label_slim_status "IN - tRNA seleno-modification - 2"^^xsd:string
+    
+    
+Class: GO_0044070
+
+    Annotations: 
+        label_slim_status "OUT - regulation of anion transport - 3033"^^xsd:string
+    
+    
+Class: GO_0009094
+
+    Annotations: 
+        label_slim_status "IN - L-phenylalanine biosynthetic process - 6885257"^^xsd:string
+    
+    
+Class: GO_0032099
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of appetite - 1352"^^xsd:string
+    
+    
+Class: GO_0009098
+
+    Annotations: 
+        label_slim_status "IN - leucine biosynthetic process - 4719546"^^xsd:string
+    
+    
+Class: GO_0032098
+
+    Annotations: 
+        label_slim_status "OUT - regulation of appetite - 65"^^xsd:string
+    
+    
+Class: GO_0015774
+
+    Annotations: 
+        label_slim_status "IN - polysaccharide transport - 1510311"^^xsd:string
+    
+    
+Class: GO_0046008
+
+    Annotations: 
+        label_slim_status "OUT - \"regulation of female receptivity, post-mating\" - 5"^^xsd:string
+    
+    
+Class: GO_0006821
+
+    Annotations: 
+        label_slim_status "IN - chloride transport - 3649037"^^xsd:string
+    
+    
+Class: GO_0006820
+
+    Annotations: 
+        label_slim_status "IN - anion transport - 327246"^^xsd:string
+    
+    
+Class: GO_0005975
+
+    Annotations: 
+        label_slim_status "IN - carbohydrate metabolic process - 342556475"^^xsd:string
+    
+    
+Class: GO_0005976
+
+    Annotations: 
+        label_slim_status "IN - polysaccharide metabolic process - 3748141"^^xsd:string
+    
+    
+Class: GO_0006825
+
+    Annotations: 
+        label_slim_status "IN - copper ion transport - 32807"^^xsd:string
+    
+    
+Class: GO_0006824
+
+    Annotations: 
+        label_slim_status "IN - cobalt ion transport - 67735"^^xsd:string
+    
+    
+Class: GO_0005978
+
+    Annotations: 
+        label_slim_status "IN - glycogen biosynthetic process - 2499688"^^xsd:string
+    
+    
+Class: GO_0006827
+
+    Annotations: 
+        label_slim_status "IN - high-affinity iron ion transport - 576542"^^xsd:string
+    
+    
+Class: GO_0006826
+
+    Annotations: 
+        label_slim_status "IN - iron ion transport - 547987"^^xsd:string
+    
+    
+Class: GO_0005980
+
+    Annotations: 
+        label_slim_status "IN - glycogen catabolic process - 1079397"^^xsd:string
+    
+    
+Class: GO_0050790
+
+    Annotations: 
+        label_slim_status "OUT - regulation of catalytic activity - 9828"^^xsd:string
+    
+    
+Class: GO_0042919
+
+    Annotations: 
+        label_slim_status "IN - benzoate transport - 400042"^^xsd:string
+    
+    
+Class: GO_0015780
+
+    Annotations: 
+        label_slim_status "IN - nucleotide-sugar transport - 811"^^xsd:string
+    
+    
+Class: GO_0050792
+
+    Annotations: 
+        label_slim_status "OUT - regulation of viral reproduction - 22450"^^xsd:string
+    
+    
+Class: GO_0005985
+
+    Annotations: 
+        label_slim_status "IN - sucrose metabolic process - 68983"^^xsd:string
+    
+    
+Class: GO_0005986
+
+    Annotations: 
+        label_slim_status "IN - sucrose biosynthetic process - 362"^^xsd:string
+    
+    
+Class: GO_0006833
+
+    Annotations: 
+        label_slim_status "IN - water transport - 13"^^xsd:string
+    
+    
+Class: GO_0042916
+
+    Annotations: 
+        label_slim_status "IN - alkylphosphonate transport - 342726"^^xsd:string
+    
+    
+Class: GO_0006836
+
+    Annotations: 
+        label_slim_status "IN - neurotransmitter transport - 4620176"^^xsd:string
+    
+    
+Class: GO_0006835
+
+    Annotations: 
+        label_slim_status "IN - dicarboxylic acid transport - 9060976"^^xsd:string
+    
+    
+Class: GO_0046034
+
+    Annotations: 
+        label_slim_status "IN - ATP metabolic process - 7424823"^^xsd:string
+    
+    
+Class: GO_0006839
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial transport - 127"^^xsd:string
+    
+    
+Class: GO_0050795
+
+    Annotations: 
+        label_slim_status "OUT - regulation of behavior - 558"^^xsd:string
+    
+    
+Class: GO_0071479
+
+    Annotations: 
+        label_slim_status "IN - cellular response to ionizing radiation - 390"^^xsd:string
+    
+    
+Class: GO_0046039
+
+    Annotations: 
+        label_slim_status "IN - GTP metabolic process - 1691"^^xsd:string
+    
+    
+Class: GO_0015797
+
+    Annotations: 
+        label_slim_status "IN - mannitol transport - 1"^^xsd:string
+    
+    
+Class: GO_0005990
+
+    Annotations: 
+        label_slim_status "IN - lactose catabolic process - 1011"^^xsd:string
+    
+    
+Class: GO_0005991
+
+    Annotations: 
+        label_slim_status "IN - trehalose metabolic process - 402223"^^xsd:string
+    
+    
+Class: GO_0005992
+
+    Annotations: 
+        label_slim_status "IN - trehalose biosynthetic process - 2571010"^^xsd:string
+    
+    
+Class: GO_0005993
+
+    Annotations: 
+        label_slim_status "IN - trehalose catabolic process - 5473"^^xsd:string
+    
+    
+Class: GO_0005996
+
+    Annotations: 
+        label_slim_status "IN - monosaccharide metabolic process - 1145165"^^xsd:string
+    
+    
+Class: GO_0006605
+
+    Annotations: 
+        label_slim_status "IN - protein targeting - 7312614"^^xsd:string
+    
+    
+Class: GO_0050765
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of phagocytosis - 99"^^xsd:string
+    
+    
+Class: GO_0006606
+
+    Annotations: 
+        label_slim_status "IN - protein import into nucleus - 40174"^^xsd:string
+    
+    
+Class: GO_0048245
+
+    Annotations: 
+        label_slim_status "OUT - eosinophil chemotaxis - 76"^^xsd:string
+    
+    
+Class: GO_0071229
+
+    Annotations: 
+        label_slim_status "IN - cellular response to acid - 13733"^^xsd:string
+    
+    
+Class: GO_0048484
+
+    Annotations: 
+        label_slim_status "OUT - enteric nervous system development - 379"^^xsd:string
+    
+    
+Class: GO_0060567
+
+    Annotations: 
+        label_slim_status "IN - \"negative regulation of transcription termination, DNA-dependent\" - 15554"^^xsd:string
+    
+    
+Class: GO_0006850
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial pyruvate transport - 40297"^^xsd:string
+    
+    
+Class: GO_0034080
+
+    Annotations: 
+        label_slim_status "IN - CenH3-containing nucleosome assembly at centromere - 706"^^xsd:string
+    
+    
+Class: GO_0006611
+
+    Annotations: 
+        label_slim_status "IN - protein export from nucleus - 7166"^^xsd:string
+    
+    
+Class: GO_0006614
+
+    Annotations: 
+        label_slim_status "IN - SRP-dependent cotranslational protein targeting to membrane - 26775031"^^xsd:string
+    
+    
+Class: GO_0006613
+
+    Annotations: 
+        label_slim_status "IN - cotranslational protein targeting to membrane - 19085"^^xsd:string
+    
+    
+Class: GO_0006855
+
+    Annotations: 
+        label_slim_status "IN - drug transmembrane transport - 9606665"^^xsd:string
+    
+    
+Class: GO_0071230
+
+    Annotations: 
+        label_slim_status "IN - cellular response to amino acid stimulus - 970"^^xsd:string
+    
+    
+Class: GO_0006858
+
+    Annotations: 
+        label_slim_status "IN - extracellular transport - 120201"^^xsd:string
+    
+    
+Class: GO_0006857
+
+    Annotations: 
+        label_slim_status "IN - oligopeptide transport - 687494"^^xsd:string
+    
+    
+Class: GO_0048478
+
+    Annotations: 
+        label_slim_status "IN - replication fork protection - 12469"^^xsd:string
+    
+    
+Class: GO_0050778
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of immune response - 353"^^xsd:string
+    
+    
+Class: GO_0046294
+
+    Annotations: 
+        label_slim_status "IN - formaldehyde catabolic process - 4"^^xsd:string
+    
+    
+Class: GO_0042921
+
+    Annotations: 
+        label_slim_status "IN - glucocorticoid receptor signaling pathway - 3336"^^xsd:string
+    
+    
+Class: GO_0006621
+
+    Annotations: 
+        label_slim_status "OUT - protein retention in ER lumen - 117934"^^xsd:string
+    
+    
+Class: GO_0006865
+
+    Annotations: 
+        label_slim_status "IN - amino acid transport - 2228036"^^xsd:string
+    
+    
+Class: GO_0006869
+
+    Annotations: 
+        label_slim_status "IN - lipid transport - 382772"^^xsd:string
+    
+    
+Class: GO_0006626
+
+    Annotations: 
+        label_slim_status "IN - protein targeting to mitochondrion - 2673"^^xsd:string
+    
+    
+Class: GO_0006508
+
+    Annotations: 
+        label_slim_status "IN - proteolysis - 185621941"^^xsd:string
+    
+    
+Class: GO_0006749
+
+    Annotations: 
+        label_slim_status "IN - glutathione metabolic process - 13417736"^^xsd:string
+    
+    
+Class: GO_0006509
+
+    Annotations: 
+        label_slim_status "IN - membrane protein ectodomain proteolysis - 95"^^xsd:string
+    
+    
+Class: GO_0000087
+
+    Annotations: 
+        label_slim_status "OUT - M phase of mitotic cell cycle - 6139"^^xsd:string
+    
+    
+Class: GO_2000028
+
+    Annotations: 
+        label_slim_status "OUT - \"regulation of photoperiodism, flowering\" - 18"^^xsd:string
+    
+    
+Class: GO_0048384
+
+    Annotations: 
+        label_slim_status "IN - retinoic acid receptor signaling pathway - 448"^^xsd:string
+    
+    
+Class: GO_0016559
+
+    Annotations: 
+        label_slim_status "IN - peroxisome fission - 24380"^^xsd:string
+    
+    
+Class: GO_0006750
+
+    Annotations: 
+        label_slim_status "IN - glutathione biosynthetic process - 8021534"^^xsd:string
+    
+    
+Class: GO_0016311
+
+    Annotations: 
+        label_slim_status "IN - dephosphorylation - 9129596"^^xsd:string
+    
+    
+Class: GO_0006511
+
+    Annotations: 
+        label_slim_status "IN - ubiquitin-dependent protein catabolic process - 3867423"^^xsd:string
+    
+    
+Class: GO_0016310
+
+    Annotations: 
+        label_slim_status "IN - phosphorylation - 47581434"^^xsd:string
+    
+    
+Class: GO_0007602
+
+    Annotations: 
+        label_slim_status "IN - phototransduction - 10738"^^xsd:string
+    
+    
+Class: GO_0006754
+
+    Annotations: 
+        label_slim_status "IN - ATP biosynthetic process - 106"^^xsd:string
+    
+    
+Class: GO_0007601
+
+    Annotations: 
+        label_slim_status "OUT - visual perception - 4125"^^xsd:string
+    
+    
+Class: GO_0035076
+
+    Annotations: 
+        label_slim_status "IN - ecdysone receptor-mediated signaling pathway - 1657"^^xsd:string
+    
+    
+Class: GO_0006998
+
+    Annotations: 
+        label_slim_status "IN - nuclear envelope organization - 7166"^^xsd:string
+    
+    
+Class: GO_0007606
+
+    Annotations: 
+        label_slim_status "OUT - sensory perception of chemical stimulus - 1531"^^xsd:string
+    
+    
+Class: GO_0007605
+
+    Annotations: 
+        label_slim_status "OUT - sensory perception of sound - 142"^^xsd:string
+    
+    
+Class: GO_0006516
+
+    Annotations: 
+        label_slim_status "IN - glycoprotein catabolic process - 583"^^xsd:string
+    
+    
+Class: GO_0007608
+
+    Annotations: 
+        label_slim_status "OUT - sensory perception of smell - 51256"^^xsd:string
+    
+    
+Class: GO_0006518
+
+    Annotations: 
+        label_slim_status "IN - peptide metabolic process - 3043"^^xsd:string
+    
+    
+Class: GO_0000079
+
+    Annotations: 
+        label_slim_status "IN - regulation of cyclin-dependent protein kinase activity - 187093"^^xsd:string
+    
+    
+Class: GO_0072488
+
+    Annotations: 
+        label_slim_status "IN - ammonium transmembrane transport - 911585"^^xsd:string
+    
+    
+Class: GO_0000077
+
+    Annotations: 
+        label_slim_status "IN - DNA damage checkpoint - 41556"^^xsd:string
+    
+    
+Class: GO_0000075
+
+    Annotations: 
+        label_slim_status "OUT - cell cycle checkpoint - 944"^^xsd:string
+    
+    
+Class: GO_0019835
+
+    Annotations: 
+        label_slim_status "OUT - cytolysis - 59889"^^xsd:string
+    
+    
+Class: GO_0019836
+
+    Annotations: 
+        label_slim_status "OUT - hemolysis by symbiont of host erythrocytes - 6533"^^xsd:string
+    
+    
+Class: GO_0042823
+
+    Annotations: 
+        label_slim_status "IN - pyridoxal phosphate biosynthetic process - 4685542"^^xsd:string
+    
+    
+Class: GO_0016568
+
+    Annotations: 
+        label_slim_status "OUT - chromatin modification - 31245"^^xsd:string
+    
+    
+Class: GO_0016567
+
+    Annotations: 
+        label_slim_status "IN - protein ubiquitination - 663689"^^xsd:string
+    
+    
+Class: GO_0006760
+
+    Annotations: 
+        label_slim_status "IN - folic acid-containing compound metabolic process - 2588035"^^xsd:string
+    
+    
+Class: GO_0006520
+
+    Annotations: 
+        label_slim_status "IN - cellular amino acid metabolic process - 57051805"^^xsd:string
+    
+    
+Class: GO_0006522
+
+    Annotations: 
+        label_slim_status "IN - alanine metabolic process - 1505649"^^xsd:string
+    
+    
+Class: GO_0016560
+
+    Annotations: 
+        label_slim_status "OUT - \"protein import into peroxisome matrix, docking\" - 17922"^^xsd:string
+    
+    
+Class: GO_0006523
+
+    Annotations: 
+        label_slim_status "IN - alanine biosynthetic process - 1420719"^^xsd:string
+    
+    
+Class: GO_0006526
+
+    Annotations: 
+        label_slim_status "IN - arginine biosynthetic process - 23180963"^^xsd:string
+    
+    
+Class: GO_0006525
+
+    Annotations: 
+        label_slim_status "IN - arginine metabolic process - 2188556"^^xsd:string
+    
+    
+Class: GO_0007617
+
+    Annotations: 
+        label_slim_status "OUT - mating behavior - 11"^^xsd:string
+    
+    
+Class: GO_0006527
+
+    Annotations: 
+        label_slim_status "IN - arginine catabolic process - 1515015"^^xsd:string
+    
+    
+Class: GO_0007618
+
+    Annotations: 
+        label_slim_status "OUT - mating - 176"^^xsd:string
+    
+    
+Class: GO_0030639
+
+    Annotations: 
+        label_slim_status "IN - polyketide biosynthetic process - 1712"^^xsd:string
+    
+    
+Class: GO_0006529
+
+    Annotations: 
+        label_slim_status "IN - asparagine biosynthetic process - 9743006"^^xsd:string
+    
+    
+Class: GO_0018990
+
+    Annotations: 
+        label_slim_status "OUT - \"ecdysis, chitin-based cuticle\" - 5008"^^xsd:string
+    
+    
+Class: GO_0003333
+
+    Annotations: 
+        label_slim_status "IN - amino acid transmembrane transport - 1495463"^^xsd:string
+    
+    
+Class: GO_0051775
+
+    Annotations: 
+        label_slim_status "OUT - response to redox state - 515716"^^xsd:string
+    
+    
+Class: GO_0019605
+
+    Annotations: 
+        label_slim_status "IN - butyrate metabolic process - 35442"^^xsd:string
+    
+    
+Class: GO_0016337
+
+    Annotations: 
+        label_slim_status "IN - cell-cell adhesion - 5916"^^xsd:string
+    
+    
+Class: GO_0007620
+
+    Annotations: 
+        label_slim_status "OUT - copulation - 66"^^xsd:string
+    
+    
+Class: GO_0006772
+
+    Annotations: 
+        label_slim_status "IN - thiamine metabolic process - 8014"^^xsd:string
+    
+    
+Class: GO_0016575
+
+    Annotations: 
+        label_slim_status "IN - histone deacetylation - 50953"^^xsd:string
+    
+    
+Class: GO_0050690
+
+    Annotations: 
+        label_slim_status "OUT - regulation of defense response to virus by virus - 2086"^^xsd:string
+    
+    
+Class: GO_0016573
+
+    Annotations: 
+        label_slim_status "IN - histone acetylation - 20636"^^xsd:string
+    
+    
+Class: GO_0051782
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of cell division - 22376"^^xsd:string
+    
+    
+Class: GO_0006535
+
+    Annotations: 
+        label_slim_status "IN - cysteine biosynthetic process from serine - 2273830"^^xsd:string
+    
+    
+Class: GO_0006777
+
+    Annotations: 
+        label_slim_status "IN - Mo-molybdopterin cofactor biosynthetic process - 8765013"^^xsd:string
+    
+    
+Class: GO_0035092
+
+    Annotations: 
+        label_slim_status "IN - sperm chromatin condensation - 5"^^xsd:string
+    
+    
+Class: GO_0007623
+
+    Annotations: 
+        label_slim_status "OUT - circadian rhythm - 50508"^^xsd:string
+    
+    
+Class: GO_0007626
+
+    Annotations: 
+        label_slim_status "OUT - locomotory behavior - 212"^^xsd:string
+    
+    
+Class: GO_0016570
+
+    Annotations: 
+        label_slim_status "IN - histone modification - 21349"^^xsd:string
+    
+    
+Class: GO_0006537
+
+    Annotations: 
+        label_slim_status "IN - glutamate biosynthetic process - 16672199"^^xsd:string
+    
+    
+Class: GO_0006779
+
+    Annotations: 
+        label_slim_status "IN - porphyrin-containing compound biosynthetic process - 17118783"^^xsd:string
+    
+    
+Class: GO_0006778
+
+    Annotations: 
+        label_slim_status "IN - porphyrin-containing compound metabolic process - 726"^^xsd:string
+    
+    
+Class: GO_0042619
+
+    Annotations: 
+        label_slim_status "IN - poly-hydroxybutyrate biosynthetic process - 524607"^^xsd:string
+    
+    
+Class: GO_0051304
+
+    Annotations: 
+        label_slim_status "OUT - chromosome separation - 3653765"^^xsd:string
+    
+    
+Class: GO_0002474
+
+    Annotations: 
+        label_slim_status "OUT - antigen processing and presentation of peptide antigen via MHC class I - 3373"^^xsd:string
+    
+    
+Class: GO_0051302
+
+    Annotations: 
+        label_slim_status "OUT - regulation of cell division - 55226"^^xsd:string
+    
+    
+Class: GO_0051301
+
+    Annotations: 
+        label_slim_status "OUT - cell division - 28714524"^^xsd:string
+    
+    
+Class: GO_0019856
+
+    Annotations: 
+        label_slim_status "IN - pyrimidine base biosynthetic process - 4907"^^xsd:string
+    
+    
+Class: GO_0032801
+
+    Annotations: 
+        label_slim_status "IN - receptor catabolic process - 2248"^^xsd:string
+    
+    
+Class: GO_0000290
+
+    Annotations: 
+        label_slim_status "IN - deadenylation-dependent decapping of nuclear-transcribed mRNA - 2443"^^xsd:string
+    
+    
+Class: GO_0030866
+
+    Annotations: 
+        label_slim_status "IN - cortical actin cytoskeleton organization - 5628"^^xsd:string
+    
+    
+Class: GO_0043937
+
+    Annotations: 
+        label_slim_status "OUT - regulation of sporulation - 131933"^^xsd:string
+    
+    
+Class: GO_0016106
+
+    Annotations: 
+        label_slim_status "IN - sesquiterpenoid biosynthetic process - 76"^^xsd:string
+    
+    
+Class: GO_0007631
+
+    Annotations: 
+        label_slim_status "OUT - feeding behavior - 975"^^xsd:string
+    
+    
+Class: GO_0006784
+
+    Annotations: 
+        label_slim_status "IN - heme a biosynthetic process - 5951951"^^xsd:string
+    
+    
+Class: GO_0006542
+
+    Annotations: 
+        label_slim_status "IN - glutamine biosynthetic process - 6656544"^^xsd:string
+    
+    
+Class: GO_0006541
+
+    Annotations: 
+        label_slim_status "IN - glutamine metabolic process - 4185496"^^xsd:string
+    
+    
+Class: GO_0006783
+
+    Annotations: 
+        label_slim_status "IN - heme biosynthetic process - 9151483"^^xsd:string
+    
+    
+Class: GO_0006302
+
+    Annotations: 
+        label_slim_status "IN - double-strand break repair - 206278"^^xsd:string
+    
+    
+Class: GO_0006544
+
+    Annotations: 
+        label_slim_status "IN - glycine metabolic process - 18534773"^^xsd:string
+    
+    
+Class: GO_0009813
+
+    Annotations: 
+        label_slim_status "IN - flavonoid biosynthetic process - 5349"^^xsd:string
+    
+    
+Class: GO_0015012
+
+    Annotations: 
+        label_slim_status "IN - heparan sulfate proteoglycan biosynthetic process - 75186"^^xsd:string
+    
+    
+Class: GO_0006543
+
+    Annotations: 
+        label_slim_status "IN - glutamine catabolic process - 1580942"^^xsd:string
+    
+    
+Class: GO_0006788
+
+    Annotations: 
+        label_slim_status "IN - heme oxidation - 1529909"^^xsd:string
+    
+    
+Class: GO_0006304
+
+    Annotations: 
+        label_slim_status "IN - DNA modification - 4437373"^^xsd:string
+    
+    
+Class: GO_0006546
+
+    Annotations: 
+        label_slim_status "IN - glycine catabolic process - 11786702"^^xsd:string
+    
+    
+Class: GO_0006303
+
+    Annotations: 
+        label_slim_status "IN - double-strand break repair via nonhomologous end joining - 141640"^^xsd:string
+    
+    
+Class: GO_0006545
+
+    Annotations: 
+        label_slim_status "IN - glycine biosynthetic process - 3071534"^^xsd:string
+    
+    
+Class: GO_0006306
+
+    Annotations: 
+        label_slim_status "IN - DNA methylation - 15202305"^^xsd:string
+    
+    
+Class: GO_0006547
+
+    Annotations: 
+        label_slim_status "IN - histidine metabolic process - 36632"^^xsd:string
+    
+    
+Class: GO_0043934
+
+    Annotations: 
+        label_slim_status "IN - sporulation - 1011283"^^xsd:string
+    
+    
+Class: GO_0006308
+
+    Annotations: 
+        label_slim_status "IN - DNA catabolic process - 2651507"^^xsd:string
+    
+    
+Class: GO_0030418
+
+    Annotations: 
+        label_slim_status "IN - nicotianamine biosynthetic process - 7944"^^xsd:string
+    
+    
+Class: GO_0006309
+
+    Annotations: 
+        label_slim_status "IN - DNA fragmentation involved in apoptotic nuclear change - 11760"^^xsd:string
+    
+    
+Class: owl:Thing
+
+    
+Class: GO_0000045
+
+    Annotations: 
+        label_slim_status "IN - autophagic vacuole assembly - 16618"^^xsd:string
+    
+    
+Class: GO_0000042
+
+    Annotations: 
+        label_slim_status "IN - protein targeting to Golgi - 43519"^^xsd:string
+    
+    
+Class: GO_0000041
+
+    Annotations: 
+        label_slim_status "IN - transition metal ion transport - 707800"^^xsd:string
+    
+    
+Class: GO_0030655
+
+    Annotations: 
+        label_slim_status "IN - beta-lactam antibiotic catabolic process - 70267"^^xsd:string
+    
+    
+Class: GO_0019627
+
+    Annotations: 
+        label_slim_status "IN - urea metabolic process - 689419"^^xsd:string
+    
+    
+Class: GO_0030416
+
+    Annotations: 
+        label_slim_status "IN - methylamine metabolic process - 94299"^^xsd:string
+    
+    
+Class: GO_0031989
+
+    Annotations: 
+        label_slim_status "IN - bombesin receptor signaling pathway - 286"^^xsd:string
+    
+    
+Class: GO_0045907
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of vasoconstriction - 213"^^xsd:string
+    
+    
+Class: GO_0006790
+
+    Annotations: 
+        label_slim_status "IN - sulfur compound metabolic process - 1"^^xsd:string
+    
+    
+Class: GO_0016117
+
+    Annotations: 
+        label_slim_status "IN - carotenoid biosynthetic process - 2313973"^^xsd:string
+    
+    
+Class: GO_0009820
+
+    Annotations: 
+        label_slim_status "IN - alkaloid metabolic process - 534"^^xsd:string
+    
+    
+Class: GO_0042632
+
+    Annotations: 
+        label_slim_status "OUT - cholesterol homeostasis - 970"^^xsd:string
+    
+    
+Class: GO_0016598
+
+    Annotations: 
+        label_slim_status "IN - protein arginylation - 692068"^^xsd:string
+    
+    
+Class: GO_0016114
+
+    Annotations: 
+        label_slim_status "IN - terpenoid biosynthetic process - 26977759"^^xsd:string
+    
+    
+Class: GO_0030420
+
+    Annotations: 
+        label_slim_status "OUT - establishment of competence for transformation - 76217"^^xsd:string
+    
+    
+Class: GO_0006310
+
+    Annotations: 
+        label_slim_status "IN - DNA recombination - 64264784"^^xsd:string
+    
+    
+Class: GO_0006797
+
+    Annotations: 
+        label_slim_status "IN - polyphosphate metabolic process - 19"^^xsd:string
+    
+    
+Class: GO_0006555
+
+    Annotations: 
+        label_slim_status "IN - methionine metabolic process - 4013929"^^xsd:string
+    
+    
+Class: GO_0006313
+
+    Annotations: 
+        label_slim_status "IN - \"transposition, DNA-mediated\" - 26145955"^^xsd:string
+    
+    
+Class: GO_0006796
+
+    Annotations: 
+        label_slim_status "IN - phosphate-containing compound metabolic process - 2986116"^^xsd:string
+    
+    
+Class: GO_0045901
+
+    Annotations: 
+        label_slim_status "IN - positive regulation of translational elongation - 299213"^^xsd:string
+    
+    
+Class: GO_0006314
+
+    Annotations: 
+        label_slim_status "IN - intron homing - 55180"^^xsd:string
+    
+    
+Class: GO_0006556
+
+    Annotations: 
+        label_slim_status "IN - S-adenosylmethionine biosynthetic process - 18935024"^^xsd:string
+    
+    
+Class: GO_0006559
+
+    Annotations: 
+        label_slim_status "IN - L-phenylalanine catabolic process - 861210"^^xsd:string
+    
+    
+Class: GO_0002218
+
+    Annotations: 
+        label_slim_status "OUT - activation of innate immune response - 342"^^xsd:string
+    
+    
+Class: GO_0045905
+
+    Annotations: 
+        label_slim_status "IN - positive regulation of translational termination - 299213"^^xsd:string
+    
+    
+Class: GO_0019632
+
+    Annotations: 
+        label_slim_status "IN - shikimate metabolic process - 2"^^xsd:string
+    
+    
+Class: GO_2000479
+
+    Annotations: 
+        label_slim_status "IN - regulation of cAMP-dependent protein kinase activity - 3"^^xsd:string
+    
+    
+Class: GO_0000271
+
+    Annotations: 
+        label_slim_status "IN - polysaccharide biosynthetic process - 3670551"^^xsd:string
+    
+    
+Class: GO_0019634
+
+    Annotations: 
+        label_slim_status "IN - organic phosphonate metabolic process - 632660"^^xsd:string
+    
+    
+Class: GO_0000272
+
+    Annotations: 
+        label_slim_status "IN - polysaccharide catabolic process - 6293560"^^xsd:string
+    
+    
+Class: GO_0030643
+
+    Annotations: 
+        label_slim_status "OUT - cellular phosphate ion homeostasis - 1236"^^xsd:string
+    
+    
+Class: GO_0000270
+
+    Annotations: 
+        label_slim_status "IN - peptidoglycan metabolic process - 498032"^^xsd:string
+    
+    
+Class: GO_0006561
+
+    Annotations: 
+        label_slim_status "IN - proline biosynthetic process - 3431768"^^xsd:string
+    
+    
+Class: GO_0007411
+
+    Annotations: 
+        label_slim_status "OUT - axon guidance - 860"^^xsd:string
+    
+    
+Class: GO_0016125
+
+    Annotations: 
+        label_slim_status "IN - sterol metabolic process - 7735"^^xsd:string
+    
+    
+Class: GO_0006564
+
+    Annotations: 
+        label_slim_status "IN - L-serine biosynthetic process - 941743"^^xsd:string
+    
+    
+Class: GO_0006563
+
+    Annotations: 
+        label_slim_status "IN - L-serine metabolic process - 18534773"^^xsd:string
+    
+    
+Class: GO_0006566
+
+    Annotations: 
+        label_slim_status "IN - threonine metabolic process - 4"^^xsd:string
+    
+    
+Class: GO_0051131
+
+    Annotations: 
+        label_slim_status "IN - chaperone-mediated protein complex assembly - 7188"^^xsd:string
+    
+    
+Class: GO_0006323
+
+    Annotations: 
+        label_slim_status "IN - DNA packaging - 1225010"^^xsd:string
+    
+    
+Class: GO_0043711
+
+    Annotations: 
+        label_slim_status "IN - pilus organization - 25486"^^xsd:string
+    
+    
+Class: GO_0043953
+
+    Annotations: 
+        label_slim_status "IN - protein transport by the Tat complex - 158893"^^xsd:string
+    
+    
+Class: GO_0006568
+
+    Annotations: 
+        label_slim_status "IN - tryptophan metabolic process - 13258791"^^xsd:string
+    
+    
+Class: GO_0015031
+
+    Annotations: 
+        label_slim_status "IN - protein transport - 33642109"^^xsd:string
+    
+    
+Class: GO_0070098
+
+    Annotations: 
+        label_slim_status "IN - chemokine-mediated signaling pathway - 463"^^xsd:string
+    
+    
+Class: GO_0002685
+
+    Annotations: 
+        label_slim_status "OUT - regulation of leukocyte migration - 39"^^xsd:string
+    
+    
+Class: GO_0019882
+
+    Annotations: 
+        label_slim_status "OUT - antigen processing and presentation - 97781"^^xsd:string
+    
+    
+Class: GO_0002682
+
+    Annotations: 
+        label_slim_status "OUT - regulation of immune system process - 63"^^xsd:string
+    
+    
+Class: GO_0019885
+
+    Annotations: 
+        label_slim_status "OUT - antigen processing and presentation of endogenous peptide antigen via MHC class I - 385"^^xsd:string
+    
+    
+Class: GO_0019402
+
+    Annotations: 
+        label_slim_status "IN - galactitol metabolic process - 343778"^^xsd:string
+    
+    
+Class: GO_0019645
+
+    Annotations: 
+        label_slim_status "IN - anaerobic electron transport chain - 280981"^^xsd:string
+    
+    
+Class: GO_0019646
+
+    Annotations: 
+        label_slim_status "IN - aerobic electron transport chain - 61312"^^xsd:string
+    
+    
+Class: GO_0010826
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of centrosome duplication - 49197"^^xsd:string
+    
+    
+Class: GO_0030435
+
+    Annotations: 
+        label_slim_status "IN - sporulation resulting in formation of a cellular spore - 681330"^^xsd:string
+    
+    
+Class: GO_0030436
+
+    Annotations: 
+        label_slim_status "IN - asexual sporulation - 118493"^^xsd:string
+    
+    
+Class: GO_0006571
+
+    Annotations: 
+        label_slim_status "IN - tyrosine biosynthetic process - 5203155"^^xsd:string
+    
+    
+Class: GO_0006570
+
+    Annotations: 
+        label_slim_status "IN - tyrosine metabolic process - 861210"^^xsd:string
+    
+    
+Class: GO_0006573
+
+    Annotations: 
+        label_slim_status "IN - valine metabolic process - 660490"^^xsd:string
+    
+    
+Class: GO_0030682
+
+    Annotations: 
+        label_slim_status "IN - evasion or tolerance of host defense response - 2053"^^xsd:string
+    
+    
+Class: GO_0032862
+
+    Annotations: 
+        label_slim_status "OUT - activation of Rho GTPase activity - 565"^^xsd:string
+    
+    
+Class: GO_0030683
+
+    Annotations: 
+        label_slim_status "IN - evasion by virus of host immune response - 8297"^^xsd:string
+    
+    
+Class: GO_0006333
+
+    Annotations: 
+        label_slim_status "IN - chromatin assembly or disassembly - 71893"^^xsd:string
+    
+    
+Class: GO_0043985
+
+    Annotations: 
+        label_slim_status "IN - histone H4-R3 methylation - 1266"^^xsd:string
+    
+    
+Class: GO_0006576
+
+    Annotations: 
+        label_slim_status "IN - cellular biogenic amine metabolic process - 168143"^^xsd:string
+    
+    
+Class: GO_0006334
+
+    Annotations: 
+        label_slim_status "IN - nucleosome assembly - 394179"^^xsd:string
+    
+    
+Class: GO_0009607
+
+    Annotations: 
+        label_slim_status "IN - response to biotic stimulus - 377985"^^xsd:string
+    
+    
+Class: GO_0006338
+
+    Annotations: 
+        label_slim_status "IN - chromatin remodeling - 106980"^^xsd:string
+    
+    
+Class: GO_0009605
+
+    Annotations: 
+        label_slim_status "OUT - response to external stimulus - 105"^^xsd:string
+    
+    
+Class: GO_0009847
+
+    Annotations: 
+        label_slim_status "OUT - spore germination - 1033102"^^xsd:string
+    
+    
+Class: GO_0045926
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of growth - 124"^^xsd:string
+    
+    
+Class: GO_0000256
+
+    Annotations: 
+        label_slim_status "IN - allantoin catabolic process - 2967655"^^xsd:string
+    
+    
+Class: GO_0000012
+
+    Annotations: 
+        label_slim_status "IN - single strand break repair - 3760"^^xsd:string
+    
+    
+Class: GO_0051103
+
+    Annotations: 
+        label_slim_status "IN - DNA ligation involved in DNA repair - 659852"^^xsd:string
+    
+    
+Class: GO_0042891
+
+    Annotations: 
+        label_slim_status "IN - antibiotic transport - 1809"^^xsd:string
+    
+    
+Class: GO_0048193
+
+    Annotations: 
+        label_slim_status "IN - Golgi vesicle transport - 31160"^^xsd:string
+    
+    
+Class: GO_0010833
+
+    Annotations: 
+        label_slim_status "IN - telomere maintenance via telomere lengthening - 226"^^xsd:string
+    
+    
+Class: GO_0006582
+
+    Annotations: 
+        label_slim_status "IN - melanin metabolic process - 1088"^^xsd:string
+    
+    
+Class: GO_0006342
+
+    Annotations: 
+        label_slim_status "IN - chromatin silencing - 867"^^xsd:string
+    
+    
+Class: GO_0009611
+
+    Annotations: 
+        label_slim_status "IN - response to wounding - 17534"^^xsd:string
+    
+    
+Class: GO_0009612
+
+    Annotations: 
+        label_slim_status "IN - response to mechanical stimulus - 101"^^xsd:string
+    
+    
+Class: GO_0006348
+
+    Annotations: 
+        label_slim_status "IN - chromatin silencing at telomere - 8973"^^xsd:string
+    
+    
+Class: GO_0006106
+
+    Annotations: 
+        label_slim_status "IN - fumarate metabolic process - 79787"^^xsd:string
+    
+    
+Class: GO_0006108
+
+    Annotations: 
+        label_slim_status "IN - malate metabolic process - 581648"^^xsd:string
+    
+    
+Class: GO_0009617
+
+    Annotations: 
+        label_slim_status "IN - response to bacterium - 1888"^^xsd:string
+    
+    
+Class: GO_0006109
+
+    Annotations: 
+        label_slim_status "IN - regulation of carbohydrate metabolic process - 2035649"^^xsd:string
+    
+    
+Class: GO_0000002
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial genome maintenance - 15015"^^xsd:string
+    
+    
+Class: GO_0000245
+
+    Annotations: 
+        label_slim_status "IN - spliceosomal complex assembly - 1177"^^xsd:string
+    
+    
+Class: GO_0051156
+
+    Annotations: 
+        label_slim_status "IN - glucose 6-phosphate metabolic process - 1959026"^^xsd:string
+    
+    
+Class: GO_0030212
+
+    Annotations: 
+        label_slim_status "IN - hyaluronan metabolic process - 1864"^^xsd:string
+    
+    
+Class: GO_0001570
+
+    Annotations: 
+        label_slim_status "OUT - vasculogenesis - 133"^^xsd:string
+    
+    
+Class: GO_0030216
+
+    Annotations: 
+        label_slim_status "OUT - keratinocyte differentiation - 201"^^xsd:string
+    
+    
+Class: GO_0019428
+
+    Annotations: 
+        label_slim_status "IN - allantoin biosynthetic process - 1475"^^xsd:string
+    
+    
+Class: GO_0042438
+
+    Annotations: 
+        label_slim_status "IN - melanin biosynthetic process - 200"^^xsd:string
+    
+    
+Class: GO_0017009
+
+    Annotations: 
+        label_slim_status "IN - protein-phycocyanobilin linkage - 1087600"^^xsd:string
+    
+    
+Class: GO_0006351
+
+    Annotations: 
+        label_slim_status "IN - \"transcription, DNA-dependent\" - 100561018"^^xsd:string
+    
+    
+Class: GO_0007200
+
+    Annotations: 
+        label_slim_status "IN - activation of phospholipase C activity by G-protein coupled receptor protein signaling pathway coupled to IP3 second messenger - 243"^^xsd:string
+    
+    
+Class: GO_0006353
+
+    Annotations: 
+        label_slim_status "IN - \"transcription termination, DNA-dependent\" - 5094188"^^xsd:string
+    
+    
+Class: GO_0006352
+
+    Annotations: 
+        label_slim_status "IN - \"transcription initiation, DNA-dependent\" - 45537474"^^xsd:string
+    
+    
+Class: GO_0006597
+
+    Annotations: 
+        label_slim_status "IN - spermine biosynthetic process - 73426"^^xsd:string
+    
+    
+Class: GO_0006355
+
+    Annotations: 
+        label_slim_status "IN - \"regulation of transcription, DNA-dependent\" - 166581027"^^xsd:string
+    
+    
+Class: GO_0006596
+
+    Annotations: 
+        label_slim_status "IN - polyamine biosynthetic process - 61625"^^xsd:string
+    
+    
+Class: GO_0017004
+
+    Annotations: 
+        label_slim_status "IN - cytochrome complex assembly - 15437743"^^xsd:string
+    
+    
+Class: GO_0007204
+
+    Annotations: 
+        label_slim_status "OUT - elevation of cytosolic calcium ion concentration - 88"^^xsd:string
+    
+    
+Class: GO_0006357
+
+    Annotations: 
+        label_slim_status "IN - regulation of transcription from RNA polymerase II promoter - 258510"^^xsd:string
+    
+    
+Class: GO_0017003
+
+    Annotations: 
+        label_slim_status "IN - protein-heme linkage - 2756737"^^xsd:string
+    
+    
+Class: GO_0006359
+
+    Annotations: 
+        label_slim_status "IN - regulation of transcription from RNA polymerase III promoter - 871"^^xsd:string
+    
+    
+Class: GO_0017001
+
+    Annotations: 
+        label_slim_status "IN - antibiotic catabolic process - 137522"^^xsd:string
+    
+    
+Class: GO_0045944
+
+    Annotations: 
+        label_slim_status "IN - positive regulation of transcription from RNA polymerase II promoter - 2991"^^xsd:string
+    
+    
+Class: GO_0007205
+
+    Annotations: 
+        label_slim_status "IN - activation of protein kinase C activity by G-protein coupled receptor protein signaling pathway - 2004436"^^xsd:string
+    
+    
+Class: GO_0017000
+
+    Annotations: 
+        label_slim_status "IN - antibiotic biosynthetic process - 3731930"^^xsd:string
+    
+    
+Class: GO_0045947
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of translational initiation - 8591"^^xsd:string
+    
+    
+Class: GO_0019670
+
+    Annotations: 
+        label_slim_status "IN - anaerobic glutamate catabolic process - 190328"^^xsd:string
+    
+    
+Class: GO_0019430
+
+    Annotations: 
+        label_slim_status "IN - removal of superoxide radicals - 75"^^xsd:string
+    
+    
+Class: GO_0018342
+
+    Annotations: 
+        label_slim_status "IN - protein prenylation - 89894"^^xsd:string
+    
+    
+Class: GO_0018101
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-citrulline biosynthetic process from peptidyl-arginine - 4790"^^xsd:string
+    
+    
+Class: GO_0019674
+
+    Annotations: 
+        label_slim_status "IN - NAD metabolic process - 3992318"^^xsd:string
+    
+    
+Class: GO_0018344
+
+    Annotations: 
+        label_slim_status "IN - protein geranylgeranylation - 930"^^xsd:string
+    
+    
+Class: GO_0040012
+
+    Annotations: 
+        label_slim_status "OUT - regulation of locomotion - 262"^^xsd:string
+    
+    
+Class: GO_0031532
+
+    Annotations: 
+        label_slim_status "IN - actin cytoskeleton reorganization - 565"^^xsd:string
+    
+    
+Class: GO_0018106
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-histidine phosphorylation - 60552"^^xsd:string
+    
+    
+Class: GO_0019439
+
+    Annotations: 
+        label_slim_status "IN - aromatic compound catabolic process - 5030978"^^xsd:string
+    
+    
+Class: GO_0040008
+
+    Annotations: 
+        label_slim_status "OUT - regulation of growth - 7594"^^xsd:string
+    
+    
+Class: GO_0006120
+
+    Annotations: 
+        label_slim_status "IN - \"mitochondrial electron transport, NADH to ubiquinone\" - 897879"^^xsd:string
+    
+    
+Class: GO_0040007
+
+    Annotations: 
+        label_slim_status "OUT - growth - 27615"^^xsd:string
+    
+    
+Class: GO_0006122
+
+    Annotations: 
+        label_slim_status "IN - \"mitochondrial electron transport, ubiquinol to cytochrome c\" - 67087"^^xsd:string
+    
+    
+Class: GO_0006364
+
+    Annotations: 
+        label_slim_status "IN - rRNA processing - 25126629"^^xsd:string
+    
+    
+Class: GO_0008544
+
+    Annotations: 
+        label_slim_status "OUT - epidermis development - 23"^^xsd:string
+    
+    
+Class: GO_0007213
+
+    Annotations: 
+        label_slim_status "IN - G-protein coupled acetylcholine receptor signaling pathway - 552"^^xsd:string
+    
+    
+Class: GO_0006366
+
+    Annotations: 
+        label_slim_status "IN - transcription from RNA polymerase II promoter - 78939"^^xsd:string
+    
+    
+Class: GO_0007212
+
+    Annotations: 
+        label_slim_status "IN - dopamine receptor signaling pathway - 48610"^^xsd:string
+    
+    
+Class: GO_0009878
+
+    Annotations: 
+        label_slim_status "OUT - nodule morphogenesis - 57"^^xsd:string
+    
+    
+Class: GO_0021987
+
+    Annotations: 
+        label_slim_status "OUT - cerebral cortex development - 694"^^xsd:string
+    
+    
+Class: GO_0006368
+
+    Annotations: 
+        label_slim_status "IN - transcription elongation from RNA polymerase II promoter - 20173"^^xsd:string
+    
+    
+Class: GO_0009636
+
+    Annotations: 
+        label_slim_status "IN - response to toxin - 68108"^^xsd:string
+    
+    
+Class: GO_0007214
+
+    Annotations: 
+        label_slim_status "IN - gamma-aminobutyric acid signaling pathway - 2984"^^xsd:string
+    
+    
+Class: GO_0006367
+
+    Annotations: 
+        label_slim_status "IN - transcription initiation from RNA polymerase II promoter - 479457"^^xsd:string
+    
+    
+Class: GO_0007217
+
+    Annotations: 
+        label_slim_status "IN - tachykinin receptor signaling pathway - 1023"^^xsd:string
+    
+    
+Class: GO_0009877
+
+    Annotations: 
+        label_slim_status "OUT - nodulation - 69436"^^xsd:string
+    
+    
+Class: GO_0045936
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of phosphate metabolic process - 1236"^^xsd:string
+    
+    
+Class: GO_0007219
+
+    Annotations: 
+        label_slim_status "IN - Notch signaling pathway - 14541"^^xsd:string
+    
+    
+Class: GO_0007218
+
+    Annotations: 
+        label_slim_status "IN - neuropeptide signaling pathway - 67358"^^xsd:string
+    
+    
+Class: GO_0015074
+
+    Annotations: 
+        label_slim_status "IN - DNA integration - 39443569"^^xsd:string
+    
+    
+Class: GO_0000226
+
+    Annotations: 
+        label_slim_status "IN - microtubule cytoskeleton organization - 147008"^^xsd:string
+    
+    
+Class: GO_0001558
+
+    Annotations: 
+        label_slim_status "OUT - regulation of cell growth - 1418"^^xsd:string
+    
+    
+Class: GO_0019441
+
+    Annotations: 
+        label_slim_status "IN - tryptophan catabolic process to kynurenine - 2081182"^^xsd:string
+    
+    
+Class: GO_0019684
+
+    Annotations: 
+        label_slim_status "IN - \"photosynthesis, light reaction\" - 14983698"^^xsd:string
+    
+    
+Class: GO_0019685
+
+    Annotations: 
+        label_slim_status "IN - \"photosynthesis, dark reaction\" - 107187"^^xsd:string
+    
+    
+Class: GO_0006370
+
+    Annotations: 
+        label_slim_status "IN - mRNA capping - 254642"^^xsd:string
+    
+    
+Class: GO_0009401
+
+    Annotations: 
+        label_slim_status "IN - phosphoenolpyruvate-dependent sugar phosphotransferase system - 20542478"^^xsd:string
+    
+    
+Class: GO_0007224
+
+    Annotations: 
+        label_slim_status "IN - smoothened signaling pathway - 4557"^^xsd:string
+    
+    
+Class: GO_0030001
+
+    Annotations: 
+        label_slim_status "IN - metal ion transport - 11280052"^^xsd:string
+    
+    
+Class: GO_0006376
+
+    Annotations: 
+        label_slim_status "IN - mRNA splice site selection - 28605"^^xsd:string
+    
+    
+Class: GO_0030244
+
+    Annotations: 
+        label_slim_status "IN - cellulose biosynthetic process - 112281"^^xsd:string
+    
+    
+Class: GO_0006379
+
+    Annotations: 
+        label_slim_status "IN - mRNA cleavage - 134795"^^xsd:string
+    
+    
+Class: GO_0009405
+
+    Annotations: 
+        label_slim_status "IN - pathogenesis - 3112139"^^xsd:string
+    
+    
+Class: GO_0043303
+
+    Annotations: 
+        label_slim_status "IN - mast cell degranulation - 1"^^xsd:string
+    
+    
+Class: GO_0006378
+
+    Annotations: 
+        label_slim_status "IN - mRNA polyadenylation - 19241"^^xsd:string
+    
+    
+Class: GO_0009403
+
+    Annotations: 
+        label_slim_status "IN - toxin biosynthetic process - 1665211"^^xsd:string
+    
+    
+Class: GO_0006139
+
+    Annotations: 
+        label_slim_status "IN - nucleobase-containing compound metabolic process - 26896254"^^xsd:string
+    
+    
+Class: GO_0043547
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of GTPase activity - 34874"^^xsd:string
+    
+    
+Class: GO_0009404
+
+    Annotations: 
+        label_slim_status "IN - toxin metabolic process - 40257"^^xsd:string
+    
+    
+Class: GO_0051382
+
+    Annotations: 
+        label_slim_status "IN - kinetochore assembly - 3115"^^xsd:string
+    
+    
+Class: GO_0016180
+
+    Annotations: 
+        label_slim_status "IN - snRNA processing - 599"^^xsd:string
+    
+    
+Class: GO_0031554
+
+    Annotations: 
+        label_slim_status "IN - \"regulation of transcription termination, DNA-dependent\" - 5785941"^^xsd:string
+    
+    
+Class: GO_0019217
+
+    Annotations: 
+        label_slim_status "IN - regulation of fatty acid metabolic process - 79723"^^xsd:string
+    
+    
+Class: GO_0031556
+
+    Annotations: 
+        label_slim_status "IN - transcriptional attenuation by ribosome - 1752"^^xsd:string
+    
+    
+Class: GO_0042450
+
+    Annotations: 
+        label_slim_status "IN - arginine biosynthetic process via ornithine - 6"^^xsd:string
+    
+    
+Class: GO_0006384
+
+    Annotations: 
+        label_slim_status "IN - transcription initiation from RNA polymerase III promoter - 622"^^xsd:string
+    
+    
+Class: GO_0009890
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of biosynthetic process - 2043"^^xsd:string
+    
+    
+Class: GO_0010884
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of lipid storage - 128"^^xsd:string
+    
+    
+Class: GO_0006383
+
+    Annotations: 
+        label_slim_status "IN - transcription from RNA polymerase III promoter - 16332"^^xsd:string
+    
+    
+Class: GO_0030472
+
+    Annotations: 
+        label_slim_status "OUT - mitotic spindle organization in nucleus - 2333"^^xsd:string
+    
+    
+Class: GO_0006144
+
+    Annotations: 
+        label_slim_status "IN - purine base metabolic process - 2461"^^xsd:string
+    
+    
+Class: GO_0006388
+
+    Annotations: 
+        label_slim_status "IN - \"tRNA splicing, via endonucleolytic cleavage and ligation\" - 894846"^^xsd:string
+    
+    
+Class: GO_0017038
+
+    Annotations: 
+        label_slim_status "IN - protein import - 26838339"^^xsd:string
+    
+    
+Class: GO_0009411
+
+    Annotations: 
+        label_slim_status "IN - response to UV - 714809"^^xsd:string
+    
+    
+Class: GO_0009416
+
+    Annotations: 
+        label_slim_status "IN - response to light stimulus - 1198"^^xsd:string
+    
+    
+Class: GO_0009415
+
+    Annotations: 
+        label_slim_status "IN - response to water - 1387"^^xsd:string
+    
+    
+Class: GO_0016192
+
+    Annotations: 
+        label_slim_status "IN - vesicle-mediated transport - 2518764"^^xsd:string
+    
+    
+Class: GO_0019464
+
+    Annotations: 
+        label_slim_status "IN - glycine decarboxylation via glycine cleavage system - 4969"^^xsd:string
+    
+    
+Class: GO_0045995
+
+    Annotations: 
+        label_slim_status "OUT - regulation of embryonic development - 1449"^^xsd:string
+    
+    
+Class: GO_0019229
+
+    Annotations: 
+        label_slim_status "OUT - regulation of vasoconstriction - 1427"^^xsd:string
+    
+    
+Class: GO_0030259
+
+    Annotations: 
+        label_slim_status "IN - lipid glycosylation - 5082560"^^xsd:string
+    
+    
+Class: GO_0032439
+
+    Annotations: 
+        label_slim_status "OUT - endosome localization - 970"^^xsd:string
+    
+    
+Class: GO_0071805
+
+    Annotations: 
+        label_slim_status "IN - potassium ion transmembrane transport - 1790880"^^xsd:string
+    
+    
+Class: GO_0030261
+
+    Annotations: 
+        label_slim_status "IN - chromosome condensation - 138523"^^xsd:string
+    
+    
+Class: GO_0006397
+
+    Annotations: 
+        label_slim_status "IN - mRNA processing - 531599"^^xsd:string
+    
+    
+Class: GO_0031110
+
+    Annotations: 
+        label_slim_status "OUT - regulation of microtubule polymerization or depolymerization - 94571"^^xsd:string
+    
+    
+Class: GO_0006396
+
+    Annotations: 
+        label_slim_status "IN - RNA processing - 38940126"^^xsd:string
+    
+    
+Class: GO_0009664
+
+    Annotations: 
+        label_slim_status "IN - plant-type cell wall organization - 714"^^xsd:string
+    
+    
+Class: GO_0045987
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of smooth muscle contraction - 158"^^xsd:string
+    
+    
+Class: GO_0007005
+
+    Annotations: 
+        label_slim_status "IN - mitochondrion organization - 51736"^^xsd:string
+    
+    
+Class: GO_0045747
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of Notch signaling pathway - 25589"^^xsd:string
+    
+    
+Class: GO_0046836
+
+    Annotations: 
+        label_slim_status "IN - glycolipid transport - 66018"^^xsd:string
+    
+    
+Class: GO_0016197
+
+    Annotations: 
+        label_slim_status "IN - endosome transport - 726"^^xsd:string
+    
+    
+Class: GO_0046835
+
+    Annotations: 
+        label_slim_status "IN - carbohydrate phosphorylation - 132506"^^xsd:string
+    
+    
+Class: GO_0007009
+
+    Annotations: 
+        label_slim_status "IN - plasma membrane organization - 28598"^^xsd:string
+    
+    
+Class: GO_0044419
+
+    Annotations: 
+        label_slim_status "OUT - interspecies interaction between organisms - 4"^^xsd:string
+    
+    
+Class: GO_0001525
+
+    Annotations: 
+        label_slim_status "OUT - angiogenesis - 133"^^xsd:string
+    
+    
+Class: GO_0001522
+
+    Annotations: 
+        label_slim_status "IN - pseudouridine synthesis - 21943754"^^xsd:string
+    
+    
+Class: GO_0018142
+
+    Annotations: 
+        label_slim_status "IN - protein-DNA covalent cross-linking - 180850"^^xsd:string
+    
+    
+Class: GO_0045980
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of nucleotide metabolic process - 13234"^^xsd:string
+    
+    
+Class: GO_0018144
+
+    Annotations: 
+        label_slim_status "IN - RNA-protein covalent cross-linking - 3141"^^xsd:string
+    
+    
+Class: GO_0019475
+
+    Annotations: 
+        label_slim_status "IN - L-lysine catabolic process to acetate - 3756859"^^xsd:string
+    
+    
+Class: GO_0045982
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of purine base metabolic process - 4"^^xsd:string
+    
+    
+Class: GO_0019236
+
+    Annotations: 
+        label_slim_status "IN - response to pheromone - 39759"^^xsd:string
+    
+    
+Class: GO_0019478
+
+    Annotations: 
+        label_slim_status "IN - D-amino acid catabolic process - 3043720"^^xsd:string
+    
+    
+Class: GO_0030245
+
+    Annotations: 
+        label_slim_status "IN - cellulose catabolic process - 339039"^^xsd:string
+    
+    
+Class: GO_0042475
+
+    Annotations: 
+        label_slim_status "OUT - odontogenesis of dentin-containing tooth - 292"^^xsd:string
+    
+    
+Class: GO_0018149
+
+    Annotations: 
+        label_slim_status "IN - peptide cross-linking - 22694"^^xsd:string
+    
+    
+Class: GO_0030488
+
+    Annotations: 
+        label_slim_status "IN - tRNA methylation - 454028"^^xsd:string
+    
+    
+Class: GO_0006164
+
+    Annotations: 
+        label_slim_status "IN - purine nucleotide biosynthetic process - 38498833"^^xsd:string
+    
+    
+Class: GO_0006163
+
+    Annotations: 
+        label_slim_status "IN - purine nucleotide metabolic process - 1428"^^xsd:string
+    
+    
+Class: GO_0007010
+
+    Annotations: 
+        label_slim_status "IN - cytoskeleton organization - 149358"^^xsd:string
+    
+    
+Class: GO_0006166
+
+    Annotations: 
+        label_slim_status "IN - purine ribonucleoside salvage - 5919"^^xsd:string
+    
+    
+Class: GO_0031342
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of cell killing - 30283"^^xsd:string
+    
+    
+Class: GO_0030494
+
+    Annotations: 
+        label_slim_status "IN - bacteriochlorophyll biosynthetic process - 131497"^^xsd:string
+    
+    
+Class: GO_0008343
+
+    Annotations: 
+        label_slim_status "OUT - adult feeding behavior - 1352"^^xsd:string
+    
+    
+Class: GO_0006165
+
+    Annotations: 
+        label_slim_status "IN - nucleoside diphosphate phosphorylation - 6398390"^^xsd:string
+    
+    
+Class: GO_0009435
+
+    Annotations: 
+        label_slim_status "IN - NAD biosynthetic process - 13122692"^^xsd:string
+    
+    
+Class: GO_0006168
+
+    Annotations: 
+        label_slim_status "IN - adenine salvage - 359"^^xsd:string
+    
+    
+Class: GO_0030254
+
+    Annotations: 
+        label_slim_status "IN - protein secretion by the type III secretion system - 396"^^xsd:string
+    
+    
+Class: GO_0090305
+
+    Annotations: 
+        label_slim_status "IN - nucleic acid phosphodiester bond hydrolysis - 30711"^^xsd:string
+    
+    
+Class: GO_0007015
+
+    Annotations: 
+        label_slim_status "IN - actin filament organization - 67933"^^xsd:string
+    
+    
+Class: GO_0009432
+
+    Annotations: 
+        label_slim_status "IN - SOS response - 16807031"^^xsd:string
+    
+    
+Class: GO_0030255
+
+    Annotations: 
+        label_slim_status "IN - protein secretion by the type IV secretion system - 127169"^^xsd:string
+    
+    
+Class: GO_0007259
+
+    Annotations: 
+        label_slim_status "IN - JAK-STAT cascade - 353"^^xsd:string
+    
+    
+Class: GO_0007017
+
+    Annotations: 
+        label_slim_status "OUT - microtubule-based process - 1256607"^^xsd:string
+    
+    
+Class: GO_0007016
+
+    Annotations: 
+        label_slim_status "IN - cytoskeletal anchoring at plasma membrane - 33079"^^xsd:string
+    
+    
+Class: GO_0009439
+
+    Annotations: 
+        label_slim_status "IN - cyanate metabolic process - 181507"^^xsd:string
+    
+    
+Class: GO_0007018
+
+    Annotations: 
+        label_slim_status "OUT - microtubule-based movement - 4848747"^^xsd:string
+    
+    
+Class: GO_0044406
+
+    Annotations: 
+        label_slim_status "OUT - adhesion to host - 819"^^xsd:string
+    
+    
+Class: GO_0001514
+
+    Annotations: 
+        label_slim_status "IN - selenocysteine incorporation - 431889"^^xsd:string
+    
+    
+Class: GO_0019242
+
+    Annotations: 
+        label_slim_status "IN - methylglyoxal biosynthetic process - 114716"^^xsd:string
+    
+    
+Class: GO_0001510
+
+    Annotations: 
+        label_slim_status "IN - RNA methylation - 81137"^^xsd:string
+    
+    
+Class: GO_0022410
+
+    Annotations: 
+        label_slim_status "OUT - circadian sleep/wake cycle process - 104"^^xsd:string
+    
+    
+Class: GO_0043113
+
+    Annotations: 
+        label_slim_status "IN - receptor clustering - 552"^^xsd:string
+    
+    
+Class: GO_0043114
+
+    Annotations: 
+        label_slim_status "OUT - regulation of vascular permeability - 76"^^xsd:string
+    
+    
+Class: GO_0030036
+
+    Annotations: 
+        label_slim_status "IN - actin cytoskeleton organization - 61577"^^xsd:string
+    
+    
+Class: GO_0042262
+
+    Annotations: 
+        label_slim_status "IN - DNA protection - 99177"^^xsd:string
+    
+    
+Class: GO_0006171
+
+    Annotations: 
+        label_slim_status "IN - cAMP biosynthetic process - 279259"^^xsd:string
+    
+    
+Class: GO_0007020
+
+    Annotations: 
+        label_slim_status "IN - microtubule nucleation - 11550"^^xsd:string
+    
+    
+Class: GO_0051180
+
+    Annotations: 
+        label_slim_status "IN - vitamin transport - 6"^^xsd:string
+    
+    
+Class: GO_0030041
+
+    Annotations: 
+        label_slim_status "IN - actin filament polymerization - 78010"^^xsd:string
+    
+    
+Class: GO_0007264
+
+    Annotations: 
+        label_slim_status "IN - small GTPase mediated signal transduction - 6977111"^^xsd:string
+    
+    
+Class: GO_0030042
+
+    Annotations: 
+        label_slim_status "IN - actin filament depolymerization - 13198"^^xsd:string
+    
+    
+Class: GO_0007021
+
+    Annotations: 
+        label_slim_status "IN - tubulin complex assembly - 22162"^^xsd:string
+    
+    
+Class: GO_0006177
+
+    Annotations: 
+        label_slim_status "IN - GMP biosynthetic process - 4565723"^^xsd:string
+    
+    
+Class: GO_0009446
+
+    Annotations: 
+        label_slim_status "IN - putrescine biosynthetic process - 2623051"^^xsd:string
+    
+    
+Class: GO_0009443
+
+    Annotations: 
+        label_slim_status "IN - pyridoxal 5'-phosphate salvage - 113"^^xsd:string
+    
+    
+Class: GO_0007268
+
+    Annotations: 
+        label_slim_status "OUT - synaptic transmission - 3904"^^xsd:string
+    
+    
+Class: GO_0032465
+
+    Annotations: 
+        label_slim_status "OUT - regulation of cytokinesis - 8492"^^xsd:string
+    
+    
+Class: GO_0007267
+
+    Annotations: 
+        label_slim_status "OUT - cell-cell signaling - 19489"^^xsd:string
+    
+    
+Class: GO_0051186
+
+    Annotations: 
+        label_slim_status "IN - cofactor metabolic process - 5"^^xsd:string
+    
+    
+Class: GO_0007269
+
+    Annotations: 
+        label_slim_status "IN - neurotransmitter secretion - 8800"^^xsd:string
+    
+    
+Class: GO_0046855
+
+    Annotations: 
+        label_slim_status "IN - inositol phosphate dephosphorylation - 32259"^^xsd:string
+    
+    
+Class: GO_0051188
+
+    Annotations: 
+        label_slim_status "IN - cofactor biosynthetic process - 1544066"^^xsd:string
+    
+    
+Class: GO_0001507
+
+    Annotations: 
+        label_slim_status "IN - acetylcholine catabolic process in synaptic cleft - 90"^^xsd:string
+    
+    
+Class: GO_0007029
+
+    Annotations: 
+        label_slim_status "IN - endoplasmic reticulum organization - 13088"^^xsd:string
+    
+    
+Class: GO_0001505
+
+    Annotations: 
+        label_slim_status "OUT - regulation of neurotransmitter levels - 511"^^xsd:string
+    
+    
+Class: GO_0000413
+
+    Annotations: 
+        label_slim_status "IN - protein peptidyl-prolyl isomerization - 10790248"^^xsd:string
+    
+    
+Class: GO_0001503
+
+    Annotations: 
+        label_slim_status "OUT - ossification - 21293"^^xsd:string
+    
+    
+Class: GO_0019251
+
+    Annotations: 
+        label_slim_status "IN - anaerobic cobalamin biosynthetic process - 632797"^^xsd:string
+    
+    
+Class: GO_0045761
+
+    Annotations: 
+        label_slim_status "IN - regulation of adenylate cyclase activity - 3"^^xsd:string
+    
+    
+Class: GO_0043101
+
+    Annotations: 
+        label_slim_status "IN - purine-containing compound salvage - 1253"^^xsd:string
+    
+    
+Class: GO_0045765
+
+    Annotations: 
+        label_slim_status "OUT - regulation of angiogenesis - 13495"^^xsd:string
+    
+    
+Class: GO_0046854
+
+    Annotations: 
+        label_slim_status "IN - phosphatidylinositol phosphorylation - 12591770"^^xsd:string
+    
+    
+Class: GO_0042256
+
+    Annotations: 
+        label_slim_status "IN - mature ribosome assembly - 513557"^^xsd:string
+    
+    
+Class: GO_0042254
+
+    Annotations: 
+        label_slim_status "IN - ribosome biogenesis - 4159332"^^xsd:string
+    
+    
+Class: GO_0009690
+
+    Annotations: 
+        label_slim_status "IN - cytokinin metabolic process - 3465"^^xsd:string
+    
+    
+Class: GO_0033539
+
+    Annotations: 
+        label_slim_status "IN - fatty acid beta-oxidation using acyl-CoA dehydrogenase - 468966"^^xsd:string
+    
+    
+Class: GO_0042493
+
+    Annotations: 
+        label_slim_status "IN - response to drug - 1259"^^xsd:string
+    
+    
+Class: GO_0006182
+
+    Annotations: 
+        label_slim_status "IN - cGMP biosynthetic process - 73714"^^xsd:string
+    
+    
+Class: GO_0008360
+
+    Annotations: 
+        label_slim_status "OUT - regulation of cell shape - 2544442"^^xsd:string
+    
+    
+Class: GO_0007031
+
+    Annotations: 
+        label_slim_status "IN - peroxisome organization - 30236"^^xsd:string
+    
+    
+Class: GO_0009452
+
+    Annotations: 
+        label_slim_status "IN - RNA capping - 81092"^^xsd:string
+    
+    
+Class: GO_0006184
+
+    Annotations: 
+        label_slim_status "OUT - GTP catabolic process - 89686"^^xsd:string
+    
+    
+Class: GO_0006183
+
+    Annotations: 
+        label_slim_status "IN - GTP biosynthetic process - 6398390"^^xsd:string
+    
+    
+Class: GO_0051191
+
+    Annotations: 
+        label_slim_status "IN - prosthetic group biosynthetic process - 127902"^^xsd:string
+    
+    
+Class: GO_0007275
+
+    Annotations: 
+        label_slim_status "OUT - multicellular organismal development - 185719"^^xsd:string
+    
+    
+Class: GO_0009451
+
+    Annotations: 
+        label_slim_status "IN - RNA modification - 28755211"^^xsd:string
+    
+    
+Class: GO_0031122
+
+    Annotations: 
+        label_slim_status "IN - cytoplasmic microtubule organization - 11550"^^xsd:string
+    
+    
+Class: GO_0009214
+
+    Annotations: 
+        label_slim_status "IN - cyclic nucleotide catabolic process - 19984"^^xsd:string
+    
+    
+Class: GO_0006188
+
+    Annotations: 
+        label_slim_status "IN - IMP biosynthetic process - 3146586"^^xsd:string
+    
+    
+Class: GO_0007276
+
+    Annotations: 
+        label_slim_status "OUT - gamete generation - 5924"^^xsd:string
+    
+    
+Class: GO_0007034
+
+    Annotations: 
+        label_slim_status "IN - vacuolar transport - 250847"^^xsd:string
+    
+    
+Class: GO_0009697
+
+    Annotations: 
+        label_slim_status "IN - salicylic acid biosynthetic process - 13"^^xsd:string
+    
+    
+Class: GO_0042246
+
+    Annotations: 
+        label_slim_status "OUT - tissue regeneration - 56176"^^xsd:string
+    
+    
+Class: GO_0006189
+
+    Annotations: 
+        label_slim_status "IN - 'de novo' IMP biosynthetic process - 8802658"^^xsd:string
+    
+    
+Class: GO_0046849
+
+    Annotations: 
+        label_slim_status "OUT - bone remodeling - 227"^^xsd:string
+    
+    
+Class: GO_0019491
+
+    Annotations: 
+        label_slim_status "IN - ectoine biosynthetic process - 102684"^^xsd:string
+    
+    
+Class: GO_0018160
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-pyrromethane cofactor linkage - 911813"^^xsd:string
+    
+    
+Class: GO_0019385
+
+    Annotations: 
+        label_slim_status "IN - \"methanogenesis, from acetate\" - 66497"^^xsd:string
+    
+    
+Class: GO_0044341
+
+    Annotations: 
+        label_slim_status "IN - sodium-dependent phosphate transport - 2819373"^^xsd:string
+    
+    
+Class: GO_0018298
+
+    Annotations: 
+        label_slim_status "IN - protein-chromophore linkage - 79355"^^xsd:string
+    
+    
+Class: GO_0042168
+
+    Annotations: 
+        label_slim_status "IN - heme metabolic process - 11"^^xsd:string
+    
+    
+Class: GO_0042167
+
+    Annotations: 
+        label_slim_status "IN - heme catabolic process - 2395"^^xsd:string
+    
+    
+Class: GO_0033209
+
+    Annotations: 
+        label_slim_status "IN - tumor necrosis factor-mediated signaling pathway - 1"^^xsd:string
+    
+    
+Class: GO_0006072
+
+    Annotations: 
+        label_slim_status "IN - glycerol-3-phosphate metabolic process - 1564991"^^xsd:string
+    
+    
+Class: GO_0007160
+
+    Annotations: 
+        label_slim_status "IN - cell-matrix adhesion - 11129"^^xsd:string
+    
+    
+Class: GO_0006071
+
+    Annotations: 
+        label_slim_status "IN - glycerol metabolic process - 9111653"^^xsd:string
+    
+    
+Class: GO_0009584
+
+    Annotations: 
+        label_slim_status "IN - detection of visible light - 101034"^^xsd:string
+    
+    
+Class: GO_0006073
+
+    Annotations: 
+        label_slim_status "IN - cellular glucan metabolic process - 1774"^^xsd:string
+    
+    
+Class: GO_0031032
+
+    Annotations: 
+        label_slim_status "IN - actomyosin structure organization - 2764"^^xsd:string
+    
+    
+Class: GO_0007165
+
+    Annotations: 
+        label_slim_status "IN - signal transduction - 35170848"^^xsd:string
+    
+    
+Class: GO_0006075
+
+    Annotations: 
+        label_slim_status "IN - (1->3)-beta-D-glucan biosynthetic process - 143510"^^xsd:string
+    
+    
+Class: GO_0006078
+
+    Annotations: 
+        label_slim_status "IN - (1->6)-beta-D-glucan biosynthetic process - 426"^^xsd:string
+    
+    
+Class: GO_0007166
+
+    Annotations: 
+        label_slim_status "IN - cell surface receptor signaling pathway - 93361"^^xsd:string
+    
+    
+Class: GO_0008016
+
+    Annotations: 
+        label_slim_status "OUT - regulation of heart contraction - 158"^^xsd:string
+    
+    
+Class: GO_0007169
+
+    Annotations: 
+        label_slim_status "IN - transmembrane receptor protein tyrosine kinase signaling pathway - 23825"^^xsd:string
+    
+    
+Class: GO_0009102
+
+    Annotations: 
+        label_slim_status "IN - biotin biosynthetic process - 285108"^^xsd:string
+    
+    
+Class: GO_0042158
+
+    Annotations: 
+        label_slim_status "IN - lipoprotein biosynthetic process - 7678984"^^xsd:string
+    
+    
+Class: GO_0009103
+
+    Annotations: 
+        label_slim_status "IN - lipopolysaccharide biosynthetic process - 13722943"^^xsd:string
+    
+    
+Class: GO_0009108
+
+    Annotations: 
+        label_slim_status "IN - coenzyme biosynthetic process - 20"^^xsd:string
+    
+    
+Class: GO_0046999
+
+    Annotations: 
+        label_slim_status "OUT - regulation of conjugation - 52260"^^xsd:string
+    
+    
+Class: GO_0043248
+
+    Annotations: 
+        label_slim_status "IN - proteasome assembly - 9784"^^xsd:string
+    
+    
+Class: GO_0009107
+
+    Annotations: 
+        label_slim_status "IN - lipoate biosynthetic process - 1069162"^^xsd:string
+    
+    
+Class: GO_0071951
+
+    Annotations: 
+        label_slim_status "IN - conversion of methionyl-tRNA to N-formyl-methionyl-tRNA - 47"^^xsd:string
+    
+    
+Class: GO_0030168
+
+    Annotations: 
+        label_slim_status "OUT - platelet activation - 370"^^xsd:string
+    
+    
+Class: GO_0042157
+
+    Annotations: 
+        label_slim_status "IN - lipoprotein metabolic process - 4175"^^xsd:string
+    
+    
+Class: GO_0042398
+
+    Annotations: 
+        label_slim_status "IN - cellular modified amino acid biosynthetic process - 3139868"^^xsd:string
+    
+    
+Class: GO_0006080
+
+    Annotations: 
+        label_slim_status "IN - substituted mannan metabolic process - 853295"^^xsd:string
+    
+    
+Class: GO_0010579
+
+    Annotations: 
+        label_slim_status "IN - positive regulation of adenylate cyclase activity by G-protein signaling pathway - 284"^^xsd:string
+    
+    
+Class: GO_0007172
+
+    Annotations: 
+        label_slim_status "IN - signal complex assembly - 16098"^^xsd:string
+    
+    
+Class: GO_0006084
+
+    Annotations: 
+        label_slim_status "IN - acetyl-CoA metabolic process - 2102357"^^xsd:string
+    
+    
+Class: GO_0007178
+
+    Annotations: 
+        label_slim_status "IN - transmembrane receptor protein serine/threonine kinase signaling pathway - 100"^^xsd:string
+    
+    
+Class: GO_0031023
+
+    Annotations: 
+        label_slim_status "IN - microtubule organizing center organization - 1391"^^xsd:string
+    
+    
+Class: GO_0006089
+
+    Annotations: 
+        label_slim_status "IN - lactate metabolic process - 533472"^^xsd:string
+    
+    
+Class: GO_0009116
+
+    Annotations: 
+        label_slim_status "IN - nucleoside metabolic process - 24930145"^^xsd:string
+    
+    
+Class: GO_0009113
+
+    Annotations: 
+        label_slim_status "IN - purine base biosynthetic process - 9886211"^^xsd:string
+    
+    
+Class: GO_0030178
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of Wnt receptor signaling pathway - 4801"^^xsd:string
+    
+    
+Class: GO_0007179
+
+    Annotations: 
+        label_slim_status "IN - transforming growth factor beta receptor signaling pathway - 32504"^^xsd:string
+    
+    
+Class: GO_0042147
+
+    Annotations: 
+        label_slim_status "IN - \"retrograde transport, endosome to Golgi\" - 345922"^^xsd:string
+    
+    
+Class: GO_0001836
+
+    Annotations: 
+        label_slim_status "IN - release of cytochrome c from mitochondria - 26"^^xsd:string
+    
+    
+Class: GO_0009117
+
+    Annotations: 
+        label_slim_status "IN - nucleotide metabolic process - 1050421"^^xsd:string
+    
+    
+Class: GO_0000746
+
+    Annotations: 
+        label_slim_status "OUT - conjugation - 233872"^^xsd:string
+    
+    
+Class: GO_0046782
+
+    Annotations: 
+        label_slim_status "IN - regulation of viral transcription - 344962"^^xsd:string
+    
+    
+Class: GO_0046541
+
+    Annotations: 
+        label_slim_status "IN - saliva secretion - 369"^^xsd:string
+    
+    
+Class: GO_0045454
+
+    Annotations: 
+        label_slim_status "IN - cell redox homeostasis - 26835383"^^xsd:string
+    
+    
+Class: GO_0033227
+
+    Annotations: 
+        label_slim_status "IN - dsRNA transport - 15862"^^xsd:string
+    
+    
+Class: GO_0071704
+
+    Annotations: 
+        label_slim_status "IN - organic substance metabolic process - 6580936"^^xsd:string
+    
+    
+Class: GO_0071705
+
+    Annotations: 
+        label_slim_status "IN - nitrogen compound transport - 7100"^^xsd:string
+    
+    
+Class: GO_0006091
+
+    Annotations: 
+        label_slim_status "IN - generation of precursor metabolites and energy - 305614"^^xsd:string
+    
+    
+Class: GO_0008272
+
+    Annotations: 
+        label_slim_status "IN - sulfate transport - 4593522"^^xsd:string
+    
+    
+Class: GO_0006094
+
+    Annotations: 
+        label_slim_status "IN - gluconeogenesis - 35877426"^^xsd:string
+    
+    
+Class: GO_0006096
+
+    Annotations: 
+        label_slim_status "IN - glycolysis - 84804089"^^xsd:string
+    
+    
+Class: GO_0006098
+
+    Annotations: 
+        label_slim_status "IN - pentose-phosphate shunt - 14597480"^^xsd:string
+    
+    
+Class: GO_0007186
+
+    Annotations: 
+        label_slim_status "IN - G-protein coupled receptor signaling pathway - 836527"^^xsd:string
+    
+    
+Class: GO_0006097
+
+    Annotations: 
+        label_slim_status "IN - glyoxylate cycle - 8708224"^^xsd:string
+    
+    
+Class: GO_0008033
+
+    Annotations: 
+        label_slim_status "IN - tRNA processing - 66129843"^^xsd:string
+    
+    
+Class: GO_0007189
+
+    Annotations: 
+        label_slim_status "IN - activation of adenylate cyclase activity by G-protein signaling pathway - 164"^^xsd:string
+    
+    
+Class: GO_0007188
+
+    Annotations: 
+        label_slim_status "IN - \"G-protein signaling, coupled to cAMP nucleotide second messenger\" - 3219"^^xsd:string
+    
+    
+Class: GO_0008277
+
+    Annotations: 
+        label_slim_status "OUT - regulation of G-protein coupled receptor protein signaling pathway - 7861"^^xsd:string
+    
+    
+Class: GO_0006099
+
+    Annotations: 
+        label_slim_status "IN - tricarboxylic acid cycle - 26696902"^^xsd:string
+    
+    
+Class: GO_0000737
+
+    Annotations: 
+        label_slim_status "IN - \"DNA catabolic process, endonucleolytic\" - 92627"^^xsd:string
+    
+    
+Class: GO_0001822
+
+    Annotations: 
+        label_slim_status "OUT - kidney development - 220"^^xsd:string
+    
+    
+Class: GO_0045444
+
+    Annotations: 
+        label_slim_status "OUT - fat cell differentiation - 82"^^xsd:string
+    
+    
+Class: GO_0046776
+
+    Annotations: 
+        label_slim_status "IN - suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I - 1777"^^xsd:string
+    
+    
+Class: GO_0042176
+
+    Annotations: 
+        label_slim_status "IN - regulation of protein catabolic process - 21834"^^xsd:string
+    
+    
+Class: GO_0009372
+
+    Annotations: 
+        label_slim_status "IN - quorum sensing - 1933371"^^xsd:string
+    
+    
+Class: GO_0007194
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of adenylate cyclase activity - 96"^^xsd:string
+    
+    
+Class: GO_0008283
+
+    Annotations: 
+        label_slim_status "OUT - cell proliferation - 151"^^xsd:string
+    
+    
+Class: GO_0042173
+
+    Annotations: 
+        label_slim_status "OUT - regulation of sporulation resulting in formation of a cellular spore - 372243"^^xsd:string
+    
+    
+Class: GO_0015803
+
+    Annotations: 
+        label_slim_status "IN - branched-chain aliphatic amino acid transport - 2327277"^^xsd:string
+    
+    
+Class: GO_0030193
+
+    Annotations: 
+        label_slim_status "OUT - regulation of blood coagulation - 49"^^xsd:string
+    
+    
+Class: GO_0007195
+
+    Annotations: 
+        label_slim_status "IN - inhibition of adenylate cyclase activity by dopamine receptor signaling pathway - 29"^^xsd:string
+    
+    
+Class: GO_0008284
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of cell proliferation - 1541"^^xsd:string
+    
+    
+Class: GO_0010124
+
+    Annotations: 
+        label_slim_status "IN - phenylacetate catabolic process - 121"^^xsd:string
+    
+    
+Class: GO_0009132
+
+    Annotations: 
+        label_slim_status "IN - nucleoside diphosphate metabolic process - 49267"^^xsd:string
+    
+    
+Class: GO_0030198
+
+    Annotations: 
+        label_slim_status "IN - extracellular matrix organization - 1380"^^xsd:string
+    
+    
+Class: GO_0034314
+
+    Annotations: 
+        label_slim_status "IN - Arp2/3 complex-mediated actin nucleation - 261737"^^xsd:string
+    
+    
+Class: GO_0031047
+
+    Annotations: 
+        label_slim_status "IN - gene silencing by RNA - 424"^^xsd:string
+    
+    
+Class: GO_0001819
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of cytokine production - 128"^^xsd:string
+    
+    
+Class: GO_0000723
+
+    Annotations: 
+        label_slim_status "IN - telomere maintenance - 775294"^^xsd:string
+    
+    
+Class: GO_0000724
+
+    Annotations: 
+        label_slim_status "IN - double-strand break repair via homologous recombination - 18862"^^xsd:string
+    
+    
+Class: GO_0050821
+
+    Annotations: 
+        label_slim_status "OUT - protein stabilization - 256314"^^xsd:string
+    
+    
+Class: GO_0071766
+
+    Annotations: 
+        label_slim_status "IN - Actinobacterium-type cell wall biogenesis - 478992"^^xsd:string
+    
+    
+Class: GO_0035429
+
+    Annotations: 
+        label_slim_status "IN - gluconate transmembrane transport - 2632933"^^xsd:string
+    
+    
+Class: GO_0050829
+
+    Annotations: 
+        label_slim_status "IN - defense response to Gram-negative bacterium - 53853"^^xsd:string
+    
+    
+Class: GO_0015813
+
+    Annotations: 
+        label_slim_status "IN - L-glutamate transport - 1166746"^^xsd:string
+    
+    
+Class: GO_0050826
+
+    Annotations: 
+        label_slim_status "IN - response to freezing - 11455"^^xsd:string
+    
+    
+Class: GO_0008053
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial fusion - 11404"^^xsd:string
+    
+    
+Class: GO_0008295
+
+    Annotations: 
+        label_slim_status "IN - spermidine biosynthetic process - 3135519"^^xsd:string
+    
+    
+Class: GO_0035435
+
+    Annotations: 
+        label_slim_status "IN - phosphate ion transmembrane transport - 9496"^^xsd:string
+    
+    
+Class: GO_0033014
+
+    Annotations: 
+        label_slim_status "IN - tetrapyrrole biosynthetic process - 24498498"^^xsd:string
+    
+    
+Class: GO_0008299
+
+    Annotations: 
+        label_slim_status "IN - isoprenoid biosynthetic process - 20426026"^^xsd:string
+    
+    
+Class: GO_0035434
+
+    Annotations: 
+        label_slim_status "IN - copper ion transmembrane transport - 42673"^^xsd:string
+    
+    
+Class: GO_0045227
+
+    Annotations: 
+        label_slim_status "IN - capsule polysaccharide biosynthetic process - 222321"^^xsd:string
+    
+    
+Class: GO_0050830
+
+    Annotations: 
+        label_slim_status "IN - defense response to Gram-positive bacterium - 4551"^^xsd:string
+    
+    
+Class: GO_0050832
+
+    Annotations: 
+        label_slim_status "IN - defense response to fungus - 687"^^xsd:string
+    
+    
+Class: GO_0043043
+
+    Annotations: 
+        label_slim_status "IN - peptide biosynthetic process - 2954789"^^xsd:string
+    
+    
+Class: GO_0043044
+
+    Annotations: 
+        label_slim_status "IN - ATP-dependent chromatin remodeling - 17626"^^xsd:string
+    
+    
+Class: GO_0046797
+
+    Annotations: 
+        label_slim_status "IN - viral procapsid maturation - 1111459"^^xsd:string
+    
+    
+Class: GO_0045226
+
+    Annotations: 
+        label_slim_status "IN - extracellular polysaccharide biosynthetic process - 2164"^^xsd:string
+    
+    
+Class: GO_0009394
+
+    Annotations: 
+        label_slim_status "IN - 2'-deoxyribonucleotide metabolic process - 1054053"^^xsd:string
+    
+    
+Class: GO_0008063
+
+    Annotations: 
+        label_slim_status "IN - Toll signaling pathway - 34455"^^xsd:string
+    
+    
+Class: GO_0015833
+
+    Annotations: 
+        label_slim_status "IN - peptide transport - 5844501"^^xsd:string
+    
+    
+Class: GO_0009156
+
+    Annotations: 
+        label_slim_status "IN - ribonucleoside monophosphate biosynthetic process - 1285710"^^xsd:string
+    
+    
+Class: GO_0009395
+
+    Annotations: 
+        label_slim_status "IN - phospholipid catabolic process - 34130"^^xsd:string
+    
+    
+Class: GO_0009396
+
+    Annotations: 
+        label_slim_status "IN - folic acid-containing compound biosynthetic process - 36756023"^^xsd:string
+    
+    
+Class: GO_0009159
+
+    Annotations: 
+        label_slim_status "IN - deoxyribonucleoside monophosphate catabolic process - 856707"^^xsd:string
+    
+    
+Class: GO_0034333
+
+    Annotations: 
+        label_slim_status "IN - adherens junction assembly - 1030"^^xsd:string
+    
+    
+Class: GO_0009399
+
+    Annotations: 
+        label_slim_status "IN - nitrogen fixation - 104626"^^xsd:string
+    
+    
+Class: GO_0046306
+
+    Annotations: 
+        label_slim_status "IN - alkanesulfonate catabolic process - 5"^^xsd:string
+    
+    
+Class: GO_0043039
+
+    Annotations: 
+        label_slim_status "IN - tRNA aminoacylation - 35667702"^^xsd:string
+    
+    
+Class: GO_0090026
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of monocyte chemotaxis - 65"^^xsd:string
+    
+    
+Class: GO_0045010
+
+    Annotations: 
+        label_slim_status "IN - actin nucleation - 64"^^xsd:string
+    
+    
+Class: GO_0045017
+
+    Annotations: 
+        label_slim_status "IN - glycerolipid biosynthetic process - 247181"^^xsd:string
+    
+    
+Class: GO_0045490
+
+    Annotations: 
+        label_slim_status "IN - pectin catabolic process - 86824"^^xsd:string
+    
+    
+Class: GO_0045493
+
+    Annotations: 
+        label_slim_status "IN - xylan catabolic process - 1413265"^^xsd:string
+    
+    
+Class: GO_0009166
+
+    Annotations: 
+        label_slim_status "IN - nucleotide catabolic process - 3180606"^^xsd:string
+    
+    
+Class: GO_0009164
+
+    Annotations: 
+        label_slim_status "IN - nucleoside catabolic process - 22505"^^xsd:string
+    
+    
+Class: GO_0009165
+
+    Annotations: 
+        label_slim_status "IN - nucleotide biosynthetic process - 5108017"^^xsd:string
+    
+    
+Class: GO_0009168
+
+    Annotations: 
+        label_slim_status "IN - purine ribonucleoside monophosphate biosynthetic process - 102766"^^xsd:string
+    
+    
+Class: GO_0048511
+
+    Annotations: 
+        label_slim_status "OUT - rhythmic process - 511997"^^xsd:string
+    
+    
+Class: GO_0043065
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of apoptotic process - 13226"^^xsd:string
+    
+    
+Class: GO_0043066
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of apoptotic process - 26438"^^xsd:string
+    
+    
+Class: GO_0071973
+
+    Annotations: 
+        label_slim_status "IN - bacterial-type flagellar cell motility - 11646274"^^xsd:string
+    
+    
+Class: GO_0050819
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of coagulation - 53"^^xsd:string
+    
+    
+Class: GO_0015846
+
+    Annotations: 
+        label_slim_status "IN - polyamine transport - 566743"^^xsd:string
+    
+    
+Class: GO_0034599
+
+    Annotations: 
+        label_slim_status "IN - cellular response to oxidative stress - 1272"^^xsd:string
+    
+    
+Class: GO_0015851
+
+    Annotations: 
+        label_slim_status "IN - nucleobase transport - 1603739"^^xsd:string
+    
+    
+Class: GO_0035444
+
+    Annotations: 
+        label_slim_status "IN - nickel cation transmembrane transport - 181677"^^xsd:string
+    
+    
+Class: GO_0000921
+
+    Annotations: 
+        label_slim_status "IN - septin ring assembly - 201622"^^xsd:string
+    
+    
+Class: GO_0006904
+
+    Annotations: 
+        label_slim_status "OUT - vesicle docking involved in exocytosis - 470179"^^xsd:string
+    
+    
+Class: GO_0045033
+
+    Annotations: 
+        label_slim_status "IN - peroxisome inheritance - 366"^^xsd:string
+    
+    
+Class: GO_0048544
+
+    Annotations: 
+        label_slim_status "OUT - recognition of pollen - 829"^^xsd:string
+    
+    
+Class: GO_0070475
+
+    Annotations: 
+        label_slim_status "IN - rRNA base methylation - 415576"^^xsd:string
+    
+    
+Class: GO_0006909
+
+    Annotations: 
+        label_slim_status "IN - phagocytosis - 61290"^^xsd:string
+    
+    
+Class: GO_0051715
+
+    Annotations: 
+        label_slim_status "OUT - cytolysis in other organism - 63019"^^xsd:string
+    
+    
+Class: GO_0043093
+
+    Annotations: 
+        label_slim_status "OUT - cytokinesis by binary fission - 35532"^^xsd:string
+    
+    
+Class: GO_0051716
+
+    Annotations: 
+        label_slim_status "OUT - cellular response to stimulus - 243"^^xsd:string
+    
+    
+Class: GO_0055085
+
+    Annotations: 
+        label_slim_status "IN - transmembrane transport - 102101105"^^xsd:string
+    
+    
+Class: GO_0009186
+
+    Annotations: 
+        label_slim_status "IN - deoxyribonucleoside diphosphate metabolic process - 4595668"^^xsd:string
+    
+    
+Class: GO_0000918
+
+    Annotations: 
+        label_slim_status "OUT - barrier septum site selection - 114"^^xsd:string
+    
+    
+Class: GO_0000917
+
+    Annotations: 
+        label_slim_status "IN - barrier septum assembly - 1584267"^^xsd:string
+    
+    
+Class: GO_0090075
+
+    Annotations: 
+        label_slim_status "OUT - relaxation of muscle - 197"^^xsd:string
+    
+    
+Class: GO_0000910
+
+    Annotations: 
+        label_slim_status "OUT - cytokinesis - 19823"^^xsd:string
+    
+    
+Class: GO_0006913
+
+    Annotations: 
+        label_slim_status "IN - nucleocytoplasmic transport - 25986"^^xsd:string
+    
+    
+Class: GO_0043085
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of catalytic activity - 18513"^^xsd:string
+    
+    
+Class: GO_0006915
+
+    Annotations: 
+        label_slim_status "OUT - apoptotic process - 37344"^^xsd:string
+    
+    
+Class: GO_0046110
+
+    Annotations: 
+        label_slim_status "IN - xanthine metabolic process - 1253"^^xsd:string
+    
+    
+Class: GO_0043086
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of catalytic activity - 46317"^^xsd:string
+    
+    
+Class: GO_0006914
+
+    Annotations: 
+        label_slim_status "OUT - autophagy - 70162"^^xsd:string
+    
+    
+Class: GO_0006919
+
+    Annotations: 
+        label_slim_status "IN - activation of cysteine-type endopeptidase activity involved in apoptotic process - 3602"^^xsd:string
+    
+    
+Class: GO_0071555
+
+    Annotations: 
+        label_slim_status "IN - cell wall organization - 442656"^^xsd:string
+    
+    
+Class: GO_0044179
+
+    Annotations: 
+        label_slim_status "OUT - hemolysis in other organism - 24014"^^xsd:string
+    
+    
+Class: GO_0048535
+
+    Annotations: 
+        label_slim_status "OUT - lymph node development - 28"^^xsd:string
+    
+    
+Class: GO_0002098
+
+    Annotations: 
+        label_slim_status "IN - tRNA wobble uridine modification - 11646"^^xsd:string
+    
+    
+Class: GO_0009190
+
+    Annotations: 
+        label_slim_status "IN - cyclic nucleotide biosynthetic process - 8560092"^^xsd:string
+    
+    
+Class: GO_0051726
+
+    Annotations: 
+        label_slim_status "OUT - regulation of cell cycle - 28550"^^xsd:string
+    
+    
+Class: GO_0015628
+
+    Annotations: 
+        label_slim_status "IN - protein secretion by the type II secretion system - 833347"^^xsd:string
+    
+    
+Class: GO_0015878
+
+    Annotations: 
+        label_slim_status "IN - biotin transport - 2637940"^^xsd:string
+    
+    
+Class: GO_0000902
+
+    Annotations: 
+        label_slim_status "IN - cell morphogenesis - 7062292"^^xsd:string
+    
+    
+Class: GO_0006928
+
+    Annotations: 
+        label_slim_status "OUT - cellular component movement - 461496"^^xsd:string
+    
+    
+Class: GO_0015888
+
+    Annotations: 
+        label_slim_status "IN - thiamine transport - 375015"^^xsd:string
+    
+    
+Class: GO_0015889
+
+    Annotations: 
+        label_slim_status "IN - cobalamin transport - 1883"^^xsd:string
+    
+    
+Class: GO_0015886
+
+    Annotations: 
+        label_slim_status "IN - heme transport - 5315297"^^xsd:string
+    
+    
+Class: GO_0016973
+
+    Annotations: 
+        label_slim_status "IN - poly(A)+ mRNA export from nucleus - 33130"^^xsd:string
+    
+    
+Class: GO_0006935
+
+    Annotations: 
+        label_slim_status "OUT - chemotaxis - 4515403"^^xsd:string
+    
+    
+Class: GO_0006937
+
+    Annotations: 
+        label_slim_status "OUT - regulation of muscle contraction - 454"^^xsd:string
+    
+    
+Class: GO_0050852
+
+    Annotations: 
+        label_slim_status "IN - T cell receptor signaling pathway - 586"^^xsd:string
+    
+    
+Class: GO_0050853
+
+    Annotations: 
+        label_slim_status "IN - B cell receptor signaling pathway - 203"^^xsd:string
+    
+    
+Class: GO_0006936
+
+    Annotations: 
+        label_slim_status "OUT - muscle contraction - 343"^^xsd:string
+    
+    
+Class: GO_0006939
+
+    Annotations: 
+        label_slim_status "OUT - smooth muscle contraction - 681"^^xsd:string
+    
+    
+Class: GO_0045046
+
+    Annotations: 
+        label_slim_status "IN - protein import into peroxisome membrane - 1570"^^xsd:string
+    
+    
+Class: GO_0080009
+
+    Annotations: 
+        label_slim_status "IN - mRNA methylation - 65427"^^xsd:string
+    
+    
+Class: GO_0046373
+
+    Annotations: 
+        label_slim_status "IN - L-arabinose metabolic process - 928642"^^xsd:string
+    
+    
+Class: GO_0055074
+
+    Annotations: 
+        label_slim_status "OUT - calcium ion homeostasis - 383"^^xsd:string
+    
+    
+Class: GO_0055070
+
+    Annotations: 
+        label_slim_status "OUT - copper ion homeostasis - 1700717"^^xsd:string
+    
+    
+Class: GO_0015893
+
+    Annotations: 
+        label_slim_status "IN - drug transport - 19"^^xsd:string
+    
+    
+Class: GO_0006940
+
+    Annotations: 
+        label_slim_status "OUT - regulation of smooth muscle contraction - 1031"^^xsd:string
+    
+    
+Class: GO_0015891
+
+    Annotations: 
+        label_slim_status "IN - siderophore transport - 356452"^^xsd:string
+    
+    
+Class: GO_0006948
+
+    Annotations: 
+        label_slim_status "IN - induction by virus of host cell-cell fusion - 7736"^^xsd:string
+    
+    
+Class: GO_0046168
+
+    Annotations: 
+        label_slim_status "IN - glycerol-3-phosphate catabolic process - 2867940"^^xsd:string
+    
+    
+Class: GO_0016999
+
+    Annotations: 
+        label_slim_status "IN - antibiotic metabolic process - 114"^^xsd:string
+    
+    
+Class: GO_0016998
+
+    Annotations: 
+        label_slim_status "IN - cell wall macromolecule catabolic process - 1489776"^^xsd:string
+    
+    
+Class: GO_0006950
+
+    Annotations: 
+        label_slim_status "IN - response to stress - 8466198"^^xsd:string
+    
+    
+Class: GO_0006953
+
+    Annotations: 
+        label_slim_status "IN - acute-phase response - 9730"^^xsd:string
+    
+    
+Class: GO_0006952
+
+    Annotations: 
+        label_slim_status "IN - defense response - 95203"^^xsd:string
+    
+    
+Class: GO_0006955
+
+    Annotations: 
+        label_slim_status "OUT - immune response - 159518"^^xsd:string
+    
+    
+Class: GO_0006954
+
+    Annotations: 
+        label_slim_status "IN - inflammatory response - 2748"^^xsd:string
+    
+    
+Class: GO_0006956
+
+    Annotations: 
+        label_slim_status "IN - complement activation - 81"^^xsd:string
+    
+    
+Class: GO_0006959
+
+    Annotations: 
+        label_slim_status "OUT - humoral immune response - 32"^^xsd:string
+    
+    
+Class: GO_0023052
+
+    Annotations: 
+        label_slim_status "OUT - signaling - 34619"^^xsd:string
+    
+    
+Class: GO_0016525
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of angiogenesis - 2432"^^xsd:string
+    
+    
+Class: GO_0035023
+
+    Annotations: 
+        label_slim_status "OUT - regulation of Rho protein signal transduction - 463745"^^xsd:string
+    
+    
+Class: GO_0060478
+
+    Annotations: 
+        label_slim_status "IN - acrosomal vesicle exocytosis - 169"^^xsd:string
+    
+    
+Class: GO_0015671
+
+    Annotations: 
+        label_slim_status "IN - oxygen transport - 1090492"^^xsd:string
+    
+    
+Class: GO_0015672
+
+    Annotations: 
+        label_slim_status "IN - monovalent inorganic cation transport - 432100"^^xsd:string
+    
+    
+Class: GO_0006725
+
+    Annotations: 
+        label_slim_status "IN - cellular aromatic compound metabolic process - 3803161"^^xsd:string
+    
+    
+Class: GO_0006729
+
+    Annotations: 
+        label_slim_status "IN - tetrahydrobiopterin biosynthetic process - 2960583"^^xsd:string
+    
+    
+Class: GO_0070257
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of mucus secretion - 43"^^xsd:string
+    
+    
+Class: GO_0030833
+
+    Annotations: 
+        label_slim_status "IN - regulation of actin filament polymerization - 183727"^^xsd:string
+    
+    
+Class: GO_0042811
+
+    Annotations: 
+        label_slim_status "IN - pheromone biosynthetic process - 793"^^xsd:string
+    
+    
+Class: GO_0015689
+
+    Annotations: 
+        label_slim_status "IN - molybdate ion transport - 102859"^^xsd:string
+    
+    
+Class: GO_0015684
+
+    Annotations: 
+        label_slim_status "IN - ferrous iron transport - 4226114"^^xsd:string
+    
+    
+Class: GO_0006730
+
+    Annotations: 
+        label_slim_status "IN - one-carbon metabolic process - 11678635"^^xsd:string
+    
+    
+Class: GO_0050890
+
+    Annotations: 
+        label_slim_status "OUT - cognition - 211"^^xsd:string
+    
+    
+Class: GO_0006974
+
+    Annotations: 
+        label_slim_status "IN - response to DNA damage stimulus - 2981705"^^xsd:string
+    
+    
+Class: GO_0006979
+
+    Annotations: 
+        label_slim_status "IN - response to oxidative stress - 9452691"^^xsd:string
+    
+    
+Class: GO_0045087
+
+    Annotations: 
+        label_slim_status "IN - innate immune response - 4"^^xsd:string
+    
+    
+Class: GO_0048598
+
+    Annotations: 
+        label_slim_status "OUT - embryonic morphogenesis - 1061"^^xsd:string
+    
+    
+Class: GO_0052837
+
+    Annotations: 
+        label_slim_status "IN - thiazole biosynthetic process - 6290"^^xsd:string
+    
+    
+Class: GO_0016539
+
+    Annotations: 
+        label_slim_status "IN - intein-mediated protein splicing - 289230"^^xsd:string
+    
+    
+Class: GO_0006740
+
+    Annotations: 
+        label_slim_status "IN - NADPH regeneration - 1"^^xsd:string
+    
+    
+Class: GO_0015696
+
+    Annotations: 
+        label_slim_status "IN - ammonium transport - 16276985"^^xsd:string
+    
+    
+Class: GO_0015693
+
+    Annotations: 
+        label_slim_status "IN - magnesium ion transport - 254297"^^xsd:string
+    
+    
+Class: GO_0006742
+
+    Annotations: 
+        label_slim_status "IN - NADP catabolic process - 321231"^^xsd:string
+    
+    
+Class: GO_0015694
+
+    Annotations: 
+        label_slim_status "IN - mercury ion transport - 85517"^^xsd:string
+    
+    
+Class: GO_0006741
+
+    Annotations: 
+        label_slim_status "IN - NADP biosynthetic process - 5732659"^^xsd:string
+    
+    
+Class: GO_0006744
+
+    Annotations: 
+        label_slim_status "IN - ubiquinone biosynthetic process - 7770037"^^xsd:string
+    
+    
+Class: GO_0006506
+
+    Annotations: 
+        label_slim_status "IN - GPI anchor biosynthetic process - 251186"^^xsd:string
+    
+    
+Class: GO_0070493
+
+    Annotations: 
+        label_slim_status "IN - thrombin receptor signaling pathway - 239"^^xsd:string
+    
+    
+Class: GO_0006505
+
+    Annotations: 
+        label_slim_status "IN - GPI anchor metabolic process - 260814"^^xsd:string
+    
+    
+Class: GO_0034194
+
+    Annotations: 
+        label_slim_status "IN - D-galactonate catabolic process - 386894"^^xsd:string
+    
+    
+Class: GO_0048268
+
+    Annotations: 
+        label_slim_status "IN - clathrin coat assembly - 89091"^^xsd:string
+    
+    
+Class: GO_0006629
+
+    Annotations: 
+        label_slim_status "IN - lipid metabolic process - 17395584"^^xsd:string
+    
+    
+Class: GO_0002143
+
+    Annotations: 
+        label_slim_status "IN - tRNA wobble position uridine thiolation - 114574"^^xsd:string
+    
+    
+Class: GO_0019941
+
+    Annotations: 
+        label_slim_status "IN - modification-dependent protein catabolic process - 1346541"^^xsd:string
+    
+    
+Class: GO_0019700
+
+    Annotations: 
+        label_slim_status "IN - organic phosphonate catabolic process - 342735"^^xsd:string
+    
+    
+Class: GO_0046080
+
+    Annotations: 
+        label_slim_status "IN - dUTP metabolic process - 3712281"^^xsd:string
+    
+    
+Class: GO_0042953
+
+    Annotations: 
+        label_slim_status "IN - lipoprotein transport - 36933"^^xsd:string
+    
+    
+Class: GO_0042710
+
+    Annotations: 
+        label_slim_status "OUT - biofilm formation - 192665"^^xsd:string
+    
+    
+Class: GO_0006874
+
+    Annotations: 
+        label_slim_status "OUT - cellular calcium ion homeostasis - 11906"^^xsd:string
+    
+    
+Class: GO_0006631
+
+    Annotations: 
+        label_slim_status "IN - fatty acid metabolic process - 14915104"^^xsd:string
+    
+    
+Class: GO_0006633
+
+    Annotations: 
+        label_slim_status "IN - fatty acid biosynthetic process - 25107677"^^xsd:string
+    
+    
+Class: GO_0006878
+
+    Annotations: 
+        label_slim_status "OUT - cellular copper ion homeostasis - 286085"^^xsd:string
+    
+    
+Class: GO_0006635
+
+    Annotations: 
+        label_slim_status "IN - fatty acid beta-oxidation - 60871"^^xsd:string
+    
+    
+Class: GO_0006879
+
+    Annotations: 
+        label_slim_status "OUT - cellular iron ion homeostasis - 1805085"^^xsd:string
+    
+    
+Class: GO_0051205
+
+    Annotations: 
+        label_slim_status "OUT - protein insertion into membrane - 7614926"^^xsd:string
+    
+    
+Class: GO_0048255
+
+    Annotations: 
+        label_slim_status "IN - mRNA stabilization - 4"^^xsd:string
+    
+    
+Class: GO_0048013
+
+    Annotations: 
+        label_slim_status "IN - ephrin receptor signaling pathway - 28404"^^xsd:string
+    
+    
+Class: GO_0019953
+
+    Annotations: 
+        label_slim_status "OUT - sexual reproduction - 3915"^^xsd:string
+    
+    
+Class: GO_0048010
+
+    Annotations: 
+        label_slim_status "IN - vascular endothelial growth factor receptor signaling pathway - 363"^^xsd:string
+    
+    
+Class: GO_0006401
+
+    Annotations: 
+        label_slim_status "IN - RNA catabolic process - 774774"^^xsd:string
+    
+    
+Class: GO_0006885
+
+    Annotations: 
+        label_slim_status "OUT - regulation of pH - 5415300"^^xsd:string
+    
+    
+Class: GO_0006884
+
+    Annotations: 
+        label_slim_status "IN - cell volume homeostasis - 986"^^xsd:string
+    
+    
+Class: GO_0006400
+
+    Annotations: 
+        label_slim_status "IN - tRNA modification - 20236314"^^xsd:string
+    
+    
+Class: GO_0051694
+
+    Annotations: 
+        label_slim_status "IN - pointed-end actin filament capping - 24322"^^xsd:string
+    
+    
+Class: GO_0006887
+
+    Annotations: 
+        label_slim_status "IN - exocytosis - 80799"^^xsd:string
+    
+    
+Class: GO_0006644
+
+    Annotations: 
+        label_slim_status "IN - phospholipid metabolic process - 19136"^^xsd:string
+    
+    
+Class: GO_0006402
+
+    Annotations: 
+        label_slim_status "IN - mRNA catabolic process - 519557"^^xsd:string
+    
+    
+Class: GO_0006886
+
+    Annotations: 
+        label_slim_status "IN - intracellular protein transport - 9709045"^^xsd:string
+    
+    
+Class: GO_0006405
+
+    Annotations: 
+        label_slim_status "IN - RNA export from nucleus - 7"^^xsd:string
+    
+    
+Class: GO_0070193
+
+    Annotations: 
+        label_slim_status "IN - synaptonemal complex organization - 316"^^xsd:string
+    
+    
+Class: GO_0006888
+
+    Annotations: 
+        label_slim_status "IN - ER to Golgi vesicle-mediated transport - 412885"^^xsd:string
+    
+    
+Class: GO_0006406
+
+    Annotations: 
+        label_slim_status "IN - mRNA export from nucleus - 24747"^^xsd:string
+    
+    
+Class: GO_0002128
+
+    Annotations: 
+        label_slim_status "IN - tRNA nucleoside ribose methylation - 281436"^^xsd:string
+    
+    
+Class: GO_0000186
+
+    Annotations: 
+        label_slim_status "IN - activation of MAPKK activity - 1352"^^xsd:string
+    
+    
+Class: GO_0019722
+
+    Annotations: 
+        label_slim_status "IN - calcium-mediated signaling - 14309"^^xsd:string
+    
+    
+Class: GO_0042981
+
+    Annotations: 
+        label_slim_status "OUT - regulation of apoptotic process - 64377"^^xsd:string
+    
+    
+Class: GO_0000184
+
+    Annotations: 
+        label_slim_status "IN - \"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay\" - 109183"^^xsd:string
+    
+    
+Class: GO_0048280
+
+    Annotations: 
+        label_slim_status "IN - vesicle fusion with Golgi apparatus - 16769"^^xsd:string
+    
+    
+Class: GO_0006890
+
+    Annotations: 
+        label_slim_status "IN - \"retrograde vesicle-mediated transport, Golgi to ER\" - 65940"^^xsd:string
+    
+    
+Class: GO_0006650
+
+    Annotations: 
+        label_slim_status "IN - glycerophospholipid metabolic process - 1646"^^xsd:string
+    
+    
+Class: GO_0006891
+
+    Annotations: 
+        label_slim_status "IN - intra-Golgi vesicle-mediated transport - 57846"^^xsd:string
+    
+    
+Class: GO_0006893
+
+    Annotations: 
+        label_slim_status "IN - Golgi to plasma membrane transport - 8301"^^xsd:string
+    
+    
+Class: GO_0006412
+
+    Annotations: 
+        label_slim_status "IN - translation - 237214861"^^xsd:string
+    
+    
+Class: GO_0006898
+
+    Annotations: 
+        label_slim_status "IN - receptor-mediated endocytosis - 304"^^xsd:string
+    
+    
+Class: GO_0006414
+
+    Annotations: 
+        label_slim_status "IN - translational elongation - 13463481"^^xsd:string
+    
+    
+Class: GO_0006897
+
+    Annotations: 
+        label_slim_status "IN - endocytosis - 31163"^^xsd:string
+    
+    
+Class: GO_0006413
+
+    Annotations: 
+        label_slim_status "IN - translational initiation - 14884458"^^xsd:string
+    
+    
+Class: GO_0006415
+
+    Annotations: 
+        label_slim_status "IN - translational termination - 18581746"^^xsd:string
+    
+    
+Class: GO_0007507
+
+    Annotations: 
+        label_slim_status "OUT - heart development - 1408"^^xsd:string
+    
+    
+Class: GO_0006418
+
+    Annotations: 
+        label_slim_status "IN - tRNA aminoacylation for protein translation - 196326738"^^xsd:string
+    
+    
+Class: GO_0006417
+
+    Annotations: 
+        label_slim_status "IN - regulation of translation - 1563"^^xsd:string
+    
+    
+Class: GO_0006659
+
+    Annotations: 
+        label_slim_status "IN - phosphatidylserine biosynthetic process - 36271"^^xsd:string
+    
+    
+Class: GO_0006419
+
+    Annotations: 
+        label_slim_status "IN - alanyl-tRNA aminoacylation - 21851368"^^xsd:string
+    
+    
+Class: GO_0048278
+
+    Annotations: 
+        label_slim_status "OUT - vesicle docking - 56203"^^xsd:string
+    
+    
+Class: GO_0030500
+
+    Annotations: 
+        label_slim_status "OUT - regulation of bone mineralization - 52"^^xsd:string
+    
+    
+Class: GO_0048034
+
+    Annotations: 
+        label_slim_status "IN - heme O biosynthetic process - 65"^^xsd:string
+    
+    
+Class: GO_0016226
+
+    Annotations: 
+        label_slim_status "IN - iron-sulfur cluster assembly - 20285913"^^xsd:string
+    
+    
+Class: GO_0006662
+
+    Annotations: 
+        label_slim_status "IN - glycerol ether metabolic process - 80398"^^xsd:string
+    
+    
+Class: GO_0006420
+
+    Annotations: 
+        label_slim_status "IN - arginyl-tRNA aminoacylation - 15324658"^^xsd:string
+    
+    
+Class: GO_0006665
+
+    Annotations: 
+        label_slim_status "IN - sphingolipid metabolic process - 909422"^^xsd:string
+    
+    
+Class: GO_0006423
+
+    Annotations: 
+        label_slim_status "IN - cysteinyl-tRNA aminoacylation - 1489602"^^xsd:string
+    
+    
+Class: GO_0006425
+
+    Annotations: 
+        label_slim_status "IN - glutaminyl-tRNA aminoacylation - 11748"^^xsd:string
+    
+    
+Class: GO_0006426
+
+    Annotations: 
+        label_slim_status "IN - glycyl-tRNA aminoacylation - 16336569"^^xsd:string
+    
+    
+Class: GO_0006429
+
+    Annotations: 
+        label_slim_status "IN - leucyl-tRNA aminoacylation - 2870743"^^xsd:string
+    
+    
+Class: GO_0007517
+
+    Annotations: 
+        label_slim_status "OUT - muscle organ development - 2018"^^xsd:string
+    
+    
+Class: GO_0006428
+
+    Annotations: 
+        label_slim_status "IN - isoleucyl-tRNA aminoacylation - 349820"^^xsd:string
+    
+    
+Class: GO_0051479
+
+    Annotations: 
+        label_slim_status "IN - mannosylglycerate biosynthetic process - 17224"^^xsd:string
+    
+    
+Class: GO_0008608
+
+    Annotations: 
+        label_slim_status "OUT - attachment of spindle microtubules to kinetochore - 31231"^^xsd:string
+    
+    
+Class: GO_0000162
+
+    Annotations: 
+        label_slim_status "IN - tryptophan biosynthetic process - 509"^^xsd:string
+    
+    
+Class: GO_0019988
+
+    Annotations: 
+        label_slim_status "IN - charged-tRNA amino acid modification - 20262"^^xsd:string
+    
+    
+Class: GO_0000160
+
+    Annotations: 
+        label_slim_status "IN - two-component signal transduction system (phosphorelay) - 62568697"^^xsd:string
+    
+    
+Class: GO_0019748
+
+    Annotations: 
+        label_slim_status "IN - secondary metabolic process - 97807"^^xsd:string
+    
+    
+Class: GO_0032955
+
+    Annotations: 
+        label_slim_status "OUT - regulation of barrier septum assembly - 552177"^^xsd:string
+    
+    
+Class: GO_0032957
+
+    Annotations: 
+        label_slim_status "IN - inositol trisphosphate metabolic process - 15491"^^xsd:string
+    
+    
+Class: GO_0042998
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of Golgi to plasma membrane protein transport - 518"^^xsd:string
+    
+    
+Class: GO_0006672
+
+    Annotations: 
+        label_slim_status "IN - ceramide metabolic process - 60214"^^xsd:string
+    
+    
+Class: GO_0006430
+
+    Annotations: 
+        label_slim_status "IN - lysyl-tRNA aminoacylation - 7685337"^^xsd:string
+    
+    
+Class: GO_0014059
+
+    Annotations: 
+        label_slim_status "OUT - regulation of dopamine secretion - 2601"^^xsd:string
+    
+    
+Class: GO_0008610
+
+    Annotations: 
+        label_slim_status "IN - lipid biosynthetic process - 12404627"^^xsd:string
+    
+    
+Class: GO_0006432
+
+    Annotations: 
+        label_slim_status "IN - phenylalanyl-tRNA aminoacylation - 9913290"^^xsd:string
+    
+    
+Class: GO_0030541
+
+    Annotations: 
+        label_slim_status "OUT - plasmid partitioning - 1573"^^xsd:string
+    
+    
+Class: GO_0006431
+
+    Annotations: 
+        label_slim_status "IN - methionyl-tRNA aminoacylation - 832240"^^xsd:string
+    
+    
+Class: GO_0006434
+
+    Annotations: 
+        label_slim_status "IN - seryl-tRNA aminoacylation - 3626964"^^xsd:string
+    
+    
+Class: GO_0022900
+
+    Annotations: 
+        label_slim_status "IN - electron transport chain - 5774400"^^xsd:string
+    
+    
+Class: GO_0006433
+
+    Annotations: 
+        label_slim_status "IN - prolyl-tRNA aminoacylation - 2207042"^^xsd:string
+    
+    
+Class: GO_0006436
+
+    Annotations: 
+        label_slim_status "IN - tryptophanyl-tRNA aminoacylation - 232010"^^xsd:string
+    
+    
+Class: GO_0052331
+
+    Annotations: 
+        label_slim_status "OUT - hemolysis in other organism involved in symbiotic interaction - 19"^^xsd:string
+    
+    
+Class: GO_0006435
+
+    Annotations: 
+        label_slim_status "IN - threonyl-tRNA aminoacylation - 1928550"^^xsd:string
+    
+    
+Class: GO_0008612
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-lysine modification to hypusine - 4910475"^^xsd:string
+    
+    
+Class: GO_0006438
+
+    Annotations: 
+        label_slim_status "IN - valyl-tRNA aminoacylation - 2674985"^^xsd:string
+    
+    
+Class: GO_0022904
+
+    Annotations: 
+        label_slim_status "IN - respiratory electron transport chain - 11231700"^^xsd:string
+    
+    
+Class: GO_0006437
+
+    Annotations: 
+        label_slim_status "IN - tyrosyl-tRNA aminoacylation - 1417350"^^xsd:string
+    
+    
+Class: GO_0008615
+
+    Annotations: 
+        label_slim_status "IN - pyridoxine biosynthetic process - 13253584"^^xsd:string
+    
+    
+Class: GO_0008616
+
+    Annotations: 
+        label_slim_status "IN - queuosine biosynthetic process - 27064790"^^xsd:string
+    
+    
+Class: GO_0000398
+
+    Annotations: 
+        label_slim_status "IN - \"nuclear mRNA splicing, via spliceosome\" - 289577"^^xsd:string
+    
+    
+Class: GO_0000154
+
+    Annotations: 
+        label_slim_status "IN - rRNA modification - 933872"^^xsd:string
+    
+    
+Class: GO_0019752
+
+    Annotations: 
+        label_slim_status "IN - carboxylic acid metabolic process - 13698983"^^xsd:string
+    
+    
+Class: GO_0030521
+
+    Annotations: 
+        label_slim_status "IN - androgen receptor signaling pathway - 371"^^xsd:string
+    
+    
+Class: GO_0000390
+
+    Annotations: 
+        label_slim_status "IN - spliceosomal complex disassembly - 574"^^xsd:string
+    
+    
+Class: GO_0019509
+
+    Annotations: 
+        label_slim_status "IN - L-methionine salvage from methylthioadenosine - 22753"^^xsd:string
+    
+    
+Class: GO_0006683
+
+    Annotations: 
+        label_slim_status "IN - galactosylceramide catabolic process - 51018"^^xsd:string
+    
+    
+Class: GO_0042742
+
+    Annotations: 
+        label_slim_status "IN - defense response to bacterium - 117115"^^xsd:string
+    
+    
+Class: GO_0007531
+
+    Annotations: 
+        label_slim_status "OUT - mating type determination - 213"^^xsd:string
+    
+    
+Class: GO_0006200
+
+    Annotations: 
+        label_slim_status "OUT - ATP catabolic process - 319"^^xsd:string
+    
+    
+Class: GO_0051252
+
+    Annotations: 
+        label_slim_status "IN - regulation of RNA metabolic process - 660"^^xsd:string
+    
+    
+Class: GO_0016485
+
+    Annotations: 
+        label_slim_status "IN - protein processing - 86426"^^xsd:string
+    
+    
+Class: GO_0006446
+
+    Annotations: 
+        label_slim_status "IN - regulation of translational initiation - 24182"^^xsd:string
+    
+    
+Class: GO_0009712
+
+    Annotations: 
+        label_slim_status "IN - catechol-containing compound metabolic process - 83368"^^xsd:string
+    
+    
+Class: GO_0006207
+
+    Annotations: 
+        label_slim_status "IN - 'de novo' pyrimidine base biosynthetic process - 6480540"^^xsd:string
+    
+    
+Class: GO_0006206
+
+    Annotations: 
+        label_slim_status "IN - pyrimidine base metabolic process - 317297"^^xsd:string
+    
+    
+Class: GO_0016480
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of transcription from RNA polymerase III promoter - 27217"^^xsd:string
+    
+    
+Class: GO_0052547
+
+    Annotations: 
+        label_slim_status "IN - regulation of peptidase activity - 506"^^xsd:string
+    
+    
+Class: GO_0000387
+
+    Annotations: 
+        label_slim_status "IN - spliceosomal snRNP assembly - 986"^^xsd:string
+    
+    
+Class: GO_0043631
+
+    Annotations: 
+        label_slim_status "IN - RNA polyadenylation - 104618"^^xsd:string
+    
+    
+Class: GO_0042537
+
+    Annotations: 
+        label_slim_status "IN - benzene-containing compound metabolic process - 1"^^xsd:string
+    
+    
+Class: GO_0006450
+
+    Annotations: 
+        label_slim_status "IN - regulation of translational fidelity - 2390694"^^xsd:string
+    
+    
+Class: GO_0006691
+
+    Annotations: 
+        label_slim_status "IN - leukotriene metabolic process - 260"^^xsd:string
+    
+    
+Class: GO_0032981
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial respiratory chain complex I assembly - 16189"^^xsd:string
+    
+    
+Class: GO_0006452
+
+    Annotations: 
+        label_slim_status "IN - translational frameshifting - 298473"^^xsd:string
+    
+    
+Class: GO_0006694
+
+    Annotations: 
+        label_slim_status "IN - steroid biosynthetic process - 2244964"^^xsd:string
+    
+    
+Class: GO_0006693
+
+    Annotations: 
+        label_slim_status "IN - prostaglandin metabolic process - 1"^^xsd:string
+    
+    
+Class: GO_0030321
+
+    Annotations: 
+        label_slim_status "IN - transepithelial chloride transport - 21"^^xsd:string
+    
+    
+Class: GO_0006695
+
+    Annotations: 
+        label_slim_status "IN - cholesterol biosynthetic process - 13855"^^xsd:string
+    
+    
+Class: GO_0009966
+
+    Annotations: 
+        label_slim_status "OUT - regulation of signal transduction - 58925"^^xsd:string
+    
+    
+Class: GO_0016255
+
+    Annotations: 
+        label_slim_status "IN - attachment of GPI anchor to protein - 83604"^^xsd:string
+    
+    
+Class: GO_0009725
+
+    Annotations: 
+        label_slim_status "IN - response to hormone stimulus - 547"^^xsd:string
+    
+    
+Class: GO_0006213
+
+    Annotations: 
+        label_slim_status "IN - pyrimidine nucleoside metabolic process - 1012759"^^xsd:string
+    
+    
+Class: GO_0007304
+
+    Annotations: 
+        label_slim_status "OUT - chorion-containing eggshell formation - 764"^^xsd:string
+    
+    
+Class: GO_0006457
+
+    Annotations: 
+        label_slim_status "IN - protein folding - 53231184"^^xsd:string
+    
+    
+Class: GO_0009968
+
+    Annotations: 
+        label_slim_status "OUT - negative regulation of signal transduction - 7153"^^xsd:string
+    
+    
+Class: GO_0031639
+
+    Annotations: 
+        label_slim_status "IN - plasminogen activation - 1496"^^xsd:string
+    
+    
+Class: GO_0051225
+
+    Annotations: 
+        label_slim_status "IN - spindle assembly - 3770"^^xsd:string
+    
+    
+Class: GO_0042773
+
+    Annotations: 
+        label_slim_status "IN - ATP synthesis coupled electron transport - 6979930"^^xsd:string
+    
+    
+Class: GO_0010951
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of endopeptidase activity - 1213"^^xsd:string
+    
+    
+Class: GO_0019538
+
+    Annotations: 
+        label_slim_status "IN - protein metabolic process - 7275884"^^xsd:string
+    
+    
+Class: GO_0032968
+
+    Annotations: 
+        label_slim_status "IN - positive regulation of transcription elongation from RNA polymerase II promoter - 30760"^^xsd:string
+    
+    
+Class: GO_0006461
+
+    Annotations: 
+        label_slim_status "IN - protein complex assembly - 730424"^^xsd:string
+    
+    
+Class: GO_0061024
+
+    Annotations: 
+        label_slim_status "IN - membrane organization - 935864"^^xsd:string
+    
+    
+Class: GO_0006221
+
+    Annotations: 
+        label_slim_status "IN - pyrimidine nucleotide biosynthetic process - 12218372"^^xsd:string
+    
+    
+Class: GO_0008643
+
+    Annotations: 
+        label_slim_status "IN - carbohydrate transport - 321086"^^xsd:string
+    
+    
+Class: GO_0006223
+
+    Annotations: 
+        label_slim_status "IN - uracil salvage - 190"^^xsd:string
+    
+    
+Class: GO_0006465
+
+    Annotations: 
+        label_slim_status "IN - signal peptide processing - 128204"^^xsd:string
+    
+    
+Class: GO_0031640
+
+    Annotations: 
+        label_slim_status "OUT - killing of cells of other organism - 248"^^xsd:string
+    
+    
+Class: GO_0009972
+
+    Annotations: 
+        label_slim_status "IN - cytidine deamination - 352879"^^xsd:string
+    
+    
+Class: GO_0006464
+
+    Annotations: 
+        label_slim_status "IN - protein modification process - 8705196"^^xsd:string
+    
+    
+Class: GO_0006222
+
+    Annotations: 
+        label_slim_status "IN - UMP biosynthetic process - 10642480"^^xsd:string
+    
+    
+Class: GO_0038032
+
+    Annotations: 
+        label_slim_status "OUT - termination of G-protein coupled receptor signaling pathway - 79806"^^xsd:string
+    
+    
+Class: GO_0006469
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of protein kinase activity - 4456"^^xsd:string
+    
+    
+Class: GO_0008645
+
+    Annotations: 
+        label_slim_status "IN - hexose transport - 323431"^^xsd:string
+    
+    
+Class: GO_0006468
+
+    Annotations: 
+        label_slim_status "IN - protein phosphorylation - 28530355"^^xsd:string
+    
+    
+Class: GO_0006229
+
+    Annotations: 
+        label_slim_status "IN - dUTP biosynthetic process - 10972"^^xsd:string
+    
+    
+Class: GO_0008406
+
+    Annotations: 
+        label_slim_status "OUT - gonad development - 446"^^xsd:string
+    
+    
+Class: GO_0006228
+
+    Annotations: 
+        label_slim_status "IN - UTP biosynthetic process - 6398390"^^xsd:string
+    
+    
+Class: GO_0051470
+
+    Annotations: 
+        label_slim_status "IN - ectoine transport - 1"^^xsd:string
+    
+    
+Class: GO_0000128
+
+    Annotations: 
+        label_slim_status "OUT - flocculation - 10555"^^xsd:string
+    
+    
+Class: GO_0001696
+
+    Annotations: 
+        label_slim_status "IN - gastric acid secretion - 222"^^xsd:string
+    
+    
+Class: GO_0000122
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of transcription from RNA polymerase II promoter - 5951"^^xsd:string
+    
+    
+Class: GO_0043410
+
+    Annotations: 
+        label_slim_status "IN - positive regulation of MAPK cascade - 970"^^xsd:string
+    
+    
+Class: GO_0019543
+
+    Annotations: 
+        label_slim_status "IN - propionate catabolic process - 4193222"^^xsd:string
+    
+    
+Class: GO_0030334
+
+    Annotations: 
+        label_slim_status "OUT - regulation of cell migration - 1449"^^xsd:string
+    
+    
+Class: GO_0031424
+
+    Annotations: 
+        label_slim_status "OUT - keratinization - 69"^^xsd:string
+    
+    
+Class: GO_0019307
+
+    Annotations: 
+        label_slim_status "IN - mannose biosynthetic process - 496672"^^xsd:string
+    
+    
+Class: GO_0006470
+
+    Annotations: 
+        label_slim_status "IN - protein dephosphorylation - 1651191"^^xsd:string
+    
+    
+Class: GO_0006230
+
+    Annotations: 
+        label_slim_status "IN - TMP biosynthetic process - 15820"^^xsd:string
+    
+    
+Class: GO_0006471
+
+    Annotations: 
+        label_slim_status "IN - protein ADP-ribosylation - 65019"^^xsd:string
+    
+    
+Class: GO_0042558
+
+    Annotations: 
+        label_slim_status "IN - pteridine-containing compound metabolic process - 17419789"^^xsd:string
+    
+    
+Class: GO_0006474
+
+    Annotations: 
+        label_slim_status "IN - N-terminal protein amino acid acetylation - 9036"^^xsd:string
+    
+    
+Class: GO_0006231
+
+    Annotations: 
+        label_slim_status "IN - dTMP biosynthetic process - 13362959"^^xsd:string
+    
+    
+Class: GO_0008654
+
+    Annotations: 
+        label_slim_status "IN - phospholipid biosynthetic process - 14979126"^^xsd:string
+    
+    
+Class: GO_0030100
+
+    Annotations: 
+        label_slim_status "OUT - regulation of endocytosis - 505"^^xsd:string
+    
+    
+Class: GO_0006476
+
+    Annotations: 
+        label_slim_status "IN - protein deacetylation - 867"^^xsd:string
+    
+    
+Class: GO_0016037
+
+    Annotations: 
+        label_slim_status "OUT - light absorption - 30928"^^xsd:string
+    
+    
+Class: GO_0042312
+
+    Annotations: 
+        label_slim_status "OUT - regulation of vasodilation - 851"^^xsd:string
+    
+    
+Class: GO_0006233
+
+    Annotations: 
+        label_slim_status "IN - dTDP biosynthetic process - 1040814"^^xsd:string
+    
+    
+Class: GO_0008652
+
+    Annotations: 
+        label_slim_status "IN - cellular amino acid biosynthetic process - 17835802"^^xsd:string
+    
+    
+Class: GO_0043401
+
+    Annotations: 
+        label_slim_status "IN - steroid hormone mediated signaling pathway - 34700"^^xsd:string
+    
+    
+Class: GO_0043402
+
+    Annotations: 
+        label_slim_status "IN - glucocorticoid mediated signaling pathway - 3336"^^xsd:string
+    
+    
+Class: GO_0045823
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of heart contraction - 5"^^xsd:string
+    
+    
+Class: GO_0006479
+
+    Annotations: 
+        label_slim_status "IN - protein methylation - 106751"^^xsd:string
+    
+    
+Class: GO_0016032
+
+    Annotations: 
+        label_slim_status "IN - viral reproduction - 1046123"^^xsd:string
+    
+    
+Class: GO_0043408
+
+    Annotations: 
+        label_slim_status "IN - regulation of MAPK cascade - 6"^^xsd:string
+    
+    
+Class: GO_0002532
+
+    Annotations: 
+        label_slim_status "OUT - production of molecular mediator involved in inflammatory response - 512"^^xsd:string
+    
+    
+Class: GO_0019551
+
+    Annotations: 
+        label_slim_status "IN - glutamate catabolic process to 2-oxoglutarate - 2787828"^^xsd:string
+    
+    
+Class: GO_0051289
+
+    Annotations: 
+        label_slim_status "IN - protein homotetramerization - 4466"^^xsd:string
+    
+    
+Class: GO_0019310
+
+    Annotations: 
+        label_slim_status "IN - inositol catabolic process - 255830"^^xsd:string
+    
+    
+Class: GO_0001682
+
+    Annotations: 
+        label_slim_status "IN - tRNA 5'-leader removal - 17703"^^xsd:string
+    
+    
+Class: GO_0019556
+
+    Annotations: 
+        label_slim_status "IN - histidine catabolic process to glutamate and formamide - 6"^^xsd:string
+    
+    
+Class: GO_0042311
+
+    Annotations: 
+        label_slim_status "OUT - vasodilation - 199"^^xsd:string
+    
+    
+Class: GO_0031412
+
+    Annotations: 
+        label_slim_status "IN - gas vesicle organization - 15855"^^xsd:string
+    
+    
+Class: GO_0042310
+
+    Annotations: 
+        label_slim_status "OUT - vasoconstriction - 919"^^xsd:string
+    
+    
+Class: GO_0030328
+
+    Annotations: 
+        label_slim_status "IN - prenylcysteine catabolic process - 17042"^^xsd:string
+    
+    
+Class: GO_0006481
+
+    Annotations: 
+        label_slim_status "IN - C-terminal protein methylation - 201051"^^xsd:string
+    
+    
+Class: GO_0006480
+
+    Annotations: 
+        label_slim_status "IN - N-terminal protein amino acid methylation - 62961"^^xsd:string
+    
+    
+Class: GO_0046907
+
+    Annotations: 
+        label_slim_status "IN - intracellular transport - 83771"^^xsd:string
+    
+    
+Class: GO_0042549
+
+    Annotations: 
+        label_slim_status "IN - photosystem II stabilization - 988983"^^xsd:string
+    
+    
+Class: GO_0006241
+
+    Annotations: 
+        label_slim_status "IN - CTP biosynthetic process - 6398390"^^xsd:string
+    
+    
+Class: GO_0042546
+
+    Annotations: 
+        label_slim_status "IN - cell wall biogenesis - 6036"^^xsd:string
+    
+    
+Class: GO_0016049
+
+    Annotations: 
+        label_slim_status "OUT - cell growth - 2257"^^xsd:string
+    
+    
+Class: GO_0006000
+
+    Annotations: 
+        label_slim_status "IN - fructose metabolic process - 122734"^^xsd:string
+    
+    
+Class: GO_0042545
+
+    Annotations: 
+        label_slim_status "IN - cell wall modification - 961695"^^xsd:string
+    
+    
+Class: GO_0006003
+
+    Annotations: 
+        label_slim_status "IN - \"fructose 2,6-bisphosphate metabolic process\" - 13335"^^xsd:string
+    
+    
+Class: GO_0006487
+
+    Annotations: 
+        label_slim_status "IN - protein N-linked glycosylation - 876146"^^xsd:string
+    
+    
+Class: GO_0006486
+
+    Annotations: 
+        label_slim_status "IN - protein glycosylation - 1004025"^^xsd:string
+    
+    
+Class: GO_0006002
+
+    Annotations: 
+        label_slim_status "IN - fructose 6-phosphate metabolic process - 2445397"^^xsd:string
+    
+    
+Class: GO_0006488
+
+    Annotations: 
+        label_slim_status "IN - dolichol-linked oligosaccharide biosynthetic process - 49841"^^xsd:string
+    
+    
+Class: GO_0009758
+
+    Annotations: 
+        label_slim_status "OUT - carbohydrate utilization - 140598"^^xsd:string
+    
+    
+Class: GO_0006004
+
+    Annotations: 
+        label_slim_status "IN - fucose metabolic process - 3285123"^^xsd:string
+    
+    
+Class: GO_0009755
+
+    Annotations: 
+        label_slim_status "IN - hormone-mediated signaling pathway - 243"^^xsd:string
+    
+    
+Class: GO_0007338
+
+    Annotations: 
+        label_slim_status "OUT - single fertilization - 4509"^^xsd:string
+    
+    
+Class: GO_0051056
+
+    Annotations: 
+        label_slim_status "OUT - regulation of small GTPase mediated signal transduction - 107345"^^xsd:string
+    
+    
+Class: GO_0006007
+
+    Annotations: 
+        label_slim_status "IN - glucose catabolic process - 4690459"^^xsd:string
+    
+    
+Class: GO_0051297
+
+    Annotations: 
+        label_slim_status "IN - centrosome organization - 686"^^xsd:string
+    
+    
+Class: GO_0016043
+
+    Annotations: 
+        label_slim_status "IN - cellular component organization - 60755"^^xsd:string
+    
+    
+Class: GO_0006006
+
+    Annotations: 
+        label_slim_status "IN - glucose metabolic process - 7174482"^^xsd:string
+    
+    
+Class: GO_0016042
+
+    Annotations: 
+        label_slim_status "IN - lipid catabolic process - 574435"^^xsd:string
+    
+    
+Class: GO_0007339
+
+    Annotations: 
+        label_slim_status "OUT - binding of sperm to zona pellucida - 1698"^^xsd:string
+    
+    
+Class: GO_0046903
+
+    Annotations: 
+        label_slim_status "IN - secretion - 6104"^^xsd:string
+    
+    
+Class: GO_0001678
+
+    Annotations: 
+        label_slim_status "OUT - cellular glucose homeostasis - 1352"^^xsd:string
+    
+    
+Class: GO_0000105
+
+    Annotations: 
+        label_slim_status "IN - histidine biosynthetic process - 46065990"^^xsd:string
+    
+    
+Class: GO_0042309
+
+    Annotations: 
+        label_slim_status "OUT - homoiothermy - 11455"^^xsd:string
+    
+    
+Class: GO_0000103
+
+    Annotations: 
+        label_slim_status "IN - sulfate assimilation - 3466127"^^xsd:string
+    
+    
+Class: GO_0051259
+
+    Annotations: 
+        label_slim_status "IN - protein oligomerization - 1225768"^^xsd:string
+    
+    
+Class: GO_0010508
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of autophagy - 7184"^^xsd:string
+    
+    
+Class: GO_0051258
+
+    Annotations: 
+        label_slim_status "IN - protein polymerization - 10654"^^xsd:string
+    
+    
+Class: GO_0051016
+
+    Annotations: 
+        label_slim_status "IN - barbed-end actin filament capping - 199060"^^xsd:string
+    
+    
+Class: GO_0032775
+
+    Annotations: 
+        label_slim_status "IN - DNA methylation on adenine - 2607250"^^xsd:string
+    
+    
+Class: GO_0010506
+
+    Annotations: 
+        label_slim_status "OUT - regulation of autophagy - 10300"^^xsd:string
+    
+    
+Class: GO_0006493
+
+    Annotations: 
+        label_slim_status "IN - protein O-linked glycosylation - 302854"^^xsd:string
+    
+    
+Class: GO_0007585
+
+    Annotations: 
+        label_slim_status "OUT - respiratory gaseous exchange - 461"^^xsd:string
+    
+    
+Class: GO_0006012
+
+    Annotations: 
+        label_slim_status "IN - galactose metabolic process - 1442751"^^xsd:string
+    
+    
+Class: GO_0007342
+
+    Annotations: 
+        label_slim_status "IN - fusion of sperm to egg plasma membrane - 227"^^xsd:string
+    
+    
+Class: GO_0006011
+
+    Annotations: 
+        label_slim_status "IN - UDP-glucose metabolic process - 235174"^^xsd:string
+    
+    
+Class: GO_0017148
+
+    Annotations: 
+        label_slim_status "IN - negative regulation of translation - 34067"^^xsd:string
+    
+    
+Class: GO_0006014
+
+    Annotations: 
+        label_slim_status "IN - D-ribose metabolic process - 300252"^^xsd:string
+    
+    
+Class: GO_0007586
+
+    Annotations: 
+        label_slim_status "OUT - digestion - 3700"^^xsd:string
+    
+    
+Class: GO_0006013
+
+    Annotations: 
+        label_slim_status "IN - mannose metabolic process - 452624"^^xsd:string
+    
+    
+Class: GO_0032784
+
+    Annotations: 
+        label_slim_status "IN - \"regulation of transcription elongation, DNA-dependent\" - 8781729"^^xsd:string
+    
+    
+Class: GO_0006015
+
+    Annotations: 
+        label_slim_status "IN - 5-phosphoribose 1-diphosphate biosynthetic process - 5"^^xsd:string
+    
+    
+Class: GO_0043666
+
+    Annotations: 
+        label_slim_status "IN - regulation of phosphoprotein phosphatase activity - 17382"^^xsd:string
+    
+    
+Class: GO_0051262
+
+    Annotations: 
+        label_slim_status "IN - protein tetramerization - 1464615"^^xsd:string
+    
+    
+Class: GO_0007349
+
+    Annotations: 
+        label_slim_status "OUT - cellularization - 3289"^^xsd:string
+    
+    
+Class: GO_0016055
+
+    Annotations: 
+        label_slim_status "IN - Wnt receptor signaling pathway - 130696"^^xsd:string
+    
+    
+Class: GO_0009767
+
+    Annotations: 
+        label_slim_status "IN - photosynthetic electron transport chain - 5495956"^^xsd:string
+    
+    
+Class: GO_0006259
+
+    Annotations: 
+        label_slim_status "IN - DNA metabolic process - 22703064"^^xsd:string
+    
+    
+Class: GO_0016052
+
+    Annotations: 
+        label_slim_status "IN - carbohydrate catabolic process - 2011052"^^xsd:string
+    
+    
+Class: GO_0016051
+
+    Annotations: 
+        label_slim_status "IN - carbohydrate biosynthetic process - 9400578"^^xsd:string
+    
+    
+Class: GO_0046938
+
+    Annotations: 
+        label_slim_status "IN - phytochelatin biosynthetic process - 43583"^^xsd:string
+    
+    
+Class: GO_0051260
+
+    Annotations: 
+        label_slim_status "IN - protein homooligomerization - 152281"^^xsd:string
+    
+    
+Class: GO_0051028
+
+    Annotations: 
+        label_slim_status "IN - mRNA transport - 9284"^^xsd:string
+    
+    
+Class: GO_0019333
+
+    Annotations: 
+        label_slim_status "IN - denitrification pathway - 35"^^xsd:string
+    
+    
+Class: GO_0051027
+
+    Annotations: 
+        label_slim_status "IN - DNA transport - 1"^^xsd:string
+    
+    
+Class: GO_0046931
+
+    Annotations: 
+        label_slim_status "IN - pore complex assembly - 19"^^xsd:string
+    
+    
+Class: GO_0042330
+
+    Annotations: 
+        label_slim_status "OUT - taxis - 20"^^xsd:string
+    
+    
+Class: GO_0061077
+
+    Annotations: 
+        label_slim_status "IN - chaperone-mediated protein folding - 25486"^^xsd:string
+    
+    
+Class: GO_0006261
+
+    Annotations: 
+        label_slim_status "IN - DNA-dependent DNA replication - 5763328"^^xsd:string
+    
+    
+Class: GO_0009772
+
+    Annotations: 
+        label_slim_status "IN - photosynthetic electron transport in photosystem II - 8978298"^^xsd:string
+    
+    
+Class: GO_0006260
+
+    Annotations: 
+        label_slim_status "IN - DNA replication - 118565478"^^xsd:string
+    
+    
+Class: GO_0006021
+
+    Annotations: 
+        label_slim_status "IN - inositol biosynthetic process - 1108950"^^xsd:string
+    
+    
+Class: GO_0007596
+
+    Annotations: 
+        label_slim_status "OUT - blood coagulation - 9224"^^xsd:string
+    
+    
+Class: GO_0006265
+
+    Annotations: 
+        label_slim_status "IN - DNA topological change - 100967624"^^xsd:string
+    
+    
+Class: GO_0042325
+
+    Annotations: 
+        label_slim_status "IN - regulation of phosphorylation - 10305"^^xsd:string
+    
+    
+Class: GO_0032774
+
+    Annotations: 
+        label_slim_status "IN - RNA biosynthetic process - 65"^^xsd:string
+    
+    
+Class: GO_0009773
+
+    Annotations: 
+        label_slim_status "IN - photosynthetic electron transport in photosystem I - 22971"^^xsd:string
+    
+    
+Class: GO_0008203
+
+    Annotations: 
+        label_slim_status "IN - cholesterol metabolic process - 24264"^^xsd:string
+    
+    
+Class: GO_0006024
+
+    Annotations: 
+        label_slim_status "IN - glycosaminoglycan biosynthetic process - 181875"^^xsd:string
+    
+    
+Class: GO_0043412
+
+    Annotations: 
+        label_slim_status "IN - macromolecule modification - 3"^^xsd:string
+    
+    
+Class: GO_0016068
+
+    Annotations: 
+        label_slim_status "IN - type I hypersensitivity - 6575"^^xsd:string
+    
+    
+Class: GO_0006269
+
+    Annotations: 
+        label_slim_status "IN - \"DNA replication, synthesis of RNA primer\" - 486929"^^xsd:string
+    
+    
+Class: GO_0051276
+
+    Annotations: 
+        label_slim_status "IN - chromosome organization - 1195961"^^xsd:string
+    
+    
+Class: GO_0043419
+
+    Annotations: 
+        label_slim_status "IN - urea catabolic process - 1064934"^^xsd:string
+    
+    
+Class: GO_0016070
+
+    Annotations: 
+        label_slim_status "IN - RNA metabolic process - 90762"^^xsd:string
+    
+    
+Class: GO_0032313
+
+    Annotations: 
+        label_slim_status "OUT - regulation of Rab GTPase activity - 882729"^^xsd:string
+    
+    
+Class: GO_0032318
+
+    Annotations: 
+        label_slim_status "OUT - regulation of Ras GTPase activity - 153707"^^xsd:string
+    
+    
+Class: GO_0006270
+
+    Annotations: 
+        label_slim_status "IN - DNA-dependent DNA replication initiation - 6409815"^^xsd:string
+    
+    
+Class: GO_0006030
+
+    Annotations: 
+        label_slim_status "IN - chitin metabolic process - 813846"^^xsd:string
+    
+    
+Class: GO_0071929
+
+    Annotations: 
+        label_slim_status "IN - alpha-tubulin acetylation - 35702"^^xsd:string
+    
+    
+Class: GO_0042119
+
+    Annotations: 
+        label_slim_status "OUT - neutrophil activation - 113"^^xsd:string
+    
+    
+Class: GO_0006032
+
+    Annotations: 
+        label_slim_status "IN - chitin catabolic process - 71995"^^xsd:string
+    
+    
+Class: GO_0006274
+
+    Annotations: 
+        label_slim_status "IN - DNA replication termination - 76775"^^xsd:string
+    
+    
+Class: GO_0006031
+
+    Annotations: 
+        label_slim_status "IN - chitin biosynthetic process - 33511"^^xsd:string
+    
+    
+Class: GO_0006276
+
+    Annotations: 
+        label_slim_status "OUT - plasmid maintenance - 478916"^^xsd:string
+    
+    
+Class: GO_0006275
+
+    Annotations: 
+        label_slim_status "IN - regulation of DNA replication - 5895168"^^xsd:string
+    
+    
+Class: GO_0006278
+
+    Annotations: 
+        label_slim_status "IN - RNA-dependent DNA replication - 352949"^^xsd:string
+    
+    
+Class: GO_0009306
+
+    Annotations: 
+        label_slim_status "IN - protein secretion - 15840491"^^xsd:string
+    
+    
+Class: GO_0009307
+
+    Annotations: 
+        label_slim_status "IN - DNA restriction-modification system - 1981172"^^xsd:string
+    
+    
+Class: GO_0008218
+
+    Annotations: 
+        label_slim_status "IN - bioluminescence - 704610"^^xsd:string
+    
+    
+Class: GO_0007128
+
+    Annotations: 
+        label_slim_status "OUT - meiotic prophase I - 316"^^xsd:string
+    
+    
+Class: GO_0008217
+
+    Annotations: 
+        label_slim_status "OUT - regulation of blood pressure - 1167"^^xsd:string
+    
+    
+Class: GO_0016075
+
+    Annotations: 
+        label_slim_status "IN - rRNA catabolic process - 406"^^xsd:string
+    
+    
+Class: GO_0008219
+
+    Annotations: 
+        label_slim_status "OUT - cell death - 151757"^^xsd:string
+    
+    
+Class: GO_0051085
+
+    Annotations: 
+        label_slim_status "IN - chaperone mediated protein folding requiring cofactor - 2"^^xsd:string
+    
+    
+Class: GO_0009308
+
+    Annotations: 
+        label_slim_status "IN - amine metabolic process - 2949121"^^xsd:string
+    
+    
+Class: GO_0046718
+
+    Annotations: 
+        label_slim_status "IN - viral entry into host cell - 2246883"^^xsd:string
+    
+    
+Class: GO_0019350
+
+    Annotations: 
+        label_slim_status "IN - teichoic acid biosynthetic process - 21397"^^xsd:string
+    
+    
+Class: GO_0019594
+
+    Annotations: 
+        label_slim_status "IN - mannitol metabolic process - 126418"^^xsd:string
+    
+    
+Class: GO_0001881
+
+    Annotations: 
+        label_slim_status "IN - receptor recycling - 383"^^xsd:string
+    
+    
+Class: GO_0019354
+
+    Annotations: 
+        label_slim_status "IN - siroheme biosynthetic process - 718860"^^xsd:string
+    
+    
+Class: GO_0019357
+
+    Annotations: 
+        label_slim_status "IN - nicotinate nucleotide biosynthetic process - 1"^^xsd:string
+    
+    
+Class: GO_0042113
+
+    Annotations: 
+        label_slim_status "OUT - B cell activation - 28"^^xsd:string
+    
+    
+Class: GO_0009790
+
+    Annotations: 
+        label_slim_status "OUT - embryo development - 1639"^^xsd:string
+    
+    
+Class: GO_0034968
+
+    Annotations: 
+        label_slim_status "IN - histone lysine methylation - 18916"^^xsd:string
+    
+    
+Class: GO_0006281
+
+    Annotations: 
+        label_slim_status "IN - DNA repair - 94641452"^^xsd:string
+    
+    
+Class: GO_0007130
+
+    Annotations: 
+        label_slim_status "IN - synaptonemal complex assembly - 2427"^^xsd:string
+    
+    
+Class: GO_0051090
+
+    Annotations: 
+        label_slim_status "IN - regulation of sequence-specific DNA binding transcription factor activity - 20564"^^xsd:string
+    
+    
+Class: GO_0071918
+
+    Annotations: 
+        label_slim_status "IN - urea transmembrane transport - 151654"^^xsd:string
+    
+    
+Class: GO_0006282
+
+    Annotations: 
+        label_slim_status "IN - regulation of DNA repair - 1927458"^^xsd:string
+    
+    
+Class: GO_0006040
+
+    Annotations: 
+        label_slim_status "IN - amino sugar metabolic process - 5176067"^^xsd:string
+    
+    
+Class: GO_0007131
+
+    Annotations: 
+        label_slim_status "IN - reciprocal meiotic recombination - 1231"^^xsd:string
+    
+    
+Class: GO_0006284
+
+    Annotations: 
+        label_slim_status "IN - base-excision repair - 9936220"^^xsd:string
+    
+    
+Class: GO_0031221
+
+    Annotations: 
+        label_slim_status "IN - arabinan metabolic process - 69810"^^xsd:string
+    
+    
+Class: GO_0006044
+
+    Annotations: 
+        label_slim_status "IN - N-acetylglucosamine metabolic process - 370340"^^xsd:string
+    
+    
+Class: GO_0009311
+
+    Annotations: 
+        label_slim_status "IN - oligosaccharide metabolic process - 221088"^^xsd:string
+    
+    
+Class: GO_0032312
+
+    Annotations: 
+        label_slim_status "OUT - regulation of ARF GTPase activity - 248283"^^xsd:string
+    
+    
+Class: GO_0006289
+
+    Annotations: 
+        label_slim_status "IN - nucleotide-excision repair - 3910711"^^xsd:string
+    
+    
+Class: GO_0006047
+
+    Annotations: 
+        label_slim_status "IN - UDP-N-acetylglucosamine metabolic process - 7649154"^^xsd:string
+    
+    
+Class: GO_0009312
+
+    Annotations: 
+        label_slim_status "IN - oligosaccharide biosynthetic process - 85015"^^xsd:string
+    
+    
+Class: GO_0046740
+
+    Annotations: 
+        label_slim_status "IN - \"spread of virus in host, cell to cell\" - 31929"^^xsd:string
+    
+    
+Class: GO_0019363
+
+    Annotations: 
+        label_slim_status "IN - pyridine nucleotide biosynthetic process - 321394"^^xsd:string
+    
+    
+Class: GO_0045893
+
+    Annotations: 
+        label_slim_status "IN - \"positive regulation of transcription, DNA-dependent\" - 840346"^^xsd:string
+    
+    
+Class: GO_0045892
+
+    Annotations: 
+        label_slim_status "IN - \"negative regulation of transcription, DNA-dependent\" - 2245416"^^xsd:string
+    
+    
+Class: GO_0045895
+
+    Annotations: 
+        label_slim_status "IN - \"positive regulation of mating-type specific transcription, DNA-dependent\" - 213"^^xsd:string
+    
+    
+Class: GO_0018279
+
+    Annotations: 
+        label_slim_status "IN - protein N-linked glycosylation via asparagine - 48248"^^xsd:string
+    
+    
+Class: GO_0034755
+
+    Annotations: 
+        label_slim_status "IN - iron ion transmembrane transport - 21539"^^xsd:string
+    
+    
+Class: GO_0042384
+
+    Annotations: 
+        label_slim_status "IN - cilium assembly - 57577"^^xsd:string
+    
+    
+Class: GO_0042381
+
+    Annotations: 
+        label_slim_status "IN - hemolymph coagulation - 6"^^xsd:string
+    
+    
+Class: GO_0006051
+
+    Annotations: 
+        label_slim_status "IN - N-acetylmannosamine metabolic process - 927955"^^xsd:string
+    
+    
+Class: GO_0030163
+
+    Annotations: 
+        label_slim_status "IN - protein catabolic process - 3557658"^^xsd:string
+    
+    
+Class: GO_0006298
+
+    Annotations: 
+        label_slim_status "IN - mismatch repair - 23660488"^^xsd:string
+    
+    
+Class: GO_0042138
+
+    Annotations: 
+        label_slim_status "IN - meiotic DNA double-strand break formation - 379"^^xsd:string
+    
+    
+Class: GO_0017187
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-glutamic acid carboxylation - 747985"^^xsd:string
+    
+    
+Class: GO_0097264
+
+    Annotations: 
+        label_slim_status "IN - self proteolysis - 767162"^^xsd:string
+    
+    
+Class: GO_0017183
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-diphthamide biosynthetic process from peptidyl-histidine - 538"^^xsd:string
+    
+    
+Class: GO_0043461
+
+    Annotations: 
+        label_slim_status "IN - proton-transporting ATP synthase complex assembly - 211901"^^xsd:string
+    
+    
+Class: GO_0045881
+
+    Annotations: 
+        label_slim_status "OUT - positive regulation of sporulation resulting in formation of a cellular spore - 3160"^^xsd:string
+    
+    
+Class: GO_0043462
+
+    Annotations: 
+        label_slim_status "OUT - regulation of ATPase activity - 68647"^^xsd:string
+    
+    
+Class: GO_0019379
+
+    Annotations: 
+        label_slim_status "IN - \"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)\" - 37"^^xsd:string
+    
+    
+Class: GO_0032324
+
+    Annotations: 
+        label_slim_status "IN - molybdopterin cofactor biosynthetic process - 4426208"^^xsd:string
+    
+    
+Class: GO_0034508
+
+    Annotations: 
+        label_slim_status "IN - centromere complex assembly - 4360"^^xsd:string
+    
+    
+Class: GO_0032328
+
+    Annotations: 
+        label_slim_status "IN - alanine transport - 11101560"^^xsd:string
+    
+    
+Class: GO_0030150
+
+    Annotations: 
+        label_slim_status "IN - protein import into mitochondrial matrix - 29151"^^xsd:string
+    
+    
+Class: GO_0007154
+
+    Annotations: 
+        label_slim_status "OUT - cell communication - 1217480"^^xsd:string
+    
+    
+Class: GO_0030152
+
+    Annotations: 
+        label_slim_status "IN - bacteriocin biosynthetic process - 105"^^xsd:string
+    
+    
+Class: GO_0006064
+
+    Annotations: 
+        label_slim_status "IN - glucuronate catabolic process - 5546978"^^xsd:string
+    
+    
+Class: GO_0042128
+
+    Annotations: 
+        label_slim_status "IN - nitrate assimilation - 1057"^^xsd:string
+    
+    
+Class: GO_0030153
+
+    Annotations: 
+        label_slim_status "IN - bacteriocin immunity - 19736"^^xsd:string
+    
+    
+Class: GO_0007156
+
+    Annotations: 
+        label_slim_status "IN - homophilic cell adhesion - 4350506"^^xsd:string
+    
+    
+Class: GO_0006066
+
+    Annotations: 
+        label_slim_status "IN - alcohol metabolic process - 3326"^^xsd:string
+    
+    
+Class: GO_0030154
+
+    Annotations: 
+        label_slim_status "OUT - cell differentiation - 117065"^^xsd:string
+    
+    
+Class: GO_0007155
+
+    Annotations: 
+        label_slim_status "IN - cell adhesion - 4921810"^^xsd:string
+    
+    
+Class: GO_0030155
+
+    Annotations: 
+        label_slim_status "OUT - regulation of cell adhesion - 1449"^^xsd:string
+    
+    
+Class: GO_0007157
+
+    Annotations: 
+        label_slim_status "IN - heterophilic cell-cell adhesion - 1602"^^xsd:string
+    
+    
+Class: GO_0043215
+
+    Annotations: 
+        label_slim_status "IN - daunorubicin transport - 3"^^xsd:string
+    
+    
+Class: GO_0019370
+
+    Annotations: 
+        label_slim_status "IN - leukotriene biosynthetic process - 91700"^^xsd:string
+    
+    

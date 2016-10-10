@@ -1,0 +1,2109 @@
+Prefix: : <http://purl.obolibrary.org/obo/>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+
+Ontology: <http://www.ebi.ac.uk/metagenomics/CC_lost_all_old.owl>
+
+
+AnnotationProperty: IAO_0000115
+
+    
+AnnotationProperty: label_slim_status
+
+    
+AnnotationProperty: label_with_counts
+
+    
+Datatype: xsd:string
+
+    
+Class: GO_0019028
+
+    Annotations: 
+        label_slim_status "OUT - viral capsid - 11595962"^^xsd:string
+    
+    
+Class: GO_0012506
+
+    Annotations: 
+        label_slim_status "IN - vesicle membrane - 76884"^^xsd:string
+    
+    
+Class: GO_0008250
+
+    Annotations: 
+        label_slim_status "OUT - oligosaccharyltransferase complex - 76365"^^xsd:string
+    
+    
+Class: GO_0033573
+
+    Annotations: 
+        label_slim_status "OUT - high affinity iron permease complex - 576542"^^xsd:string
+    
+    
+Class: GO_0012511
+
+    Annotations: 
+        label_slim_status "OUT - monolayer-surrounded lipid storage body - 1184"^^xsd:string
+    
+    
+Class: GO_0009341
+
+    Annotations: 
+        label_slim_status "OUT - beta-galactosidase complex - 4473874"^^xsd:string
+    
+    
+Class: GO_0005780
+
+    Annotations: 
+        label_slim_status "OUT - extrinsic to intraperoxisomal membrane - 366"^^xsd:string
+    
+    
+Class: GO_0009346
+
+    Annotations: 
+        label_slim_status "OUT - citrate lyase complex - 1042042"^^xsd:string
+    
+    
+Class: GO_0009347
+
+    Annotations: 
+        label_slim_status "OUT - aspartate carbamoyltransferase complex - 32"^^xsd:string
+    
+    
+Class: GO_0005783
+
+    Annotations: 
+        label_slim_status "IN - endoplasmic reticulum - 592061"^^xsd:string
+    
+    
+Class: GO_0005784
+
+    Annotations: 
+        label_slim_status "OUT - Sec61 translocon complex - 19085"^^xsd:string
+    
+    
+Class: GO_0005663
+
+    Annotations: 
+        label_slim_status "OUT - DNA replication factor C complex - 43314"^^xsd:string
+    
+    
+Class: GO_0005785
+
+    Annotations: 
+        label_slim_status "OUT - signal recognition particle receptor complex - 18521"^^xsd:string
+    
+    
+Class: GO_0005664
+
+    Annotations: 
+        label_slim_status "OUT - nuclear origin of replication recognition complex - 22710"^^xsd:string
+    
+    
+Class: GO_0005665
+
+    Annotations: 
+        label_slim_status "OUT - \"DNA-directed RNA polymerase II, core complex\" - 10134"^^xsd:string
+    
+    
+Class: GO_0005786
+
+    Annotations: 
+        label_slim_status "OUT - \"signal recognition particle, endoplasmic reticulum targeting\" - 19470"^^xsd:string
+    
+    
+Class: GO_0001726
+
+    Annotations: 
+        label_slim_status "OUT - ruffle - 21805"^^xsd:string
+    
+    
+Class: GO_0005666
+
+    Annotations: 
+        label_slim_status "OUT - DNA-directed RNA polymerase III complex - 16332"^^xsd:string
+    
+    
+Class: GO_0005787
+
+    Annotations: 
+        label_slim_status "OUT - signal peptidase complex - 69534"^^xsd:string
+    
+    
+Class: GO_0009349
+
+    Annotations: 
+        label_slim_status "OUT - riboflavin synthase complex - 5462833"^^xsd:string
+    
+    
+Class: GO_0044219
+
+    Annotations: 
+        label_slim_status "OUT - host cell plasmodesma - 9"^^xsd:string
+    
+    
+Class: GO_0005788
+
+    Annotations: 
+        label_slim_status "OUT - endoplasmic reticulum lumen - 21140"^^xsd:string
+    
+    
+Class: GO_0005667
+
+    Annotations: 
+        label_slim_status "IN - transcription factor complex - 114587"^^xsd:string
+    
+    
+Class: GO_0005668
+
+    Annotations: 
+        label_slim_status "IN - RNA polymerase transcription factor SL1 complex - 1623"^^xsd:string
+    
+    
+Class: GO_0005789
+
+    Annotations: 
+        label_slim_status "IN - endoplasmic reticulum membrane - 393268"^^xsd:string
+    
+    
+Class: GO_0005669
+
+    Annotations: 
+        label_slim_status "IN - transcription factor TFIID complex - 60036"^^xsd:string
+    
+    
+Class: GO_0019031
+
+    Annotations: 
+        label_slim_status "OUT - viral envelope - 387477"^^xsd:string
+    
+    
+Class: GO_0043240
+
+    Annotations: 
+        label_slim_status "OUT - Fanconi anaemia nuclear complex - 1192"^^xsd:string
+    
+    
+Class: GO_0070188
+
+    Annotations: 
+        label_slim_status "OUT - Stn1-Ten1 complex - 2639"^^xsd:string
+    
+    
+Class: GO_0019033
+
+    Annotations: 
+        label_slim_status "OUT - viral tegument - 18307"^^xsd:string
+    
+    
+Class: GO_0033557
+
+    Annotations: 
+        label_slim_status "OUT - Slx1-Slx4 complex - 6328"^^xsd:string
+    
+    
+Class: GO_0042151
+
+    Annotations: 
+        label_slim_status "OUT - nematocyst - 379"^^xsd:string
+    
+    
+Class: GO_0042825
+
+    Annotations: 
+        label_slim_status "OUT - TAP complex - 341"^^xsd:string
+    
+    
+Class: GO_0008021
+
+    Annotations: 
+        label_slim_status "IN - synaptic vesicle - 12630"^^xsd:string
+    
+    
+Class: GO_0032592
+
+    Annotations: 
+        label_slim_status "OUT - integral to mitochondrial membrane - 15113"^^xsd:string
+    
+    
+Class: GO_0030173
+
+    Annotations: 
+        label_slim_status "OUT - integral to Golgi membrane - 14510"^^xsd:string
+    
+    
+Class: GO_0008023
+
+    Annotations: 
+        label_slim_status "OUT - transcription elongation factor complex - 30344"^^xsd:string
+    
+    
+Class: GO_0030054
+
+    Annotations: 
+        label_slim_status "OUT - cell junction - 4955"^^xsd:string
+    
+    
+Class: GO_0030176
+
+    Annotations: 
+        label_slim_status "OUT - integral to endoplasmic reticulum membrane - 30390"^^xsd:string
+    
+    
+Class: GO_0005672
+
+    Annotations: 
+        label_slim_status "IN - transcription factor TFIIA complex - 86262"^^xsd:string
+    
+    
+Class: GO_0005673
+
+    Annotations: 
+        label_slim_status "IN - transcription factor TFIIE complex - 9081"^^xsd:string
+    
+    
+Class: GO_0036038
+
+    Annotations: 
+        label_slim_status "OUT - TCTN-B9D complex - 49197"^^xsd:string
+    
+    
+Class: GO_0005794
+
+    Annotations: 
+        label_slim_status "IN - Golgi apparatus - 56609"^^xsd:string
+    
+    
+Class: GO_0005795
+
+    Annotations: 
+        label_slim_status "OUT - Golgi stack - 16899"^^xsd:string
+    
+    
+Class: GO_0005674
+
+    Annotations: 
+        label_slim_status "IN - transcription factor TFIIF complex - 33527"^^xsd:string
+    
+    
+Class: GO_0019030
+
+    Annotations: 
+        label_slim_status "OUT - icosahedral viral capsid - 10155"^^xsd:string
+    
+    
+Class: GO_0000502
+
+    Annotations: 
+        label_slim_status "OUT - proteasome complex - 21834"^^xsd:string
+    
+    
+Class: GO_0070176
+
+    Annotations: 
+        label_slim_status "OUT - DRM complex - 2780"^^xsd:string
+    
+    
+Class: GO_0048046
+
+    Annotations: 
+        label_slim_status "OUT - apoplast - 1774"^^xsd:string
+    
+    
+Class: GO_0045211
+
+    Annotations: 
+        label_slim_status "IN - postsynaptic membrane - 7641"^^xsd:string
+    
+    
+Class: GO_0031966
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial membrane - 7920"^^xsd:string
+    
+    
+Class: GO_0009360
+
+    Annotations: 
+        label_slim_status "IN - DNA polymerase III complex - 13131375"^^xsd:string
+    
+    
+Class: GO_0031965
+
+    Annotations: 
+        label_slim_status "IN - nuclear membrane - 7166"^^xsd:string
+    
+    
+Class: GO_0016459
+
+    Annotations: 
+        label_slim_status "OUT - myosin complex - 1760565"^^xsd:string
+    
+    
+Class: GO_0042613
+
+    Annotations: 
+        label_slim_status "OUT - MHC class II protein complex - 20717"^^xsd:string
+    
+    
+Class: GO_0005680
+
+    Annotations: 
+        label_slim_status "OUT - anaphase-promoting complex - 49394"^^xsd:string
+    
+    
+Class: GO_0042612
+
+    Annotations: 
+        label_slim_status "OUT - MHC class I protein complex - 5605"^^xsd:string
+    
+    
+Class: GO_0005681
+
+    Annotations: 
+        label_slim_status "OUT - spliceosomal complex - 150436"^^xsd:string
+    
+    
+Class: GO_0033596
+
+    Annotations: 
+        label_slim_status "OUT - TSC1-TSC2 complex - 51"^^xsd:string
+    
+    
+Class: GO_0009366
+
+    Annotations: 
+        label_slim_status "OUT - enterobactin synthetase complex - 4507"^^xsd:string
+    
+    
+Class: GO_0030089
+
+    Annotations: 
+        label_slim_status "OUT - phycobilisome - 1870246"^^xsd:string
+    
+    
+Class: GO_0046658
+
+    Annotations: 
+        label_slim_status "OUT - anchored to plasma membrane - 243"^^xsd:string
+    
+    
+Class: GO_0005685
+
+    Annotations: 
+        label_slim_status "OUT - U1 snRNP - 28605"^^xsd:string
+    
+    
+Class: GO_0000178
+
+    Annotations: 
+        label_slim_status "OUT - exosome (RNase complex) - 34133"^^xsd:string
+    
+    
+Class: GO_0097228
+
+    Annotations: 
+        label_slim_status "OUT - sperm principal piece - 842"^^xsd:string
+    
+    
+Class: GO_0000176
+
+    Annotations: 
+        label_slim_status "OUT - nuclear exosome (RNase complex) - 5212"^^xsd:string
+    
+    
+Class: GO_0045202
+
+    Annotations: 
+        label_slim_status "OUT - synapse - 2802"^^xsd:string
+    
+    
+Class: GO_0072588
+
+    Annotations: 
+        label_slim_status "OUT - box H/ACA RNP complex - 112026"^^xsd:string
+    
+    
+Class: GO_0000172
+
+    Annotations: 
+        label_slim_status "OUT - ribonuclease MRP complex - 134795"^^xsd:string
+    
+    
+Class: GO_0009375
+
+    Annotations: 
+        label_slim_status "OUT - ferredoxin hydrogenase complex - 169289"^^xsd:string
+    
+    
+Class: GO_0009376
+
+    Annotations: 
+        label_slim_status "OUT - HslUV protease complex - 2686"^^xsd:string
+    
+    
+Class: GO_0042601
+
+    Annotations: 
+        label_slim_status "OUT - endospore-forming forespore - 4251"^^xsd:string
+    
+    
+Class: GO_0030076
+
+    Annotations: 
+        label_slim_status "OUT - light-harvesting complex - 5244"^^xsd:string
+    
+    
+Class: GO_0009379
+
+    Annotations: 
+        label_slim_status "OUT - Holliday junction helicase complex - 1026188"^^xsd:string
+    
+    
+Class: GO_0042600
+
+    Annotations: 
+        label_slim_status "OUT - chorion - 858"^^xsd:string
+    
+    
+Class: GO_0030077
+
+    Annotations: 
+        label_slim_status "OUT - plasma membrane light-harvesting complex - 359733"^^xsd:string
+    
+    
+Class: GO_0042720
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial inner membrane peptidase complex - 434"^^xsd:string
+    
+    
+Class: GO_0030991
+
+    Annotations: 
+        label_slim_status "OUT - intraflagellar transport particle A - 9905"^^xsd:string
+    
+    
+Class: GO_0033588
+
+    Annotations: 
+        label_slim_status "OUT - Elongator holoenzyme complex - 41975"^^xsd:string
+    
+    
+Class: GO_0005694
+
+    Annotations: 
+        label_slim_status "IN - chromosome - 16796121"^^xsd:string
+    
+    
+Class: GO_0005576
+
+    Annotations: 
+        label_slim_status "OUT - extracellular region - 5430244"^^xsd:string
+    
+    
+Class: GO_0005577
+
+    Annotations: 
+        label_slim_status "OUT - fibrinogen complex - 125"^^xsd:string
+    
+    
+Class: GO_0005578
+
+    Annotations: 
+        label_slim_status "IN - proteinaceous extracellular matrix - 119012"^^xsd:string
+    
+    
+Class: GO_0005579
+
+    Annotations: 
+        label_slim_status "OUT - membrane attack complex - 88"^^xsd:string
+    
+    
+Class: GO_0042729
+
+    Annotations: 
+        label_slim_status "OUT - DASH complex - 41868"^^xsd:string
+    
+    
+Class: GO_0031160
+
+    Annotations: 
+        label_slim_status "IN - spore wall - 1018"^^xsd:string
+    
+    
+Class: GO_0048500
+
+    Annotations: 
+        label_slim_status "OUT - signal recognition particle - 5519454"^^xsd:string
+    
+    
+Class: owl:Thing
+
+    
+Class: GO_0044386
+
+    Annotations: 
+        label_slim_status "OUT - integral to host endoplasmic reticulum membrane - 4900"^^xsd:string
+    
+    
+Class: GO_0032039
+
+    Annotations: 
+        label_slim_status "OUT - integrator complex - 79420"^^xsd:string
+    
+    
+Class: GO_0019866
+
+    Annotations: 
+        label_slim_status "IN - organelle inner membrane - 19634"^^xsd:string
+    
+    
+Class: GO_0030896
+
+    Annotations: 
+        label_slim_status "OUT - checkpoint clamp complex - 38265"^^xsd:string
+    
+    
+Class: GO_0008290
+
+    Annotations: 
+        label_slim_status "OUT - F-actin capping protein complex - 199706"^^xsd:string
+    
+    
+Class: GO_0019867
+
+    Annotations: 
+        label_slim_status "IN - outer membrane - 15617085"^^xsd:string
+    
+    
+Class: GO_0015934
+
+    Annotations: 
+        label_slim_status "OUT - large ribosomal subunit - 4155696"^^xsd:string
+    
+    
+Class: GO_0030659
+
+    Annotations: 
+        label_slim_status "IN - cytoplasmic vesicle membrane - 88"^^xsd:string
+    
+    
+Class: GO_0015935
+
+    Annotations: 
+        label_slim_status "OUT - small ribosomal subunit - 6779382"^^xsd:string
+    
+    
+Class: GO_0034464
+
+    Annotations: 
+        label_slim_status "OUT - BBSome - 63555"^^xsd:string
+    
+    
+Class: GO_0035792
+
+    Annotations: 
+        label_slim_status "OUT - other organism postsynaptic membrane - 57"^^xsd:string
+    
+    
+Class: GO_0005581
+
+    Annotations: 
+        label_slim_status "OUT - collagen - 61252"^^xsd:string
+    
+    
+Class: GO_0016471
+
+    Annotations: 
+        label_slim_status "IN - vacuolar proton-transporting V-type ATPase complex - 2052"^^xsd:string
+    
+    
+Class: GO_0016592
+
+    Annotations: 
+        label_slim_status "OUT - mediator complex - 240252"^^xsd:string
+    
+    
+Class: GO_0016591
+
+    Annotations: 
+        label_slim_status "OUT - \"DNA-directed RNA polymerase II, holoenzyme\" - 464"^^xsd:string
+    
+    
+Class: GO_0032040
+
+    Annotations: 
+        label_slim_status "OUT - small-subunit processome - 310556"^^xsd:string
+    
+    
+Class: GO_0030529
+
+    Annotations: 
+        label_slim_status "OUT - ribonucleoprotein complex - 57464"^^xsd:string
+    
+    
+Class: GO_0000159
+
+    Annotations: 
+        label_slim_status "OUT - protein phosphatase type 2A complex - 266470"^^xsd:string
+    
+    
+Class: GO_0000275
+
+    Annotations: 
+        label_slim_status "OUT - \"mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)\" - 30720"^^xsd:string
+    
+    
+Class: GO_0000276
+
+    Annotations: 
+        label_slim_status "OUT - \"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)\" - 277293"^^xsd:string
+    
+    
+Class: GO_0000151
+
+    Annotations: 
+        label_slim_status "OUT - ubiquitin ligase complex - 133051"^^xsd:string
+    
+    
+Class: GO_0042627
+
+    Annotations: 
+        label_slim_status "OUT - chylomicron - 722"^^xsd:string
+    
+    
+Class: GO_0009276
+
+    Annotations: 
+        label_slim_status "IN - Gram-negative-bacterium-type cell wall - 4536364"^^xsd:string
+    
+    
+Class: GO_0009277
+
+    Annotations: 
+        label_slim_status "IN - fungal-type cell wall - 217"^^xsd:string
+    
+    
+Class: GO_0009274
+
+    Annotations: 
+        label_slim_status "IN - peptidoglycan-based cell wall - 4370"^^xsd:string
+    
+    
+Class: GO_0034457
+
+    Annotations: 
+        label_slim_status "OUT - Mpp10 complex - 59888"^^xsd:string
+    
+    
+Class: GO_0009279
+
+    Annotations: 
+        label_slim_status "IN - cell outer membrane - 5875721"^^xsd:string
+    
+    
+Class: GO_0005911
+
+    Annotations: 
+        label_slim_status "OUT - cell-cell junction - 5325"^^xsd:string
+    
+    
+Class: GO_0044163
+
+    Annotations: 
+        label_slim_status "OUT - host cytoskeleton - 24"^^xsd:string
+    
+    
+Class: GO_0000148
+
+    Annotations: 
+        label_slim_status "OUT - \"1,3-beta-D-glucan synthase complex\" - 143510"^^xsd:string
+    
+    
+Class: GO_0044165
+
+    Annotations: 
+        label_slim_status "OUT - host cell endoplasmic reticulum - 1777"^^xsd:string
+    
+    
+Class: GO_0000145
+
+    Annotations: 
+        label_slim_status "OUT - exocyst - 68166"^^xsd:string
+    
+    
+Class: GO_0043198
+
+    Annotations: 
+        label_slim_status "OUT - dendritic shaft - 329"^^xsd:string
+    
+    
+Class: GO_0070652
+
+    Annotations: 
+        label_slim_status "OUT - HAUS complex - 1838"^^xsd:string
+    
+    
+Class: GO_0071986
+
+    Annotations: 
+        label_slim_status "OUT - Ragulator complex - 970"^^xsd:string
+    
+    
+Class: GO_0000262
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial chromosome - 15015"^^xsd:string
+    
+    
+Class: GO_0030677
+
+    Annotations: 
+        label_slim_status "OUT - ribonuclease P complex - 134795"^^xsd:string
+    
+    
+Class: GO_0043190
+
+    Annotations: 
+        label_slim_status "IN - ATP-binding cassette (ABC) transporter complex - 2438455"^^xsd:string
+    
+    
+Class: GO_0044161
+
+    Annotations: 
+        label_slim_status "OUT - host cell cytoplasmic vesicle - 214"^^xsd:string
+    
+    
+Class: GO_0008076
+
+    Annotations: 
+        label_slim_status "OUT - voltage-gated potassium channel complex - 26812"^^xsd:string
+    
+    
+Class: GO_0009288
+
+    Annotations: 
+        label_slim_status "OUT - bacterial-type flagellum - 7971295"^^xsd:string
+    
+    
+Class: GO_0009289
+
+    Annotations: 
+        label_slim_status "IN - pilus - 547306"^^xsd:string
+    
+    
+Class: GO_0016012
+
+    Annotations: 
+        label_slim_status "OUT - sarcoglycan complex - 33146"^^xsd:string
+    
+    
+Class: GO_0016010
+
+    Annotations: 
+        label_slim_status "OUT - dystrophin-associated glycoprotein complex - 11274"^^xsd:string
+    
+    
+Class: GO_0005921
+
+    Annotations: 
+        label_slim_status "OUT - gap junction - 70405"^^xsd:string
+    
+    
+Class: GO_0005922
+
+    Annotations: 
+        label_slim_status "OUT - connexon complex - 4663"^^xsd:string
+    
+    
+Class: GO_0000930
+
+    Annotations: 
+        label_slim_status "OUT - gamma-tubulin complex - 11550"^^xsd:string
+    
+    
+Class: GO_0005801
+
+    Annotations: 
+        label_slim_status "OUT - cis-Golgi network - 69961"^^xsd:string
+    
+    
+Class: GO_0005802
+
+    Annotations: 
+        label_slim_status "OUT - trans-Golgi network - 518"^^xsd:string
+    
+    
+Class: GO_0005923
+
+    Annotations: 
+        label_slim_status "OUT - tight junction - 26915"^^xsd:string
+    
+    
+Class: GO_0000139
+
+    Annotations: 
+        label_slim_status "IN - Golgi membrane - 203785"^^xsd:string
+    
+    
+Class: GO_0000015
+
+    Annotations: 
+        label_slim_status "OUT - phosphopyruvate hydratase complex - 21336489"^^xsd:string
+    
+    
+Class: GO_0045121
+
+    Annotations: 
+        label_slim_status "IN - membrane raft - 970"^^xsd:string
+    
+    
+Class: GO_0005925
+
+    Annotations: 
+        label_slim_status "OUT - focal adhesion - 37903"^^xsd:string
+    
+    
+Class: GO_0044156
+
+    Annotations: 
+        label_slim_status "OUT - host cell junction - 31830"^^xsd:string
+    
+    
+Class: GO_0043189
+
+    Annotations: 
+        label_slim_status "OUT - H4/H2A histone acetyltransferase complex - 12180"^^xsd:string
+    
+    
+Class: GO_0019773
+
+    Annotations: 
+        label_slim_status "OUT - \"proteasome core complex, alpha-subunit complex\" - 309581"^^xsd:string
+    
+    
+Class: GO_0042651
+
+    Annotations: 
+        label_slim_status "IN - thylakoid membrane - 476819"^^xsd:string
+    
+    
+Class: GO_0019898
+
+    Annotations: 
+        label_slim_status "OUT - extrinsic to membrane - 1263677"^^xsd:string
+    
+    
+Class: GO_0030667
+
+    Annotations: 
+        label_slim_status "IN - secretory granule membrane - 159"^^xsd:string
+    
+    
+Class: GO_0031515
+
+    Annotations: 
+        label_slim_status "OUT - tRNA (m1A) methyltransferase complex - 454028"^^xsd:string
+    
+    
+Class: GO_0031514
+
+    Annotations: 
+        label_slim_status "OUT - motile cilium - 33580"^^xsd:string
+    
+    
+Class: GO_0009295
+
+    Annotations: 
+        label_slim_status "IN - nucleoid - 264315"^^xsd:string
+    
+    
+Class: GO_0017119
+
+    Annotations: 
+        label_slim_status "OUT - Golgi transport complex - 119732"^^xsd:string
+    
+    
+Class: GO_0000808
+
+    Annotations: 
+        label_slim_status "OUT - origin recognition complex - 68543"^^xsd:string
+    
+    
+Class: GO_0042765
+
+    Annotations: 
+        label_slim_status "OUT - GPI-anchor transamidase complex - 117440"^^xsd:string
+    
+    
+Class: GO_0030430
+
+    Annotations: 
+        label_slim_status "OUT - host cell cytoplasm - 550"^^xsd:string
+    
+    
+Class: GO_0055036
+
+    Annotations: 
+        label_slim_status "IN - virion membrane - 416"^^xsd:string
+    
+    
+Class: GO_0016021
+
+    Annotations: 
+        label_slim_status "OUT - integral to membrane - 298943394"^^xsd:string
+    
+    
+Class: GO_0016020
+
+    Annotations: 
+        label_slim_status "IN - membrane - 664054323"^^xsd:string
+    
+    
+Class: GO_0000922
+
+    Annotations: 
+        label_slim_status "OUT - spindle pole - 122440"^^xsd:string
+    
+    
+Class: GO_0031083
+
+    Annotations: 
+        label_slim_status "OUT - BLOC-1 complex - 732"^^xsd:string
+    
+    
+Class: GO_0048786
+
+    Annotations: 
+        label_slim_status "OUT - presynaptic active zone - 40424"^^xsd:string
+    
+    
+Class: GO_0005815
+
+    Annotations: 
+        label_slim_status "OUT - microtubule organizing center - 138518"^^xsd:string
+    
+    
+Class: GO_0000123
+
+    Annotations: 
+        label_slim_status "OUT - histone acetyltransferase complex - 19881"^^xsd:string
+    
+    
+Class: GO_0005938
+
+    Annotations: 
+        label_slim_status "IN - cell cortex - 7228"^^xsd:string
+    
+    
+Class: GO_0000124
+
+    Annotations: 
+        label_slim_status "OUT - SAGA complex - 18909"^^xsd:string
+    
+    
+Class: GO_0071203
+
+    Annotations: 
+        label_slim_status "OUT - WASH complex - 204974"^^xsd:string
+    
+    
+Class: GO_0031305
+
+    Annotations: 
+        label_slim_status "OUT - integral to mitochondrial inner membrane - 7142"^^xsd:string
+    
+    
+Class: GO_0033177
+
+    Annotations: 
+        label_slim_status "OUT - \"proton-transporting two-sector ATPase complex, proton-transporting domain\" - 3688901"^^xsd:string
+    
+    
+Class: GO_0033179
+
+    Annotations: 
+        label_slim_status "OUT - \"proton-transporting V-type ATPase, V0 domain\" - 1218074"^^xsd:string
+    
+    
+Class: GO_0033178
+
+    Annotations: 
+        label_slim_status "OUT - \"proton-transporting two-sector ATPase complex, catalytic domain\" - 8246581"^^xsd:string
+    
+    
+Class: GO_0042555
+
+    Annotations: 
+        label_slim_status "OUT - MCM complex - 45783"^^xsd:string
+    
+    
+Class: GO_0009986
+
+    Annotations: 
+        label_slim_status "OUT - cell surface - 403"^^xsd:string
+    
+    
+Class: GO_0008537
+
+    Annotations: 
+        label_slim_status "OUT - proteasome activator complex - 50396"^^xsd:string
+    
+    
+Class: GO_0005940
+
+    Annotations: 
+        label_slim_status "IN - septin ring - 201622"^^xsd:string
+    
+    
+Class: GO_0005942
+
+    Annotations: 
+        label_slim_status "OUT - phosphatidylinositol 3-kinase complex - 3926"^^xsd:string
+    
+    
+Class: GO_0016272
+
+    Annotations: 
+        label_slim_status "OUT - prefoldin complex - 255965"^^xsd:string
+    
+    
+Class: GO_0005944
+
+    Annotations: 
+        label_slim_status "OUT - \"1-phosphatidylinositol-4-phosphate 3-kinase, class IB complex\" - 2898"^^xsd:string
+    
+    
+Class: GO_0009507
+
+    Annotations: 
+        label_slim_status "OUT - chloroplast - 132882"^^xsd:string
+    
+    
+Class: GO_0070461
+
+    Annotations: 
+        label_slim_status "OUT - SAGA-type complex - 7293"^^xsd:string
+    
+    
+Class: GO_0045263
+
+    Annotations: 
+        label_slim_status "OUT - \"proton-transporting ATP synthase complex, coupling factor F(o)\" - 16068841"^^xsd:string
+    
+    
+Class: GO_0005829
+
+    Annotations: 
+        label_slim_status "OUT - cytosol - 157994"^^xsd:string
+    
+    
+Class: GO_0070469
+
+    Annotations: 
+        label_slim_status "IN - respiratory chain - 1627"^^xsd:string
+    
+    
+Class: GO_0031411
+
+    Annotations: 
+        label_slim_status "OUT - gas vesicle - 11013"^^xsd:string
+    
+    
+Class: GO_0030688
+
+    Annotations: 
+        label_slim_status "OUT - \"preribosome, small subunit precursor\" - 33586"^^xsd:string
+    
+    
+Class: GO_0015629
+
+    Annotations: 
+        label_slim_status "IN - actin cytoskeleton - 208086"^^xsd:string
+    
+    
+Class: GO_0045261
+
+    Annotations: 
+        label_slim_status "OUT - \"proton-transporting ATP synthase complex, catalytic core F(1)\" - 15496535"^^xsd:string
+    
+    
+Class: GO_0015627
+
+    Annotations: 
+        label_slim_status "OUT - type II protein secretion system complex - 833347"^^xsd:string
+    
+    
+Class: GO_0016602
+
+    Annotations: 
+        label_slim_status "IN - CCAAT-binding factor complex - 1450"^^xsd:string
+    
+    
+Class: GO_0009512
+
+    Annotations: 
+        label_slim_status "OUT - cytochrome b6f complex - 440513"^^xsd:string
+    
+    
+Class: GO_0030694
+
+    Annotations: 
+        label_slim_status "OUT - \"bacterial-type flagellum basal body, rod\" - 244567"^^xsd:string
+    
+    
+Class: GO_0008305
+
+    Annotations: 
+        label_slim_status "OUT - integrin complex - 6032"^^xsd:string
+    
+    
+Class: GO_0005952
+
+    Annotations: 
+        label_slim_status "OUT - cAMP-dependent protein kinase complex - 212116"^^xsd:string
+    
+    
+Class: GO_0000228
+
+    Annotations: 
+        label_slim_status "IN - nuclear chromosome - 81149"^^xsd:string
+    
+    
+Class: GO_0005833
+
+    Annotations: 
+        label_slim_status "OUT - hemoglobin complex - 6429"^^xsd:string
+    
+    
+Class: GO_0005834
+
+    Annotations: 
+        label_slim_status "OUT - heterotrimeric G-protein complex - 46339"^^xsd:string
+    
+    
+Class: GO_0005956
+
+    Annotations: 
+        label_slim_status "OUT - protein kinase CK2 complex - 161233"^^xsd:string
+    
+    
+Class: GO_0005835
+
+    Annotations: 
+        label_slim_status "OUT - fatty acid synthase complex - 180334"^^xsd:string
+    
+    
+Class: GO_0030915
+
+    Annotations: 
+        label_slim_status "OUT - Smc5-Smc6 complex - 10267"^^xsd:string
+    
+    
+Class: GO_0005839
+
+    Annotations: 
+        label_slim_status "OUT - proteasome core complex - 2866906"^^xsd:string
+    
+    
+Class: GO_0000221
+
+    Annotations: 
+        label_slim_status "OUT - \"vacuolar proton-transporting V-type ATPase, V1 domain\" - 93591"^^xsd:string
+    
+    
+Class: GO_0030115
+
+    Annotations: 
+        label_slim_status "OUT - S-layer - 4153"^^xsd:string
+    
+    
+Class: GO_0030117
+
+    Annotations: 
+        label_slim_status "OUT - membrane coat - 804762"^^xsd:string
+    
+    
+Class: GO_0016607
+
+    Annotations: 
+        label_slim_status "OUT - nuclear speck - 2991"^^xsd:string
+    
+    
+Class: GO_0030119
+
+    Annotations: 
+        label_slim_status "OUT - AP-type membrane coat adaptor complex - 726"^^xsd:string
+    
+    
+Class: GO_0034715
+
+    Annotations: 
+        label_slim_status "OUT - pICln-Sm protein complex - 986"^^xsd:string
+    
+    
+Class: GO_0030120
+
+    Annotations: 
+        label_slim_status "OUT - vesicle coat - 57"^^xsd:string
+    
+    
+Class: GO_0009522
+
+    Annotations: 
+        label_slim_status "OUT - photosystem I - 10014278"^^xsd:string
+    
+    
+Class: GO_0009523
+
+    Annotations: 
+        label_slim_status "OUT - photosystem II - 4943109"^^xsd:string
+    
+    
+Class: GO_0009521
+
+    Annotations: 
+        label_slim_status "OUT - photosystem - 5276830"^^xsd:string
+    
+    
+Class: GO_0005960
+
+    Annotations: 
+        label_slim_status "OUT - glycine cleavage complex - 4969"^^xsd:string
+    
+    
+Class: GO_0005840
+
+    Annotations: 
+        label_slim_status "IN - ribosome - 235158024"^^xsd:string
+    
+    
+Class: GO_0001669
+
+    Annotations: 
+        label_slim_status "IN - acrosomal vesicle - 111"^^xsd:string
+    
+    
+Class: GO_0005964
+
+    Annotations: 
+        label_slim_status "OUT - phosphorylase kinase complex - 2433"^^xsd:string
+    
+    
+Class: GO_0005845
+
+    Annotations: 
+        label_slim_status "OUT - mRNA cap binding complex - 4460"^^xsd:string
+    
+    
+Class: GO_0005968
+
+    Annotations: 
+        label_slim_status "OUT - Rab-protein geranylgeranyltransferase complex - 930"^^xsd:string
+    
+    
+Class: GO_0005606
+
+    Annotations: 
+        label_slim_status "OUT - laminin-1 complex - 1449"^^xsd:string
+    
+    
+Class: GO_0005727
+
+    Annotations: 
+        label_slim_status "IN - extrachromosomal circular DNA - 6847259"^^xsd:string
+    
+    
+Class: GO_0005849
+
+    Annotations: 
+        label_slim_status "OUT - mRNA cleavage factor complex - 19241"^^xsd:string
+    
+    
+Class: GO_0030904
+
+    Annotations: 
+        label_slim_status "OUT - retromer complex - 318059"^^xsd:string
+    
+    
+Class: GO_0034709
+
+    Annotations: 
+        label_slim_status "OUT - methylosome - 986"^^xsd:string
+    
+    
+Class: GO_0046930
+
+    Annotations: 
+        label_slim_status "OUT - pore complex - 19"^^xsd:string
+    
+    
+Class: GO_0045281
+
+    Annotations: 
+        label_slim_status "OUT - succinate dehydrogenase complex - 252215"^^xsd:string
+    
+    
+Class: GO_0009654
+
+    Annotations: 
+        label_slim_status "OUT - oxygen evolving complex - 1664062"^^xsd:string
+    
+    
+Class: GO_0005850
+
+    Annotations: 
+        label_slim_status "OUT - eukaryotic translation initiation factor 2 complex - 234532"^^xsd:string
+    
+    
+Class: GO_0005730
+
+    Annotations: 
+        label_slim_status "OUT - nucleolus - 113456"^^xsd:string
+    
+    
+Class: GO_0009538
+
+    Annotations: 
+        label_slim_status "OUT - photosystem I reaction center - 2146001"^^xsd:string
+    
+    
+Class: GO_0009898
+
+    Annotations: 
+        label_slim_status "OUT - internal side of plasma membrane - 67350"^^xsd:string
+    
+    
+Class: GO_0033180
+
+    Annotations: 
+        label_slim_status "OUT - \"proton-transporting V-type ATPase, V1 domain\" - 84070"^^xsd:string
+    
+    
+Class: GO_0005852
+
+    Annotations: 
+        label_slim_status "OUT - eukaryotic translation initiation factor 3 complex - 390144"^^xsd:string
+    
+    
+Class: GO_0097197
+
+    Annotations: 
+        label_slim_status "OUT - tetraspanin-enriched microdomain - 636"^^xsd:string
+    
+    
+Class: GO_0043657
+
+    Annotations: 
+        label_slim_status "OUT - host cell - 6497"^^xsd:string
+    
+    
+Class: GO_0005732
+
+    Annotations: 
+        label_slim_status "OUT - small nucleolar ribonucleoprotein complex - 59888"^^xsd:string
+    
+    
+Class: GO_0005853
+
+    Annotations: 
+        label_slim_status "OUT - eukaryotic translation elongation factor 1 complex - 209295"^^xsd:string
+    
+    
+Class: GO_0005856
+
+    Annotations: 
+        label_slim_status "IN - cytoskeleton - 346515"^^xsd:string
+    
+    
+Class: GO_0009539
+
+    Annotations: 
+        label_slim_status "OUT - photosystem II reaction center - 1653117"^^xsd:string
+    
+    
+Class: GO_0005615
+
+    Annotations: 
+        label_slim_status "OUT - extracellular space - 540849"^^xsd:string
+    
+    
+Class: GO_0001533
+
+    Annotations: 
+        label_slim_status "IN - cornified envelope - 203"^^xsd:string
+    
+    
+Class: GO_0000323
+
+    Annotations: 
+        label_slim_status "IN - lytic vacuole - 1214"^^xsd:string
+    
+    
+Class: GO_0000444
+
+    Annotations: 
+        label_slim_status "OUT - MIS12/MIND type complex - 2142"^^xsd:string
+    
+    
+Class: GO_0005737
+
+    Annotations: 
+        label_slim_status "IN - cytoplasm - 184043474"^^xsd:string
+    
+    
+Class: GO_0000445
+
+    Annotations: 
+        label_slim_status "OUT - THO complex part of transcription export complex - 4610"^^xsd:string
+    
+    
+Class: GO_0005739
+
+    Annotations: 
+        label_slim_status "IN - mitochondrion - 291758"^^xsd:string
+    
+    
+Class: GO_0005618
+
+    Annotations: 
+        label_slim_status "IN - cell wall - 3540590"^^xsd:string
+    
+    
+Class: GO_0001772
+
+    Annotations: 
+        label_slim_status "OUT - immunological synapse - 636"^^xsd:string
+    
+    
+Class: GO_0031225
+
+    Annotations: 
+        label_slim_status "OUT - anchored to membrane - 1578"^^xsd:string
+    
+    
+Class: GO_0030257
+
+    Annotations: 
+        label_slim_status "OUT - type III protein secretion system complex - 389"^^xsd:string
+    
+    
+Class: GO_0071008
+
+    Annotations: 
+        label_slim_status "OUT - U2-type post-mRNA release spliceosomal complex - 574"^^xsd:string
+    
+    
+Class: GO_0032797
+
+    Annotations: 
+        label_slim_status "OUT - SMN complex - 2177"^^xsd:string
+    
+    
+Class: GO_0031224
+
+    Annotations: 
+        label_slim_status "OUT - intrinsic to membrane - 4274"^^xsd:string
+    
+    
+Class: GO_0030136
+
+    Annotations: 
+        label_slim_status "IN - clathrin-coated vesicle - 40481"^^xsd:string
+    
+    
+Class: GO_0033644
+
+    Annotations: 
+        label_slim_status "OUT - host cell membrane - 3275"^^xsd:string
+    
+    
+Class: GO_0031105
+
+    Annotations: 
+        label_slim_status "OUT - septin complex - 50"^^xsd:string
+    
+    
+Class: GO_0031902
+
+    Annotations: 
+        label_slim_status "IN - late endosome membrane - 970"^^xsd:string
+    
+    
+Class: GO_0009420
+
+    Annotations: 
+        label_slim_status "OUT - bacterial-type flagellum filament - 495262"^^xsd:string
+    
+    
+Class: GO_0030141
+
+    Annotations: 
+        label_slim_status "IN - secretory granule - 99818"^^xsd:string
+    
+    
+Class: GO_0036128
+
+    Annotations: 
+        label_slim_status "OUT - CatSper complex - 2990"^^xsd:string
+    
+    
+Class: GO_0009424
+
+    Annotations: 
+        label_slim_status "OUT - bacterial-type flagellum hook - 250907"^^xsd:string
+    
+    
+Class: GO_0005861
+
+    Annotations: 
+        label_slim_status "OUT - troponin complex - 8955"^^xsd:string
+    
+    
+Class: GO_0005740
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial envelope - 92181"^^xsd:string
+    
+    
+Class: GO_0009427
+
+    Annotations: 
+        label_slim_status "OUT - \"bacterial-type flagellum basal body, distal rod, L ring\" - 657761"^^xsd:string
+    
+    
+Class: GO_0005741
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial outer membrane - 73760"^^xsd:string
+    
+    
+Class: GO_0009428
+
+    Annotations: 
+        label_slim_status "OUT - \"bacterial-type flagellum basal body, distal rod, P ring\" - 1410433"^^xsd:string
+    
+    
+Class: GO_0005742
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial outer membrane translocase complex - 29206"^^xsd:string
+    
+    
+Class: GO_0000439
+
+    Annotations: 
+        label_slim_status "OUT - core TFIIH complex - 121949"^^xsd:string
+    
+    
+Class: GO_0009425
+
+    Annotations: 
+        label_slim_status "OUT - bacterial-type flagellum basal body - 1513188"^^xsd:string
+    
+    
+Class: GO_0005743
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial inner membrane - 198408"^^xsd:string
+    
+    
+Class: GO_0005622
+
+    Annotations: 
+        label_slim_status "OUT - intracellular - 169954936"^^xsd:string
+    
+    
+Class: GO_0005744
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial inner membrane presequence translocase complex - 16662"^^xsd:string
+    
+    
+Class: GO_0001527
+
+    Annotations: 
+        label_slim_status "OUT - microfibril - 217"^^xsd:string
+    
+    
+Class: GO_0005746
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial respiratory chain - 28724"^^xsd:string
+    
+    
+Class: GO_0005868
+
+    Annotations: 
+        label_slim_status "OUT - cytoplasmic dynein complex - 4850"^^xsd:string
+    
+    
+Class: GO_0005747
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial respiratory chain complex I - 14763"^^xsd:string
+    
+    
+Class: GO_0071595
+
+    Annotations: 
+        label_slim_status "OUT - Nem1-Spo7 phosphatase complex - 8912"^^xsd:string
+    
+    
+Class: GO_0005869
+
+    Annotations: 
+        label_slim_status "OUT - dynactin complex - 16330"^^xsd:string
+    
+    
+Class: GO_0000796
+
+    Annotations: 
+        label_slim_status "OUT - condensin complex - 75447"^^xsd:string
+    
+    
+Class: GO_0000794
+
+    Annotations: 
+        label_slim_status "IN - condensed nuclear chromosome - 16"^^xsd:string
+    
+    
+Class: GO_0072686
+
+    Annotations: 
+        label_slim_status "OUT - mitotic spindle - 39155"^^xsd:string
+    
+    
+Class: GO_0000795
+
+    Annotations: 
+        label_slim_status "OUT - synaptonemal complex - 2299"^^xsd:string
+    
+    
+Class: GO_0042597
+
+    Annotations: 
+        label_slim_status "IN - periplasmic space - 6604439"^^xsd:string
+    
+    
+Class: GO_0030126
+
+    Annotations: 
+        label_slim_status "OUT - COPI vesicle coat - 167098"^^xsd:string
+    
+    
+Class: GO_0070823
+
+    Annotations: 
+        label_slim_status "OUT - HDA1 complex - 12"^^xsd:string
+    
+    
+Class: GO_0030127
+
+    Annotations: 
+        label_slim_status "OUT - COPII vesicle coat - 302042"^^xsd:string
+    
+    
+Class: GO_0042470
+
+    Annotations: 
+        label_slim_status "IN - melanosome - 37"^^xsd:string
+    
+    
+Class: GO_0009431
+
+    Annotations: 
+        label_slim_status "OUT - \"bacterial-type flagellum basal body, MS ring\" - 73737"^^xsd:string
+    
+    
+Class: GO_0031461
+
+    Annotations: 
+        label_slim_status "OUT - cullin-RING ubiquitin ligase complex - 547748"^^xsd:string
+    
+    
+Class: GO_0030130
+
+    Annotations: 
+        label_slim_status "OUT - clathrin coat of trans-Golgi network vesicle - 231165"^^xsd:string
+    
+    
+Class: GO_0030131
+
+    Annotations: 
+        label_slim_status "OUT - clathrin adaptor complex - 476959"^^xsd:string
+    
+    
+Class: GO_0030132
+
+    Annotations: 
+        label_slim_status "OUT - clathrin coat of coated pit - 231165"^^xsd:string
+    
+    
+Class: GO_0030133
+
+    Annotations: 
+        label_slim_status "IN - transport vesicle - 732"^^xsd:string
+    
+    
+Class: GO_0005871
+
+    Annotations: 
+        label_slim_status "OUT - kinesin complex - 32545"^^xsd:string
+    
+    
+Class: GO_0005750
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial respiratory chain complex III - 67087"^^xsd:string
+    
+    
+Class: GO_0005751
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial respiratory chain complex IV - 36900"^^xsd:string
+    
+    
+Class: GO_0009317
+
+    Annotations: 
+        label_slim_status "OUT - acetyl-CoA carboxylase complex - 8369865"^^xsd:string
+    
+    
+Class: GO_0009318
+
+    Annotations: 
+        label_slim_status "OUT - exodeoxyribonuclease VII complex - 2161920"^^xsd:string
+    
+    
+Class: GO_0005874
+
+    Annotations: 
+        label_slim_status "OUT - microtubule - 1078345"^^xsd:string
+    
+    
+Class: GO_0001518
+
+    Annotations: 
+        label_slim_status "OUT - voltage-gated sodium channel complex - 22175"^^xsd:string
+    
+    
+Class: GO_0009316
+
+    Annotations: 
+        label_slim_status "OUT - 3-isopropylmalate dehydratase complex - 49053"^^xsd:string
+    
+    
+Class: GO_0005875
+
+    Annotations: 
+        label_slim_status "OUT - microtubule associated complex - 205150"^^xsd:string
+    
+    
+Class: GO_0005876
+
+    Annotations: 
+        label_slim_status "OUT - spindle microtubule - 2713"^^xsd:string
+    
+    
+Class: GO_0005634
+
+    Annotations: 
+        label_slim_status "IN - nucleus - 6740907"^^xsd:string
+    
+    
+Class: GO_0017053
+
+    Annotations: 
+        label_slim_status "OUT - transcriptional repressor complex - 16326"^^xsd:string
+    
+    
+Class: GO_0005758
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial intermembrane space - 9703"^^xsd:string
+    
+    
+Class: GO_0000785
+
+    Annotations: 
+        label_slim_status "OUT - chromatin - 15154"^^xsd:string
+    
+    
+Class: GO_0005759
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial matrix - 32295"^^xsd:string
+    
+    
+Class: GO_0005639
+
+    Annotations: 
+        label_slim_status "OUT - integral to nuclear inner membrane - 8772"^^xsd:string
+    
+    
+Class: GO_0000786
+
+    Annotations: 
+        label_slim_status "OUT - nucleosome - 1812935"^^xsd:string
+    
+    
+Class: GO_0043230
+
+    Annotations: 
+        label_slim_status "OUT - extracellular organelle - 1357"^^xsd:string
+    
+    
+Class: GO_0000784
+
+    Annotations: 
+        label_slim_status "OUT - \"nuclear chromosome, telomeric region\" - 12193"^^xsd:string
+    
+    
+Class: GO_0043231
+
+    Annotations: 
+        label_slim_status "OUT - intracellular membrane-bounded organelle - 620578"^^xsd:string
+    
+    
+Class: GO_0000781
+
+    Annotations: 
+        label_slim_status "OUT - \"chromosome, telomeric region\" - 1911"^^xsd:string
+    
+    
+Class: GO_0043234
+
+    Annotations: 
+        label_slim_status "OUT - protein complex - 10529"^^xsd:string
+    
+    
+Class: GO_0042025
+
+    Annotations: 
+        label_slim_status "OUT - host cell nucleus - 211811"^^xsd:string
+    
+    
+Class: GO_0019008
+
+    Annotations: 
+        label_slim_status "OUT - molybdopterin synthase complex - 1447722"^^xsd:string
+    
+    
+Class: GO_0045095
+
+    Annotations: 
+        label_slim_status "OUT - keratin filament - 12580"^^xsd:string
+    
+    
+Class: GO_0032580
+
+    Annotations: 
+        label_slim_status "IN - Golgi cisterna membrane - 79727"^^xsd:string
+    
+    
+Class: GO_0031012
+
+    Annotations: 
+        label_slim_status "IN - extracellular matrix - 535529"^^xsd:string
+    
+    
+Class: GO_0031011
+
+    Annotations: 
+        label_slim_status "OUT - Ino80 complex - 6532"^^xsd:string
+    
+    
+Class: GO_0016533
+
+    Annotations: 
+        label_slim_status "OUT - cyclin-dependent protein kinase 5 holoenzyme complex - 26750"^^xsd:string
+    
+    
+Class: GO_0009325
+
+    Annotations: 
+        label_slim_status "OUT - nitrate reductase complex - 1163286"^^xsd:string
+    
+    
+Class: GO_0030286
+
+    Annotations: 
+        label_slim_status "OUT - dynein complex - 1370019"^^xsd:string
+    
+    
+Class: GO_0005760
+
+    Annotations: 
+        label_slim_status "IN - gamma DNA polymerase complex - 2058"^^xsd:string
+    
+    
+Class: GO_0005761
+
+    Annotations: 
+        label_slim_status "IN - mitochondrial ribosome - 23919"^^xsd:string
+    
+    
+Class: GO_0005882
+
+    Annotations: 
+        label_slim_status "OUT - intermediate filament - 74347"^^xsd:string
+    
+    
+Class: GO_0030288
+
+    Annotations: 
+        label_slim_status "IN - outer membrane-bounded periplasmic space - 15505757"^^xsd:string
+    
+    
+Class: GO_0005884
+
+    Annotations: 
+        label_slim_status "OUT - actin filament - 64"^^xsd:string
+    
+    
+Class: GO_0005763
+
+    Annotations: 
+        label_slim_status "OUT - mitochondrial small ribosomal subunit - 17796"^^xsd:string
+    
+    
+Class: GO_0005764
+
+    Annotations: 
+        label_slim_status "IN - lysosome - 16396"^^xsd:string
+    
+    
+Class: GO_0005885
+
+    Annotations: 
+        label_slim_status "OUT - Arp2/3 protein complex - 261737"^^xsd:string
+    
+    
+Class: GO_0005643
+
+    Annotations: 
+        label_slim_status "OUT - nuclear pore - 276178"^^xsd:string
+    
+    
+Class: GO_0009326
+
+    Annotations: 
+        label_slim_status "OUT - formate dehydrogenase complex - 2189262"^^xsd:string
+    
+    
+Class: GO_0005886
+
+    Annotations: 
+        label_slim_status "IN - plasma membrane - 23870640"^^xsd:string
+    
+    
+Class: GO_0005887
+
+    Annotations: 
+        label_slim_status "OUT - integral to plasma membrane - 2523099"^^xsd:string
+    
+    
+Class: GO_0000776
+
+    Annotations: 
+        label_slim_status "OUT - kinetochore - 4569"^^xsd:string
+    
+    
+Class: GO_0000775
+
+    Annotations: 
+        label_slim_status "OUT - \"chromosome, centromeric region\" - 63376"^^xsd:string
+    
+    
+Class: GO_0019012
+
+    Annotations: 
+        label_slim_status "IN - virion - 1203130"^^xsd:string
+    
+    
+Class: GO_0019013
+
+    Annotations: 
+        label_slim_status "OUT - viral nucleocapsid - 9616"^^xsd:string
+    
+    
+Class: GO_0019015
+
+    Annotations: 
+        label_slim_status "OUT - viral genome - 747140"^^xsd:string
+    
+    
+Class: GO_0072669
+
+    Annotations: 
+        label_slim_status "OUT - tRNA-splicing ligase complex - 1061"^^xsd:string
+    
+    
+Class: GO_0030700
+
+    Annotations: 
+        label_slim_status "OUT - glycine reductase complex - 440855"^^xsd:string
+    
+    
+Class: GO_0009331
+
+    Annotations: 
+        label_slim_status "OUT - glycerol-3-phosphate dehydrogenase complex - 1564991"^^xsd:string
+    
+    
+Class: GO_0031361
+
+    Annotations: 
+        label_slim_status "OUT - integral to thylakoid membrane - 1077902"^^xsd:string
+    
+    
+Class: GO_0005890
+
+    Annotations: 
+        label_slim_status "OUT - sodium:potassium-exchanging ATPase complex - 82346"^^xsd:string
+    
+    
+Class: GO_0005891
+
+    Annotations: 
+        label_slim_status "OUT - voltage-gated calcium channel complex - 24450"^^xsd:string
+    
+    
+Class: GO_0005773
+
+    Annotations: 
+        label_slim_status "IN - vacuole - 620"^^xsd:string
+    
+    
+Class: GO_0009579
+
+    Annotations: 
+        label_slim_status "IN - thylakoid - 7299874"^^xsd:string
+    
+    
+Class: GO_0005777
+
+    Annotations: 
+        label_slim_status "OUT - peroxisome - 116656"^^xsd:string
+    
+    
+Class: GO_0005779
+
+    Annotations: 
+        label_slim_status "OUT - integral to peroxisomal membrane - 44399"^^xsd:string
+    
+    
+Class: GO_0046729
+
+    Annotations: 
+        label_slim_status "OUT - viral procapsid - 698384"^^xsd:string
+    
+    

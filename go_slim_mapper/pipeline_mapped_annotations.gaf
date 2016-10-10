@@ -1,0 +1,9 @@
+!gaf-version: 2.0
+! This GAF has been mapped to a subset:
+! Subset: user supplied list, size = 116
+! Number of annotation in input set: 4
+! Number of annotations rewritten: 4
+EMG	GO:0016773	GO		GO:0016740	PMID:12069591	IEA		C			protein	taxon:1310605	20160913	EBIMetagenomics		
+EMG	GO:0016020	GO		GO:0016020	PMID:12069591	IEA		C			protein	taxon:1310605	20160913	EBIMetagenomics		
+EMG	GO:0017038	GO		GO:0006810	PMID:12069591	IEA		C			protein	taxon:1310605	20160913	EBIMetagenomics		
+EMG	GO:0005975	GO		GO:0005975	PMID:12069591	IEA		C			protein	taxon:1310605	20160913	EBIMetagenomics		

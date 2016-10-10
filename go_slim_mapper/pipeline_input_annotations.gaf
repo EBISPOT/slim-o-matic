@@ -1,0 +1,9 @@
+!gaf-version: 2.1
+!Project_name: EBI Metagenomics
+!URL: http://www.ebi.ac.uk/metagenomics
+!Contact Email: metagenomics-help@ebi.ac.uk
+!GAF file generated automatically by the GO slim mapper tool
+EMG	GO:0016773	GO		GO:0016773	PMID:12069591	IEA		C			protein	taxon:1310605	20160913	EBIMetagenomics		
+EMG	GO:0016020	GO		GO:0016020	PMID:12069591	IEA		C			protein	taxon:1310605	20160913	EBIMetagenomics		
+EMG	GO:0017038	GO		GO:0017038	PMID:12069591	IEA		C			protein	taxon:1310605	20160913	EBIMetagenomics		
+EMG	GO:0005975	GO		GO:0005975	PMID:12069591	IEA		C			protein	taxon:1310605	20160913	EBIMetagenomics		

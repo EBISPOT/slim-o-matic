@@ -1,0 +1,3627 @@
+Prefix: : <http://purl.obolibrary.org/obo/>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+
+Ontology: <http://www.ebi.ac.uk/metagenomics/MF_Special.owl>
+
+
+AnnotationProperty: IAO_0000115
+
+    
+AnnotationProperty: label_slim_status
+
+    
+AnnotationProperty: label_with_counts
+
+    
+Datatype: xsd:string
+
+    
+Class: GO_0003910
+
+    Annotations: 
+        label_slim_status "IN - DNA ligase (ATP) activity - 19"^^xsd:string
+    
+    
+Class: GO_0008131
+
+    Annotations: 
+        label_slim_status "IN - primary amine oxidase activity - 6"^^xsd:string
+    
+    
+Class: GO_0008253
+
+    Annotations: 
+        label_slim_status "IN - 5'-nucleotidase activity - 4"^^xsd:string
+    
+    
+Class: GO_0008134
+
+    Annotations: 
+        label_slim_status "IN - transcription factor binding - 50"^^xsd:string
+    
+    
+Class: GO_0008137
+
+    Annotations: 
+        label_slim_status "IN - NADH dehydrogenase (ubiquinone) activity - 243"^^xsd:string
+    
+    
+Class: GO_0003909
+
+    Annotations: 
+        label_slim_status "IN - DNA ligase activity - 13"^^xsd:string
+    
+    
+Class: GO_0003908
+
+    Annotations: 
+        label_slim_status "IN - methylated-DNA-[protein]-cysteine S-methyltransferase activity - 5"^^xsd:string
+    
+    
+Class: GO_0003906
+
+    Annotations: 
+        label_slim_status "IN - DNA-(apurinic or apyrimidinic site) lyase activity - 17"^^xsd:string
+    
+    
+Class: GO_0008017
+
+    Annotations: 
+        label_slim_status "IN - microtubule binding - 1"^^xsd:string
+    
+    
+Class: GO_0008138
+
+    Annotations: 
+        label_slim_status "IN - protein tyrosine/serine/threonine phosphatase activity - 1"^^xsd:string
+    
+    
+Class: GO_0003905
+
+    Annotations: 
+        label_slim_status "IN - alkylbase DNA N-glycosylase activity - 42"^^xsd:string
+    
+    
+Class: GO_0046872
+
+    Annotations: 
+        label_slim_status "IN - metal ion binding - 545"^^xsd:string
+    
+    
+Class: GO_0008146
+
+    Annotations: 
+        label_slim_status "IN - sulfotransferase activity - 7"^^xsd:string
+    
+    
+Class: GO_0008026
+
+    Annotations: 
+        label_slim_status "IN - ATP-dependent helicase activity - 45"^^xsd:string
+    
+    
+Class: GO_0043115
+
+    Annotations: 
+        label_slim_status "IN - precorrin-2 dehydrogenase activity - 8"^^xsd:string
+    
+    
+Class: GO_0030170
+
+    Annotations: 
+        label_slim_status "IN - pyridoxal phosphate binding - 1807"^^xsd:string
+    
+    
+Class: GO_0008270
+
+    Annotations: 
+        label_slim_status "IN - zinc ion binding - 268"^^xsd:string
+    
+    
+Class: GO_0009001
+
+    Annotations: 
+        label_slim_status "IN - serine O-acetyltransferase activity - 2"^^xsd:string
+    
+    
+Class: GO_0009002
+
+    Annotations: 
+        label_slim_status "IN - serine-type D-Ala-D-Ala carboxypeptidase activity - 28"^^xsd:string
+    
+    
+Class: GO_0008276
+
+    Annotations: 
+        label_slim_status "IN - protein methyltransferase activity - 32"^^xsd:string
+    
+    
+Class: GO_0031177
+
+    Annotations: 
+        label_slim_status "IN - phosphopantetheine binding - 2"^^xsd:string
+    
+    
+Class: GO_0009007
+
+    Annotations: 
+        label_slim_status "IN - site-specific DNA-methyltransferase (adenine-specific) activity - 3"^^xsd:string
+    
+    
+Class: GO_0043140
+
+    Annotations: 
+        label_slim_status "IN - ATP-dependent 3'-5' DNA helicase activity - 1"^^xsd:string
+    
+    
+Class: GO_0016901
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor - 7"^^xsd:string
+    
+    
+Class: GO_0009496
+
+    Annotations: 
+        label_slim_status "IN - plastoquinol--plastocyanin reductase activity - 3"^^xsd:string
+    
+    
+Class: GO_0015930
+
+    Annotations: 
+        label_slim_status "IN - glutamate synthase activity - 150"^^xsd:string
+    
+    
+Class: GO_0008168
+
+    Annotations: 
+        label_slim_status "IN - methyltransferase activity - 379"^^xsd:string
+    
+    
+Class: GO_0009378
+
+    Annotations: 
+        label_slim_status "IN - four-way junction helicase activity - 56"^^xsd:string
+    
+    
+Class: GO_0009015
+
+    Annotations: 
+        label_slim_status "IN - N-succinylarginine dihydrolase activity - 6"^^xsd:string
+    
+    
+Class: GO_0020037
+
+    Annotations: 
+        label_slim_status "IN - heme binding - 277"^^xsd:string
+    
+    
+Class: GO_0009019
+
+    Annotations: 
+        label_slim_status "IN - tRNA (guanine-N1-)-methyltransferase activity - 12"^^xsd:string
+    
+    
+Class: GO_0046406
+
+    Annotations: 
+        label_slim_status "IN - magnesium protoporphyrin IX methyltransferase activity - 12"^^xsd:string
+    
+    
+Class: GO_0004803
+
+    Annotations: 
+        label_slim_status "IN - transposase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004806
+
+    Annotations: 
+        label_slim_status "IN - triglyceride lipase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004807
+
+    Annotations: 
+        label_slim_status "IN - triose-phosphate isomerase activity - 50"^^xsd:string
+    
+    
+Class: GO_0004809
+
+    Annotations: 
+        label_slim_status "IN - tRNA (guanine-N2-)-methyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0008171
+
+    Annotations: 
+        label_slim_status "IN - O-methyltransferase activity - 10"^^xsd:string
+    
+    
+Class: GO_0008170
+
+    Annotations: 
+        label_slim_status "IN - N-methyltransferase activity - 38"^^xsd:string
+    
+    
+Class: GO_0009020
+
+    Annotations: 
+        label_slim_status "IN - tRNA (guanosine-2'-O-)-methyltransferase activity - 7"^^xsd:string
+    
+    
+Class: GO_0008173
+
+    Annotations: 
+        label_slim_status "IN - RNA methyltransferase activity - 56"^^xsd:string
+    
+    
+Class: GO_0016903
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the aldehyde or oxo group of donors - 1"^^xsd:string
+    
+    
+Class: GO_0008176
+
+    Annotations: 
+        label_slim_status "IN - tRNA (guanine-N7-)-methyltransferase activity - 22"^^xsd:string
+    
+    
+Class: GO_0009029
+
+    Annotations: 
+        label_slim_status "IN - tetraacyldisaccharide 4'-kinase activity - 20"^^xsd:string
+    
+    
+Class: GO_0031072
+
+    Annotations: 
+        label_slim_status "IN - heat shock protein binding - 193"^^xsd:string
+    
+    
+Class: GO_0004812
+
+    Annotations: 
+        label_slim_status "IN - aminoacyl-tRNA ligase activity - 1044"^^xsd:string
+    
+    
+Class: GO_0004813
+
+    Annotations: 
+        label_slim_status "IN - alanine-tRNA ligase activity - 114"^^xsd:string
+    
+    
+Class: GO_0051920
+
+    Annotations: 
+        label_slim_status "IN - peroxiredoxin activity - 9"^^xsd:string
+    
+    
+Class: GO_0004814
+
+    Annotations: 
+        label_slim_status "IN - arginine-tRNA ligase activity - 78"^^xsd:string
+    
+    
+Class: GO_0047400
+
+    Annotations: 
+        label_slim_status "IN - phosphonoacetate hydrolase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004817
+
+    Annotations: 
+        label_slim_status "IN - cysteine-tRNA ligase activity - 70"^^xsd:string
+    
+    
+Class: GO_0043169
+
+    Annotations: 
+        label_slim_status "IN - cation binding - 231"^^xsd:string
+    
+    
+Class: GO_0035300
+
+    Annotations: 
+        label_slim_status "OUT - obsolete inositol-1,3,4-trisphosphate 5/6-kinase activity - 1"^^xsd:string
+    
+    
+Class: GO_0009039
+
+    Annotations: 
+        label_slim_status "IN - urease activity - 114"^^xsd:string
+    
+    
+Class: GO_0046429
+
+    Annotations: 
+        label_slim_status "IN - 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity - 38"^^xsd:string
+    
+    
+Class: GO_0004820
+
+    Annotations: 
+        label_slim_status "IN - glycine-tRNA ligase activity - 143"^^xsd:string
+    
+    
+Class: GO_0004823
+
+    Annotations: 
+        label_slim_status "IN - leucine-tRNA ligase activity - 8"^^xsd:string
+    
+    
+Class: GO_0004824
+
+    Annotations: 
+        label_slim_status "IN - lysine-tRNA ligase activity - 35"^^xsd:string
+    
+    
+Class: GO_0004826
+
+    Annotations: 
+        label_slim_status "IN - phenylalanine-tRNA ligase activity - 92"^^xsd:string
+    
+    
+Class: GO_0004827
+
+    Annotations: 
+        label_slim_status "IN - proline-tRNA ligase activity - 6"^^xsd:string
+    
+    
+Class: GO_0004828
+
+    Annotations: 
+        label_slim_status "IN - serine-tRNA ligase activity - 30"^^xsd:string
+    
+    
+Class: GO_0004829
+
+    Annotations: 
+        label_slim_status "IN - threonine-tRNA ligase activity - 4"^^xsd:string
+    
+    
+Class: GO_0016805
+
+    Annotations: 
+        label_slim_status "IN - dipeptidase activity - 28"^^xsd:string
+    
+    
+Class: GO_0016813
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines - 48"^^xsd:string
+    
+    
+Class: GO_0016812
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides - 8"^^xsd:string
+    
+    
+Class: GO_0008199
+
+    Annotations: 
+        label_slim_status "IN - ferric iron binding - 15"^^xsd:string
+    
+    
+Class: GO_0016811
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides - 12"^^xsd:string
+    
+    
+Class: GO_0016810
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds - 83"^^xsd:string
+    
+    
+Class: GO_0008198
+
+    Annotations: 
+        label_slim_status "IN - ferrous iron binding - 2"^^xsd:string
+    
+    
+Class: GO_0004832
+
+    Annotations: 
+        label_slim_status "IN - valine-tRNA ligase activity - 18"^^xsd:string
+    
+    
+Class: GO_0004833
+
+    Annotations: 
+        label_slim_status "IN - tryptophan 2,3-dioxygenase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004834
+
+    Annotations: 
+        label_slim_status "IN - tryptophan synthase activity - 61"^^xsd:string
+    
+    
+Class: GO_0004713
+
+    Annotations: 
+        label_slim_status "IN - protein tyrosine kinase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004835
+
+    Annotations: 
+        label_slim_status "IN - tubulin-tyrosine ligase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004719
+
+    Annotations: 
+        label_slim_status "IN - protein-L-isoaspartate (D-aspartate) O-methyltransferase activity - 17"^^xsd:string
+    
+    
+Class: GO_0047547
+
+    Annotations: 
+        label_slim_status "IN - 2-methylcitrate dehydratase activity - 2"^^xsd:string
+    
+    
+Class: GO_0070403
+
+    Annotations: 
+        label_slim_status "IN - NAD+ binding - 4"^^xsd:string
+    
+    
+Class: GO_0008081
+
+    Annotations: 
+        label_slim_status "IN - phosphoric diester hydrolase activity - 32"^^xsd:string
+    
+    
+Class: GO_0008080
+
+    Annotations: 
+        label_slim_status "IN - N-acetyltransferase activity - 28"^^xsd:string
+    
+    
+Class: GO_0016818
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides - 23"^^xsd:string
+    
+    
+Class: GO_0016817
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on acid anhydrides - 2"^^xsd:string
+    
+    
+Class: GO_0016702
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen - 10"^^xsd:string
+    
+    
+Class: GO_0009055
+
+    Annotations: 
+        label_slim_status "IN - electron carrier activity - 534"^^xsd:string
+    
+    
+Class: GO_0016820
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances - 28"^^xsd:string
+    
+    
+Class: GO_0004842
+
+    Annotations: 
+        label_slim_status "IN - ubiquitin-protein transferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004601
+
+    Annotations: 
+        label_slim_status "IN - peroxidase activity - 20"^^xsd:string
+    
+    
+Class: GO_0004722
+
+    Annotations: 
+        label_slim_status "IN - protein serine/threonine phosphatase activity - 3"^^xsd:string
+    
+    
+Class: GO_0004602
+
+    Annotations: 
+        label_slim_status "IN - glutathione peroxidase activity - 21"^^xsd:string
+    
+    
+Class: GO_0004848
+
+    Annotations: 
+        label_slim_status "IN - ureidoglycolate hydrolase activity - 10"^^xsd:string
+    
+    
+Class: GO_0045156
+
+    Annotations: 
+        label_slim_status "IN - electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity - 116"^^xsd:string
+    
+    
+Class: GO_0004609
+
+    Annotations: 
+        label_slim_status "IN - phosphatidylserine decarboxylase activity - 11"^^xsd:string
+    
+    
+Class: GO_0045158
+
+    Annotations: 
+        label_slim_status "IN - electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity - 9"^^xsd:string
+    
+    
+Class: GO_0016709
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen - 1"^^xsd:string
+    
+    
+Class: GO_0016829
+
+    Annotations: 
+        label_slim_status "IN - lyase activity - 88"^^xsd:string
+    
+    
+Class: GO_0016708
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor - 2"^^xsd:string
+    
+    
+Class: GO_0008094
+
+    Annotations: 
+        label_slim_status "IN - DNA-dependent ATPase activity - 11"^^xsd:string
+    
+    
+Class: GO_0016706
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors - 2"^^xsd:string
+    
+    
+Class: GO_0016705
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen - 67"^^xsd:string
+    
+    
+Class: GO_0008097
+
+    Annotations: 
+        label_slim_status "IN - 5S rRNA binding - 14"^^xsd:string
+    
+    
+Class: GO_0016833
+
+    Annotations: 
+        label_slim_status "IN - oxo-acid-lyase activity - 13"^^xsd:string
+    
+    
+Class: GO_0016712
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen - 2"^^xsd:string
+    
+    
+Class: GO_0016832
+
+    Annotations: 
+        label_slim_status "IN - aldehyde-lyase activity - 22"^^xsd:string
+    
+    
+Class: GO_0016831
+
+    Annotations: 
+        label_slim_status "IN - carboxy-lyase activity - 14"^^xsd:string
+    
+    
+Class: GO_0016830
+
+    Annotations: 
+        label_slim_status "IN - carbon-carbon lyase activity - 6"^^xsd:string
+    
+    
+Class: GO_0004970
+
+    Annotations: 
+        label_slim_status "IN - ionotropic glutamate receptor activity - 1"^^xsd:string
+    
+    
+Class: GO_0004852
+
+    Annotations: 
+        label_slim_status "IN - uroporphyrinogen-III synthase activity - 4"^^xsd:string
+    
+    
+Class: GO_0004853
+
+    Annotations: 
+        label_slim_status "IN - uroporphyrinogen decarboxylase activity - 55"^^xsd:string
+    
+    
+Class: GO_0004611
+
+    Annotations: 
+        label_slim_status "IN - phosphoenolpyruvate carboxykinase activity - 29"^^xsd:string
+    
+    
+Class: GO_0004612
+
+    Annotations: 
+        label_slim_status "IN - phosphoenolpyruvate carboxykinase (ATP) activity - 30"^^xsd:string
+    
+    
+Class: GO_0004733
+
+    Annotations: 
+        label_slim_status "IN - pyridoxamine-phosphate oxidase activity - 9"^^xsd:string
+    
+    
+Class: GO_0004735
+
+    Annotations: 
+        label_slim_status "IN - pyrroline-5-carboxylate reductase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004616
+
+    Annotations: 
+        label_slim_status "IN - phosphogluconate dehydrogenase (decarboxylating) activity - 79"^^xsd:string
+    
+    
+Class: GO_0004618
+
+    Annotations: 
+        label_slim_status "IN - phosphoglycerate kinase activity - 247"^^xsd:string
+    
+    
+Class: GO_0004619
+
+    Annotations: 
+        label_slim_status "IN - phosphoglycerate mutase activity - 58"^^xsd:string
+    
+    
+Class: GO_0047325
+
+    Annotations: 
+        label_slim_status "IN - inositol tetrakisphosphate 1-kinase activity - 1"^^xsd:string
+    
+    
+Class: GO_0016836
+
+    Annotations: 
+        label_slim_status "IN - hydro-lyase activity - 35"^^xsd:string
+    
+    
+Class: GO_0016715
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced ascorbate as one donor, and incorporation of one atom of oxygen - 1"^^xsd:string
+    
+    
+Class: GO_0016846
+
+    Annotations: 
+        label_slim_status "IN - carbon-sulfur lyase activity - 4"^^xsd:string
+    
+    
+Class: GO_0016841
+
+    Annotations: 
+        label_slim_status "IN - ammonia-lyase activity - 10"^^xsd:string
+    
+    
+Class: GO_0016840
+
+    Annotations: 
+        label_slim_status "IN - carbon-nitrogen lyase activity - 1"^^xsd:string
+    
+    
+Class: GO_0010181
+
+    Annotations: 
+        label_slim_status "IN - FMN binding - 182"^^xsd:string
+    
+    
+Class: GO_0004743
+
+    Annotations: 
+        label_slim_status "IN - pyruvate kinase activity - 93"^^xsd:string
+    
+    
+Class: GO_0004746
+
+    Annotations: 
+        label_slim_status "IN - riboflavin synthase activity - 26"^^xsd:string
+    
+    
+Class: GO_0004747
+
+    Annotations: 
+        label_slim_status "IN - ribokinase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004748
+
+    Annotations: 
+        label_slim_status "IN - ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor - 68"^^xsd:string
+    
+    
+Class: GO_0004749
+
+    Annotations: 
+        label_slim_status "IN - ribose phosphate diphosphokinase activity - 5"^^xsd:string
+    
+    
+Class: GO_0070694
+
+    Annotations: 
+        label_slim_status "IN - deoxyribonucleoside 5'-monophosphate N-glycosidase activity - 4"^^xsd:string
+    
+    
+Class: GO_0016849
+
+    Annotations: 
+        label_slim_status "IN - phosphorus-oxygen lyase activity - 36"^^xsd:string
+    
+    
+Class: GO_0016857
+
+    Annotations: 
+        label_slim_status "IN - racemase and epimerase activity, acting on carbohydrates and derivatives - 2"^^xsd:string
+    
+    
+Class: GO_0016614
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on CH-OH group of donors - 94"^^xsd:string
+    
+    
+Class: GO_0016855
+
+    Annotations: 
+        label_slim_status "IN - racemase and epimerase activity, acting on amino acids and derivatives - 43"^^xsd:string
+    
+    
+Class: GO_0016853
+
+    Annotations: 
+        label_slim_status "IN - isomerase activity - 46"^^xsd:string
+    
+    
+Class: GO_0016851
+
+    Annotations: 
+        label_slim_status "IN - magnesium chelatase activity - 16"^^xsd:string
+    
+    
+Class: GO_0016972
+
+    Annotations: 
+        label_slim_status "IN - thiol oxidase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004750
+
+    Annotations: 
+        label_slim_status "IN - ribulose-phosphate 3-epimerase activity - 54"^^xsd:string
+    
+    
+Class: GO_0004871
+
+    Annotations: 
+        label_slim_status "IN - signal transducer activity - 4"^^xsd:string
+    
+    
+Class: GO_0004872
+
+    Annotations: 
+        label_slim_status "IN - receptor activity - 71"^^xsd:string
+    
+    
+Class: GO_0004751
+
+    Annotations: 
+        label_slim_status "IN - ribose-5-phosphate isomerase activity - 25"^^xsd:string
+    
+    
+Class: GO_0004512
+
+    Annotations: 
+        label_slim_status "IN - inositol-3-phosphate synthase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004634
+
+    Annotations: 
+        label_slim_status "IN - phosphopyruvate hydratase activity - 132"^^xsd:string
+    
+    
+Class: GO_0004514
+
+    Annotations: 
+        label_slim_status "IN - nicotinate-nucleotide diphosphorylase (carboxylating) activity - 18"^^xsd:string
+    
+    
+Class: GO_0004635
+
+    Annotations: 
+        label_slim_status "IN - phosphoribosyl-AMP cyclohydrolase activity - 10"^^xsd:string
+    
+    
+Class: GO_0004636
+
+    Annotations: 
+        label_slim_status "IN - phosphoribosyl-ATP diphosphatase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004637
+
+    Annotations: 
+        label_slim_status "IN - phosphoribosylamine-glycine ligase activity - 66"^^xsd:string
+    
+    
+Class: GO_0004516
+
+    Annotations: 
+        label_slim_status "IN - nicotinate phosphoribosyltransferase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004638
+
+    Annotations: 
+        label_slim_status "IN - phosphoribosylaminoimidazole carboxylase activity - 57"^^xsd:string
+    
+    
+Class: GO_0004518
+
+    Annotations: 
+        label_slim_status "IN - nuclease activity - 146"^^xsd:string
+    
+    
+Class: GO_0004639
+
+    Annotations: 
+        label_slim_status "IN - phosphoribosylaminoimidazolesuccinocarboxamide synthase activity - 45"^^xsd:string
+    
+    
+Class: GO_0004519
+
+    Annotations: 
+        label_slim_status "IN - endonuclease activity - 37"^^xsd:string
+    
+    
+Class: GO_0016616
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor - 687"^^xsd:string
+    
+    
+Class: GO_0016868
+
+    Annotations: 
+        label_slim_status "IN - intramolecular transferase activity, phosphotransferases - 344"^^xsd:string
+    
+    
+Class: GO_0016747
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring acyl groups other than amino-acyl groups - 110"^^xsd:string
+    
+    
+Class: GO_0016625
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor - 9"^^xsd:string
+    
+    
+Class: GO_0016987
+
+    Annotations: 
+        label_slim_status "OUT - sigma factor activity - 264"^^xsd:string
+    
+    
+Class: GO_0016866
+
+    Annotations: 
+        label_slim_status "IN - intramolecular transferase activity - 71"^^xsd:string
+    
+    
+Class: GO_0016624
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor - 37"^^xsd:string
+    
+    
+Class: GO_0016743
+
+    Annotations: 
+        label_slim_status "IN - carboxyl- or carbamoyltransferase activity - 83"^^xsd:string
+    
+    
+Class: GO_0016742
+
+    Annotations: 
+        label_slim_status "IN - hydroxymethyl-, formyl- and related transferase activity - 131"^^xsd:string
+    
+    
+Class: GO_0016984
+
+    Annotations: 
+        label_slim_status "IN - ribulose-bisphosphate carboxylase activity - 109"^^xsd:string
+    
+    
+Class: GO_0016620
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - 277"^^xsd:string
+    
+    
+Class: GO_0016740
+
+    Annotations: 
+        label_slim_status "IN - transferase activity - 175"^^xsd:string
+    
+    
+Class: GO_0016861
+
+    Annotations: 
+        label_slim_status "IN - intramolecular oxidoreductase activity, interconverting aldoses and ketoses - 6"^^xsd:string
+    
+    
+Class: GO_0004640
+
+    Annotations: 
+        label_slim_status "IN - phosphoribosylanthranilate isomerase activity - 14"^^xsd:string
+    
+    
+Class: GO_0004520
+
+    Annotations: 
+        label_slim_status "IN - endodeoxyribonuclease activity - 21"^^xsd:string
+    
+    
+Class: GO_0004643
+
+    Annotations: 
+        label_slim_status "IN - phosphoribosylaminoimidazolecarboxamide formyltransferase activity - 48"^^xsd:string
+    
+    
+Class: GO_0004764
+
+    Annotations: 
+        label_slim_status "IN - shikimate 3-dehydrogenase (NADP+) activity - 21"^^xsd:string
+    
+    
+Class: GO_0004765
+
+    Annotations: 
+        label_slim_status "IN - shikimate kinase activity - 45"^^xsd:string
+    
+    
+Class: GO_0004523
+
+    Annotations: 
+        label_slim_status "IN - RNA-DNA hybrid ribonuclease activity - 41"^^xsd:string
+    
+    
+Class: GO_0004645
+
+    Annotations: 
+        label_slim_status "IN - phosphorylase activity - 80"^^xsd:string
+    
+    
+Class: GO_0004525
+
+    Annotations: 
+        label_slim_status "IN - ribonuclease III activity - 33"^^xsd:string
+    
+    
+Class: GO_0004526
+
+    Annotations: 
+        label_slim_status "IN - ribonuclease P activity - 7"^^xsd:string
+    
+    
+Class: GO_0004647
+
+    Annotations: 
+        label_slim_status "IN - phosphoserine phosphatase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004407
+
+    Annotations: 
+        label_slim_status "IN - histone deacetylase activity - 2"^^xsd:string
+    
+    
+Class: GO_0050661
+
+    Annotations: 
+        label_slim_status "IN - NADP binding - 149"^^xsd:string
+    
+    
+Class: GO_0050662
+
+    Annotations: 
+        label_slim_status "IN - coenzyme binding - 304"^^xsd:string
+    
+    
+Class: GO_0016627
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the CH-CH group of donors - 170"^^xsd:string
+    
+    
+Class: GO_0016879
+
+    Annotations: 
+        label_slim_status "IN - ligase activity, forming carbon-nitrogen bonds - 36"^^xsd:string
+    
+    
+Class: GO_0016758
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring hexosyl groups - 17"^^xsd:string
+    
+    
+Class: GO_0016757
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring glycosyl groups - 147"^^xsd:string
+    
+    
+Class: GO_0016636
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the CH-CH group of donors, iron-sulfur protein as acceptor - 53"^^xsd:string
+    
+    
+Class: GO_0016876
+
+    Annotations: 
+        label_slim_status "IN - ligase activity, forming aminoacyl-tRNA and related compounds - 130"^^xsd:string
+    
+    
+Class: GO_0015667
+
+    Annotations: 
+        label_slim_status "IN - site-specific DNA-methyltransferase (cytosine-N4-specific) activity - 4"^^xsd:string
+    
+    
+Class: GO_0016755
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring amino-acyl groups - 1"^^xsd:string
+    
+    
+Class: GO_0016874
+
+    Annotations: 
+        label_slim_status "IN - ligase activity - 700"^^xsd:string
+    
+    
+Class: GO_0015662
+
+    Annotations: 
+        label_slim_status "IN - ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism - 15"^^xsd:string
+    
+    
+Class: GO_0016994
+
+    Annotations: 
+        label_slim_status "IN - precorrin-6A reductase activity - 5"^^xsd:string
+    
+    
+Class: GO_0016993
+
+    Annotations: 
+        label_slim_status "IN - precorrin-8X methylmutase activity - 28"^^xsd:string
+    
+    
+Class: GO_0004411
+
+    Annotations: 
+        label_slim_status "IN - homogentisate 1,2-dioxygenase activity - 5"^^xsd:string
+    
+    
+Class: GO_0004775
+
+    Annotations: 
+        label_slim_status "IN - succinate-CoA ligase (ADP-forming) activity - 6"^^xsd:string
+    
+    
+Class: GO_0004655
+
+    Annotations: 
+        label_slim_status "IN - porphobilinogen synthase activity - 96"^^xsd:string
+    
+    
+Class: GO_0004657
+
+    Annotations: 
+        label_slim_status "IN - proline dehydrogenase activity - 4"^^xsd:string
+    
+    
+Class: GO_0004536
+
+    Annotations: 
+        label_slim_status "IN - deoxyribonuclease activity - 2"^^xsd:string
+    
+    
+Class: GO_0005506
+
+    Annotations: 
+        label_slim_status "IN - iron ion binding - 352"^^xsd:string
+    
+    
+Class: GO_0050797
+
+    Annotations: 
+        label_slim_status "IN - thymidylate synthase (FAD) activity - 29"^^xsd:string
+    
+    
+Class: GO_0004659
+
+    Annotations: 
+        label_slim_status "IN - prenyltransferase activity - 27"^^xsd:string
+    
+    
+Class: GO_0005507
+
+    Annotations: 
+        label_slim_status "IN - copper ion binding - 97"^^xsd:string
+    
+    
+Class: GO_0004418
+
+    Annotations: 
+        label_slim_status "IN - hydroxymethylbilane synthase activity - 10"^^xsd:string
+    
+    
+Class: GO_0005509
+
+    Annotations: 
+        label_slim_status "IN - calcium ion binding - 129"^^xsd:string
+    
+    
+Class: GO_0016638
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the CH-NH2 group of donors - 97"^^xsd:string
+    
+    
+Class: GO_0016769
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring nitrogenous groups - 60"^^xsd:string
+    
+    
+Class: GO_0016888
+
+    Annotations: 
+        label_slim_status "IN - endodeoxyribonuclease activity, producing 5'-phosphomonoesters - 42"^^xsd:string
+    
+    
+Class: GO_0016887
+
+    Annotations: 
+        label_slim_status "IN - ATPase activity - 222"^^xsd:string
+    
+    
+Class: GO_0016645
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on the CH-NH group of donors - 9"^^xsd:string
+    
+    
+Class: GO_0016765
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring alkyl or aryl (other than methyl) groups - 251"^^xsd:string
+    
+    
+Class: GO_0016884
+
+    Annotations: 
+        label_slim_status "IN - carbon-nitrogen ligase activity, with glutamine as amido-N-donor - 107"^^xsd:string
+    
+    
+Class: GO_0016763
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring pentosyl groups - 31"^^xsd:string
+    
+    
+Class: GO_0004781
+
+    Annotations: 
+        label_slim_status "IN - sulfate adenylyltransferase (ATP) activity - 10"^^xsd:string
+    
+    
+Class: GO_0004540
+
+    Annotations: 
+        label_slim_status "IN - ribonuclease activity - 20"^^xsd:string
+    
+    
+Class: GO_0004420
+
+    Annotations: 
+        label_slim_status "IN - hydroxymethylglutaryl-CoA reductase (NADPH) activity - 8"^^xsd:string
+    
+    
+Class: GO_0004784
+
+    Annotations: 
+        label_slim_status "IN - superoxide dismutase activity - 41"^^xsd:string
+    
+    
+Class: GO_0016881
+
+    Annotations: 
+        label_slim_status "IN - acid-amino acid ligase activity - 8"^^xsd:string
+    
+    
+Class: GO_0004664
+
+    Annotations: 
+        label_slim_status "IN - prephenate dehydratase activity - 26"^^xsd:string
+    
+    
+Class: GO_0004301
+
+    Annotations: 
+        label_slim_status "IN - epoxide hydrolase activity - 3"^^xsd:string
+    
+    
+Class: GO_0004665
+
+    Annotations: 
+        label_slim_status "IN - prephenate dehydrogenase (NADP+) activity - 14"^^xsd:string
+    
+    
+Class: GO_0004424
+
+    Annotations: 
+        label_slim_status "IN - imidazoleglycerol-phosphate dehydratase activity - 46"^^xsd:string
+    
+    
+Class: GO_0004425
+
+    Annotations: 
+        label_slim_status "IN - indole-3-glycerol-phosphate synthase activity - 54"^^xsd:string
+    
+    
+Class: GO_0004788
+
+    Annotations: 
+        label_slim_status "IN - thiamine diphosphokinase activity - 5"^^xsd:string
+    
+    
+Class: GO_0005515
+
+    Annotations: 
+        label_slim_status "IN - protein binding - 405"^^xsd:string
+    
+    
+Class: GO_0004789
+
+    Annotations: 
+        label_slim_status "IN - thiamine-phosphate diphosphorylase activity - 27"^^xsd:string
+    
+    
+Class: GO_0004427
+
+    Annotations: 
+        label_slim_status "IN - inorganic diphosphatase activity - 104"^^xsd:string
+    
+    
+Class: GO_0030955
+
+    Annotations: 
+        label_slim_status "IN - potassium ion binding - 67"^^xsd:string
+    
+    
+Class: GO_0016779
+
+    Annotations: 
+        label_slim_status "IN - nucleotidyltransferase activity - 119"^^xsd:string
+    
+    
+Class: GO_0016415
+
+    Annotations: 
+        label_slim_status "IN - octanoyltransferase activity - 7"^^xsd:string
+    
+    
+Class: GO_0015204
+
+    Annotations: 
+        label_slim_status "IN - urea transmembrane transporter activity - 1"^^xsd:string
+    
+    
+Class: GO_0016655
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor - 63"^^xsd:string
+    
+    
+Class: GO_0004550
+
+    Annotations: 
+        label_slim_status "IN - nucleoside diphosphate kinase activity - 108"^^xsd:string
+    
+    
+Class: GO_0004671
+
+    Annotations: 
+        label_slim_status "IN - protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity - 5"^^xsd:string
+    
+    
+Class: GO_0016774
+
+    Annotations: 
+        label_slim_status "IN - phosphotransferase activity, carboxyl group as acceptor - 1"^^xsd:string
+    
+    
+Class: GO_0016773
+
+    Annotations: 
+        label_slim_status "IN - phosphotransferase activity, alcohol group as acceptor - 73"^^xsd:string
+    
+    
+Class: GO_0004672
+
+    Annotations: 
+        label_slim_status "IN - protein kinase activity - 27"^^xsd:string
+    
+    
+Class: GO_0016772
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring phosphorus-containing groups - 125"^^xsd:string
+    
+    
+Class: GO_0016651
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on NAD(P)H - 123"^^xsd:string
+    
+    
+Class: GO_0004794
+
+    Annotations: 
+        label_slim_status "IN - L-threonine ammonia-lyase activity - 15"^^xsd:string
+    
+    
+Class: GO_0004553
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, hydrolyzing O-glycosyl compounds - 135"^^xsd:string
+    
+    
+Class: GO_0004674
+
+    Annotations: 
+        label_slim_status "IN - protein serine/threonine kinase activity - 10"^^xsd:string
+    
+    
+Class: GO_0004797
+
+    Annotations: 
+        label_slim_status "IN - thymidine kinase activity - 11"^^xsd:string
+    
+    
+Class: GO_0005524
+
+    Annotations: 
+        label_slim_status "IN - ATP binding - 6547"^^xsd:string
+    
+    
+Class: GO_0004798
+
+    Annotations: 
+        label_slim_status "IN - thymidylate kinase activity - 14"^^xsd:string
+    
+    
+Class: GO_0008914
+
+    Annotations: 
+        label_slim_status "IN - leucyltransferase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004435
+
+    Annotations: 
+        label_slim_status "IN - phosphatidylinositol phospholipase C activity - 1"^^xsd:string
+    
+    
+Class: GO_0005525
+
+    Annotations: 
+        label_slim_status "IN - GTP binding - 905"^^xsd:string
+    
+    
+Class: GO_0008915
+
+    Annotations: 
+        label_slim_status "IN - lipid-A-disaccharide synthase activity - 39"^^xsd:string
+    
+    
+Class: GO_0004799
+
+    Annotations: 
+        label_slim_status "IN - thymidylate synthase activity - 22"^^xsd:string
+    
+    
+Class: GO_0004315
+
+    Annotations: 
+        label_slim_status "IN - 3-oxoacyl-[acyl-carrier-protein] synthase activity - 15"^^xsd:string
+    
+    
+Class: GO_0004437
+
+    Annotations: 
+        label_slim_status "OUT - obsolete inositol or phosphatidylinositol phosphatase activity - 124"^^xsd:string
+    
+    
+Class: GO_0004559
+
+    Annotations: 
+        label_slim_status "IN - alpha-mannosidase activity - 8"^^xsd:string
+    
+    
+Class: GO_0050897
+
+    Annotations: 
+        label_slim_status "IN - cobalt ion binding - 55"^^xsd:string
+    
+    
+Class: GO_0050532
+
+    Annotations: 
+        label_slim_status "IN - 2-phosphosulfolactate phosphatase activity - 56"^^xsd:string
+    
+    
+Class: GO_0070008
+
+    Annotations: 
+        label_slim_status "IN - serine-type exopeptidase activity - 28"^^xsd:string
+    
+    
+Class: GO_0042803
+
+    Annotations: 
+        label_slim_status "IN - protein homodimerization activity - 25"^^xsd:string
+    
+    
+Class: GO_0016307
+
+    Annotations: 
+        label_slim_status "IN - phosphatidylinositol phosphate kinase activity - 1"^^xsd:string
+    
+    
+Class: GO_0016668
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor - 13"^^xsd:string
+    
+    
+Class: GO_0016788
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on ester bonds - 62"^^xsd:string
+    
+    
+Class: GO_0016787
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity - 435"^^xsd:string
+    
+    
+Class: GO_0004560
+
+    Annotations: 
+        label_slim_status "IN - alpha-L-fucosidase activity - 2"^^xsd:string
+    
+    
+Class: GO_0016301
+
+    Annotations: 
+        label_slim_status "IN - kinase activity - 76"^^xsd:string
+    
+    
+Class: GO_0016300
+
+    Annotations: 
+        label_slim_status "IN - tRNA (uracil) methyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0016783
+
+    Annotations: 
+        label_slim_status "IN - sulfurtransferase activity - 25"^^xsd:string
+    
+    
+Class: GO_0016661
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on other nitrogenous compounds as donors - 2"^^xsd:string
+    
+    
+Class: GO_0050660
+
+    Annotations: 
+        label_slim_status "IN - flavin adenine dinucleotide binding - 588"^^xsd:string
+    
+    
+Class: GO_0015450
+
+    Annotations: 
+        label_slim_status "IN - P-P-bond-hydrolysis-driven protein transmembrane transporter activity - 143"^^xsd:string
+    
+    
+Class: GO_0016780
+
+    Annotations: 
+        label_slim_status "IN - phosphotransferase activity, for other substituted phosphate groups - 20"^^xsd:string
+    
+    
+Class: GO_0004325
+
+    Annotations: 
+        label_slim_status "IN - ferrochelatase activity - 73"^^xsd:string
+    
+    
+Class: GO_0004326
+
+    Annotations: 
+        label_slim_status "IN - tetrahydrofolylpolyglutamate synthase activity - 6"^^xsd:string
+    
+    
+Class: GO_0008924
+
+    Annotations: 
+        label_slim_status "IN - malate dehydrogenase (quinone) activity - 53"^^xsd:string
+    
+    
+Class: GO_0004329
+
+    Annotations: 
+        label_slim_status "IN - formate-tetrahydrofolate ligase activity - 46"^^xsd:string
+    
+    
+Class: GO_0008927
+
+    Annotations: 
+        label_slim_status "IN - mannonate dehydratase activity - 2"^^xsd:string
+    
+    
+Class: GO_0048029
+
+    Annotations: 
+        label_slim_status "IN - monosaccharide binding - 3"^^xsd:string
+    
+    
+Class: GO_0030976
+
+    Annotations: 
+        label_slim_status "IN - thiamine pyrophosphate binding - 87"^^xsd:string
+    
+    
+Class: GO_0016799
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, hydrolyzing N-glycosyl compounds - 19"^^xsd:string
+    
+    
+Class: GO_0016798
+
+    Annotations: 
+        label_slim_status "IN - hydrolase activity, acting on glycosyl bonds - 8"^^xsd:string
+    
+    
+Class: GO_0004450
+
+    Annotations: 
+        label_slim_status "IN - isocitrate dehydrogenase (NADP+) activity - 8"^^xsd:string
+    
+    
+Class: GO_0004571
+
+    Annotations: 
+        label_slim_status "IN - mannosyl-oligosaccharide 1,2-alpha-mannosidase activity - 5"^^xsd:string
+    
+    
+Class: GO_0004332
+
+    Annotations: 
+        label_slim_status "IN - fructose-bisphosphate aldolase activity - 84"^^xsd:string
+    
+    
+Class: GO_0005542
+
+    Annotations: 
+        label_slim_status "IN - folic acid binding - 10"^^xsd:string
+    
+    
+Class: GO_0008933
+
+    Annotations: 
+        label_slim_status "IN - lytic transglycosylase activity - 2"^^xsd:string
+    
+    
+Class: GO_0016671
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor - 167"^^xsd:string
+    
+    
+Class: GO_0004455
+
+    Annotations: 
+        label_slim_status "IN - ketol-acid reductoisomerase activity - 71"^^xsd:string
+    
+    
+Class: GO_0005544
+
+    Annotations: 
+        label_slim_status "OUT - calcium-dependent phospholipid binding - 2"^^xsd:string
+    
+    
+Class: GO_0016791
+
+    Annotations: 
+        label_slim_status "IN - phosphatase activity - 4"^^xsd:string
+    
+    
+Class: GO_0004336
+
+    Annotations: 
+        label_slim_status "IN - galactosylceramidase activity - 1"^^xsd:string
+    
+    
+Class: GO_0008937
+
+    Annotations: 
+        label_slim_status "IN - ferredoxin-NAD(P) reductase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004339
+
+    Annotations: 
+        label_slim_status "IN - glucan 1,4-alpha-glucosidase activity - 1"^^xsd:string
+    
+    
+Class: GO_0008817
+
+    Annotations: 
+        label_slim_status "IN - cob(I)yrinic acid a,c-diamide adenosyltransferase activity - 52"^^xsd:string
+    
+    
+Class: GO_0008818
+
+    Annotations: 
+        label_slim_status "IN - cobalamin 5'-phosphate synthase activity - 5"^^xsd:string
+    
+    
+Class: GO_0008939
+
+    Annotations: 
+        label_slim_status "IN - nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity - 4"^^xsd:string
+    
+    
+Class: GO_0015109
+
+    Annotations: 
+        label_slim_status "IN - chromate transmembrane transporter activity - 4"^^xsd:string
+    
+    
+Class: GO_0030604
+
+    Annotations: 
+        label_slim_status "IN - 1-deoxy-D-xylulose-5-phosphate reductoisomerase activity - 37"^^xsd:string
+    
+    
+Class: GO_0015238
+
+    Annotations: 
+        label_slim_status "IN - drug transmembrane transporter activity - 5"^^xsd:string
+    
+    
+Class: GO_0004340
+
+    Annotations: 
+        label_slim_status "IN - glucokinase activity - 22"^^xsd:string
+    
+    
+Class: GO_0004462
+
+    Annotations: 
+        label_slim_status "IN - lactoylglutathione lyase activity - 5"^^xsd:string
+    
+    
+Class: GO_0004221
+
+    Annotations: 
+        label_slim_status "OUT - obsolete ubiquitin thiolesterase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004222
+
+    Annotations: 
+        label_slim_status "IN - metalloendopeptidase activity - 311"^^xsd:string
+    
+    
+Class: GO_0015232
+
+    Annotations: 
+        label_slim_status "IN - heme transporter activity - 23"^^xsd:string
+    
+    
+Class: GO_0004345
+
+    Annotations: 
+        label_slim_status "IN - glucose-6-phosphate dehydrogenase activity - 37"^^xsd:string
+    
+    
+Class: GO_0004347
+
+    Annotations: 
+        label_slim_status "IN - glucose-6-phosphate isomerase activity - 46"^^xsd:string
+    
+    
+Class: GO_0008705
+
+    Annotations: 
+        label_slim_status "IN - methionine synthase activity - 46"^^xsd:string
+    
+    
+Class: GO_0005315
+
+    Annotations: 
+        label_slim_status "IN - inorganic phosphate transmembrane transporter activity - 7"^^xsd:string
+    
+    
+Class: GO_0004107
+
+    Annotations: 
+        label_slim_status "IN - chorismate synthase activity - 91"^^xsd:string
+    
+    
+Class: GO_0008703
+
+    Annotations: 
+        label_slim_status "IN - 5-amino-6-(5-phosphoribosylamino)uracil reductase activity - 17"^^xsd:string
+    
+    
+Class: GO_0004349
+
+    Annotations: 
+        label_slim_status "IN - glutamate 5-kinase activity - 9"^^xsd:string
+    
+    
+Class: GO_0008824
+
+    Annotations: 
+        label_slim_status "IN - cyanate hydratase activity - 6"^^xsd:string
+    
+    
+Class: GO_0004109
+
+    Annotations: 
+        label_slim_status "IN - coproporphyrinogen oxidase activity - 186"^^xsd:string
+    
+    
+Class: GO_0051537
+
+    Annotations: 
+        label_slim_status "IN - 2 iron, 2 sulfur cluster binding - 88"^^xsd:string
+    
+    
+Class: GO_0051536
+
+    Annotations: 
+        label_slim_status "IN - iron-sulfur cluster binding - 153"^^xsd:string
+    
+    
+Class: GO_0008829
+
+    Annotations: 
+        label_slim_status "IN - dCTP deaminase activity - 7"^^xsd:string
+    
+    
+Class: GO_0003697
+
+    Annotations: 
+        label_slim_status "IN - single-stranded DNA binding - 165"^^xsd:string
+    
+    
+Class: GO_0019843
+
+    Annotations: 
+        label_slim_status "IN - rRNA binding - 200"^^xsd:string
+    
+    
+Class: GO_0051539
+
+    Annotations: 
+        label_slim_status "IN - 4 iron, 4 sulfur cluster binding - 116"^^xsd:string
+    
+    
+Class: GO_0016209
+
+    Annotations: 
+        label_slim_status "IN - antioxidant activity - 74"^^xsd:string
+    
+    
+Class: GO_0004590
+
+    Annotations: 
+        label_slim_status "IN - orotidine-5'-phosphate decarboxylase activity - 14"^^xsd:string
+    
+    
+Class: GO_0015128
+
+    Annotations: 
+        label_slim_status "IN - gluconate transmembrane transporter activity - 1"^^xsd:string
+    
+    
+Class: GO_0004592
+
+    Annotations: 
+        label_slim_status "IN - pantoate-beta-alanine ligase activity - 46"^^xsd:string
+    
+    
+Class: GO_0004350
+
+    Annotations: 
+        label_slim_status "IN - glutamate-5-semialdehyde dehydrogenase activity - 3"^^xsd:string
+    
+    
+Class: GO_0008830
+
+    Annotations: 
+        label_slim_status "IN - dTDP-4-dehydrorhamnose 3,5-epimerase activity - 22"^^xsd:string
+    
+    
+Class: GO_0004352
+
+    Annotations: 
+        label_slim_status "IN - glutamate dehydrogenase (NAD+) activity - 1"^^xsd:string
+    
+    
+Class: GO_0004474
+
+    Annotations: 
+        label_slim_status "IN - malate synthase activity - 43"^^xsd:string
+    
+    
+Class: GO_0004595
+
+    Annotations: 
+        label_slim_status "IN - pantetheine-phosphate adenylyltransferase activity - 10"^^xsd:string
+    
+    
+Class: GO_0008833
+
+    Annotations: 
+        label_slim_status "IN - deoxyribonuclease IV (phage-T4-induced) activity - 2"^^xsd:string
+    
+    
+Class: GO_0050570
+
+    Annotations: 
+        label_slim_status "IN - 4-hydroxythreonine-4-phosphate dehydrogenase activity - 52"^^xsd:string
+    
+    
+Class: GO_0004476
+
+    Annotations: 
+        label_slim_status "IN - mannose-6-phosphate isomerase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004356
+
+    Annotations: 
+        label_slim_status "IN - glutamate-ammonia ligase activity - 108"^^xsd:string
+    
+    
+Class: GO_0008831
+
+    Annotations: 
+        label_slim_status "IN - dTDP-4-dehydrorhamnose reductase activity - 21"^^xsd:string
+    
+    
+Class: GO_0004114
+
+    Annotations: 
+        label_slim_status "IN - 3',5'-cyclic-nucleotide phosphodiesterase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004478
+
+    Annotations: 
+        label_slim_status "IN - methionine adenosyltransferase activity - 97"^^xsd:string
+    
+    
+Class: GO_0004357
+
+    Annotations: 
+        label_slim_status "IN - glutamate-cysteine ligase activity - 15"^^xsd:string
+    
+    
+Class: GO_0004358
+
+    Annotations: 
+        label_slim_status "IN - glutamate N-acetyltransferase activity - 61"^^xsd:string
+    
+    
+Class: GO_0008716
+
+    Annotations: 
+        label_slim_status "IN - D-alanine-D-alanine ligase activity - 46"^^xsd:string
+    
+    
+Class: GO_0008837
+
+    Annotations: 
+        label_slim_status "IN - diaminopimelate epimerase activity - 31"^^xsd:string
+    
+    
+Class: GO_0004359
+
+    Annotations: 
+        label_slim_status "IN - glutaminase activity - 10"^^xsd:string
+    
+    
+Class: GO_0005328
+
+    Annotations: 
+        label_slim_status "IN - neurotransmitter:sodium symporter activity - 15"^^xsd:string
+    
+    
+Class: GO_0048037
+
+    Annotations: 
+        label_slim_status "OUT - cofactor binding - 89"^^xsd:string
+    
+    
+Class: GO_0048038
+
+    Annotations: 
+        label_slim_status "OUT - quinone binding - 136"^^xsd:string
+    
+    
+Class: GO_0008839
+
+    Annotations: 
+        label_slim_status "IN - 4-hydroxy-tetrahydrodipicolinate reductase - 38"^^xsd:string
+    
+    
+Class: GO_0003688
+
+    Annotations: 
+        label_slim_status "IN - DNA replication origin binding - 4"^^xsd:string
+    
+    
+Class: GO_0000179
+
+    Annotations: 
+        label_slim_status "IN - rRNA (adenine-N6,N6-)-dimethyltransferase activity - 17"^^xsd:string
+    
+    
+Class: GO_0003684
+
+    Annotations: 
+        label_slim_status "IN - damaged DNA binding - 48"^^xsd:string
+    
+    
+Class: GO_0000175
+
+    Annotations: 
+        label_slim_status "IN - 3'-5'-exoribonuclease activity - 19"^^xsd:string
+    
+    
+Class: GO_0030983
+
+    Annotations: 
+        label_slim_status "IN - mismatched DNA binding - 118"^^xsd:string
+    
+    
+Class: GO_0042602
+
+    Annotations: 
+        label_slim_status "IN - riboflavin reductase (NADPH) activity - 11"^^xsd:string
+    
+    
+Class: GO_0008962
+
+    Annotations: 
+        label_slim_status "IN - phosphatidylglycerophosphatase activity - 9"^^xsd:string
+    
+    
+Class: GO_0004363
+
+    Annotations: 
+        label_slim_status "IN - glutathione synthase activity - 72"^^xsd:string
+    
+    
+Class: GO_0008965
+
+    Annotations: 
+        label_slim_status "IN - phosphoenolpyruvate-protein phosphotransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004003
+
+    Annotations: 
+        label_slim_status "IN - ATP-dependent DNA helicase activity - 100"^^xsd:string
+    
+    
+Class: GO_0004366
+
+    Annotations: 
+        label_slim_status "IN - glycerol-3-phosphate O-acyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004488
+
+    Annotations: 
+        label_slim_status "IN - methylenetetrahydrofolate dehydrogenase (NADP+) activity - 85"^^xsd:string
+    
+    
+Class: GO_0008963
+
+    Annotations: 
+        label_slim_status "IN - phospho-N-acetylmuramoyl-pentapeptide-transferase activity - 28"^^xsd:string
+    
+    
+Class: GO_0004367
+
+    Annotations: 
+        label_slim_status "IN - glycerol-3-phosphate dehydrogenase [NAD+] activity - 2"^^xsd:string
+    
+    
+Class: GO_0016462
+
+    Annotations: 
+        label_slim_status "IN - pyrophosphatase activity - 1"^^xsd:string
+    
+    
+Class: GO_0005215
+
+    Annotations: 
+        label_slim_status "IN - transporter activity - 290"^^xsd:string
+    
+    
+Class: GO_0008964
+
+    Annotations: 
+        label_slim_status "IN - phosphoenolpyruvate carboxylase activity - 29"^^xsd:string
+    
+    
+Class: GO_0004489
+
+    Annotations: 
+        label_slim_status "IN - methylenetetrahydrofolate reductase (NAD(P)H) activity - 10"^^xsd:string
+    
+    
+Class: GO_0004126
+
+    Annotations: 
+        label_slim_status "IN - cytidine deaminase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004368
+
+    Annotations: 
+        label_slim_status "IN - glycerol-3-phosphate dehydrogenase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004127
+
+    Annotations: 
+        label_slim_status "IN - cytidylate kinase activity - 35"^^xsd:string
+    
+    
+Class: GO_0005216
+
+    Annotations: 
+        label_slim_status "IN - ion channel activity - 20"^^xsd:string
+    
+    
+Class: GO_0004129
+
+    Annotations: 
+        label_slim_status "IN - cytochrome-c oxidase activity - 314"^^xsd:string
+    
+    
+Class: GO_0008725
+
+    Annotations: 
+        label_slim_status "IN - DNA-3-methyladenine glycosylase activity - 4"^^xsd:string
+    
+    
+Class: GO_0008967
+
+    Annotations: 
+        label_slim_status "IN - phosphoglycolate phosphatase activity - 1"^^xsd:string
+    
+    
+Class: GO_0000049
+
+    Annotations: 
+        label_slim_status "IN - tRNA binding - 102"^^xsd:string
+    
+    
+Class: GO_0003678
+
+    Annotations: 
+        label_slim_status "IN - DNA helicase activity - 69"^^xsd:string
+    
+    
+Class: owl:Thing
+
+    
+Class: GO_0003677
+
+    Annotations: 
+        label_slim_status "IN - DNA binding - 2394"^^xsd:string
+    
+    
+Class: GO_0003676
+
+    Annotations: 
+        label_slim_status "IN - nucleic acid binding - 293"^^xsd:string
+    
+    
+Class: GO_0050144
+
+    Annotations: 
+        label_slim_status "IN - nucleoside deoxyribosyltransferase activity - 4"^^xsd:string
+    
+    
+Class: GO_0003796
+
+    Annotations: 
+        label_slim_status "IN - lysozyme activity - 2"^^xsd:string
+    
+    
+Class: GO_0000166
+
+    Annotations: 
+        label_slim_status "IN - nucleotide binding - 1599"^^xsd:string
+    
+    
+Class: GO_0000287
+
+    Annotations: 
+        label_slim_status "IN - magnesium ion binding - 617"^^xsd:string
+    
+    
+Class: GO_0004371
+
+    Annotations: 
+        label_slim_status "IN - glycerone kinase activity - 8"^^xsd:string
+    
+    
+Class: GO_0004372
+
+    Annotations: 
+        label_slim_status "IN - glycine hydroxymethyltransferase activity - 116"^^xsd:string
+    
+    
+Class: GO_0004252
+
+    Annotations: 
+        label_slim_status "IN - serine-type endopeptidase activity - 289"^^xsd:string
+    
+    
+Class: GO_0008973
+
+    Annotations: 
+        label_slim_status "IN - phosphopentomutase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004375
+
+    Annotations: 
+        label_slim_status "IN - glycine dehydrogenase (decarboxylating) activity - 66"^^xsd:string
+    
+    
+Class: GO_0016597
+
+    Annotations: 
+        label_slim_status "IN - amino acid binding - 52"^^xsd:string
+    
+    
+Class: GO_0004013
+
+    Annotations: 
+        label_slim_status "IN - adenosylhomocysteinase activity - 112"^^xsd:string
+    
+    
+Class: GO_0008976
+
+    Annotations: 
+        label_slim_status "IN - polyphosphate kinase activity - 55"^^xsd:string
+    
+    
+Class: GO_0004134
+
+    Annotations: 
+        label_slim_status "IN - 4-alpha-glucanotransferase activity - 29"^^xsd:string
+    
+    
+Class: GO_0015385
+
+    Annotations: 
+        label_slim_status "IN - sodium:proton antiporter activity - 13"^^xsd:string
+    
+    
+Class: GO_0008855
+
+    Annotations: 
+        label_slim_status "IN - exodeoxyribonuclease VII activity - 10"^^xsd:string
+    
+    
+Class: GO_0004497
+
+    Annotations: 
+        label_slim_status "IN - monooxygenase activity - 3"^^xsd:string
+    
+    
+Class: GO_0005102
+
+    Annotations: 
+        label_slim_status "IN - receptor binding - 1"^^xsd:string
+    
+    
+Class: GO_0004014
+
+    Annotations: 
+        label_slim_status "IN - adenosylmethionine decarboxylase activity - 39"^^xsd:string
+    
+    
+Class: GO_0008977
+
+    Annotations: 
+        label_slim_status "IN - prephenate dehydrogenase activity - 14"^^xsd:string
+    
+    
+Class: GO_0008974
+
+    Annotations: 
+        label_slim_status "IN - phosphoribulokinase activity - 11"^^xsd:string
+    
+    
+Class: GO_0004499
+
+    Annotations: 
+        label_slim_status "IN - N,N-dimethylaniline monooxygenase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004379
+
+    Annotations: 
+        label_slim_status "IN - glycylpeptide N-tetradecanoyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004017
+
+    Annotations: 
+        label_slim_status "IN - adenylate kinase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004018
+
+    Annotations: 
+        label_slim_status "IN - N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity - 5"^^xsd:string
+    
+    
+Class: GO_0004019
+
+    Annotations: 
+        label_slim_status "IN - adenylosuccinate synthase activity - 121"^^xsd:string
+    
+    
+Class: GO_0000156
+
+    Annotations: 
+        label_slim_status "IN - phosphorelay response regulator activity - 108"^^xsd:string
+    
+    
+Class: GO_0000036
+
+    Annotations: 
+        label_slim_status "OUT - ACP phosphopantetheine attachment site binding involved in fatty acid biosynthetic process - 18"^^xsd:string
+    
+    
+Class: GO_0000155
+
+    Annotations: 
+        label_slim_status "IN - phosphorelay sensor kinase activity - 27"^^xsd:string
+    
+    
+Class: GO_0000150
+
+    Annotations: 
+        label_slim_status "IN - recombinase activity - 10"^^xsd:string
+    
+    
+Class: GO_0042626
+
+    Annotations: 
+        label_slim_status "IN - ATPase activity, coupled to transmembrane movement of substances - 52"^^xsd:string
+    
+    
+Class: GO_0004140
+
+    Annotations: 
+        label_slim_status "IN - dephospho-CoA kinase activity - 29"^^xsd:string
+    
+    
+Class: GO_0005351
+
+    Annotations: 
+        label_slim_status "IN - sugar:proton symporter activity - 14"^^xsd:string
+    
+    
+Class: GO_0015159
+
+    Annotations: 
+        label_slim_status "IN - polysaccharide transmembrane transporter activity - 3"^^xsd:string
+    
+    
+Class: GO_0008863
+
+    Annotations: 
+        label_slim_status "IN - formate dehydrogenase (NAD+) activity - 2"^^xsd:string
+    
+    
+Class: GO_0008984
+
+    Annotations: 
+        label_slim_status "IN - protein-glutamate methylesterase activity - 1"^^xsd:string
+    
+    
+Class: GO_0015035
+
+    Annotations: 
+        label_slim_status "IN - protein disulfide oxidoreductase activity - 28"^^xsd:string
+    
+    
+Class: GO_0004143
+
+    Annotations: 
+        label_slim_status "IN - diacylglycerol kinase activity - 15"^^xsd:string
+    
+    
+Class: GO_0004022
+
+    Annotations: 
+        label_slim_status "IN - alcohol dehydrogenase (NAD) activity - 6"^^xsd:string
+    
+    
+Class: GO_0004386
+
+    Annotations: 
+        label_slim_status "IN - helicase activity - 65"^^xsd:string
+    
+    
+Class: GO_0008745
+
+    Annotations: 
+        label_slim_status "IN - N-acetylmuramoyl-L-alanine amidase activity - 108"^^xsd:string
+    
+    
+Class: GO_0008987
+
+    Annotations: 
+        label_slim_status "OUT - quinolinate synthetase A activity - 43"^^xsd:string
+    
+    
+Class: GO_0005234
+
+    Annotations: 
+        label_slim_status "IN - extracellular-glutamate-gated ion channel activity - 1"^^xsd:string
+    
+    
+Class: GO_0004146
+
+    Annotations: 
+        label_slim_status "IN - dihydrofolate reductase activity - 8"^^xsd:string
+    
+    
+Class: GO_0008864
+
+    Annotations: 
+        label_slim_status "IN - formyltetrahydrofolate deformylase activity - 2"^^xsd:string
+    
+    
+Class: GO_0008508
+
+    Annotations: 
+        label_slim_status "IN - bile acid:sodium symporter activity - 7"^^xsd:string
+    
+    
+Class: GO_0003779
+
+    Annotations: 
+        label_slim_status "IN - actin binding - 7"^^xsd:string
+    
+    
+Class: GO_0003899
+
+    Annotations: 
+        label_slim_status "IN - DNA-directed RNA polymerase activity - 523"^^xsd:string
+    
+    
+Class: GO_0003777
+
+    Annotations: 
+        label_slim_status "IN - microtubule motor activity - 28"^^xsd:string
+    
+    
+Class: GO_0003896
+
+    Annotations: 
+        label_slim_status "IN - DNA primase activity - 35"^^xsd:string
+    
+    
+Class: GO_0003774
+
+    Annotations: 
+        label_slim_status "IN - motor activity - 38"^^xsd:string
+    
+    
+Class: GO_0043752
+
+    Annotations: 
+        label_slim_status "IN - adenosylcobinamide kinase activity - 15"^^xsd:string
+    
+    
+Class: GO_0004392
+
+    Annotations: 
+        label_slim_status "IN - heme oxygenase (decyclizing) activity - 31"^^xsd:string
+    
+    
+Class: GO_0004150
+
+    Annotations: 
+        label_slim_status "IN - dihydroneopterin aldolase activity - 5"^^xsd:string
+    
+    
+Class: GO_0004152
+
+    Annotations: 
+        label_slim_status "IN - dihydroorotate dehydrogenase activity - 76"^^xsd:string
+    
+    
+Class: GO_0008750
+
+    Annotations: 
+        label_slim_status "IN - NAD(P)+ transhydrogenase (AB-specific) activity - 49"^^xsd:string
+    
+    
+Class: GO_0005488
+
+    Annotations: 
+        label_slim_status "OUT - binding - 2441"^^xsd:string
+    
+    
+Class: GO_0004399
+
+    Annotations: 
+        label_slim_status "IN - histidinol dehydrogenase activity - 86"^^xsd:string
+    
+    
+Class: GO_0005247
+
+    Annotations: 
+        label_slim_status "IN - voltage-gated chloride channel activity - 7"^^xsd:string
+    
+    
+Class: GO_0004037
+
+    Annotations: 
+        label_slim_status "IN - allantoicase activity - 6"^^xsd:string
+    
+    
+Class: GO_0016491
+
+    Annotations: 
+        label_slim_status "IN - oxidoreductase activity - 2486"^^xsd:string
+    
+    
+Class: GO_0008519
+
+    Annotations: 
+        label_slim_status "IN - ammonium transmembrane transporter activity - 1"^^xsd:string
+    
+    
+Class: GO_0008759
+
+    Annotations: 
+        label_slim_status "IN - UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity - 115"^^xsd:string
+    
+    
+Class: GO_0001104
+
+    Annotations: 
+        label_slim_status "OUT - RNA polymerase II transcription cofactor activity - 1"^^xsd:string
+    
+    
+Class: GO_0003887
+
+    Annotations: 
+        label_slim_status "IN - DNA-directed DNA polymerase activity - 268"^^xsd:string
+    
+    
+Class: GO_0003885
+
+    Annotations: 
+        label_slim_status "IN - D-arabinono-1,4-lactone oxidase activity - 1"^^xsd:string
+    
+    
+Class: GO_0003883
+
+    Annotations: 
+        label_slim_status "IN - CTP synthase activity - 96"^^xsd:string
+    
+    
+Class: GO_0008880
+
+    Annotations: 
+        label_slim_status "IN - glucuronate isomerase activity - 3"^^xsd:string
+    
+    
+Class: GO_0004040
+
+    Annotations: 
+        label_slim_status "IN - amidase activity - 7"^^xsd:string
+    
+    
+Class: GO_0004161
+
+    Annotations: 
+        label_slim_status "IN - dimethylallyltranstransferase activity - 2"^^xsd:string
+    
+    
+Class: GO_0016149
+
+    Annotations: 
+        label_slim_status "IN - translation release factor activity, codon specific - 34"^^xsd:string
+    
+    
+Class: GO_0008761
+
+    Annotations: 
+        label_slim_status "IN - UDP-N-acetylglucosamine 2-epimerase activity - 14"^^xsd:string
+    
+    
+Class: GO_0015299
+
+    Annotations: 
+        label_slim_status "IN - solute:proton antiporter activity - 14"^^xsd:string
+    
+    
+Class: GO_0008762
+
+    Annotations: 
+        label_slim_status "IN - UDP-N-acetylmuramate dehydrogenase activity - 122"^^xsd:string
+    
+    
+Class: GO_0004045
+
+    Annotations: 
+        label_slim_status "IN - aminoacyl-tRNA hydrolase activity - 113"^^xsd:string
+    
+    
+Class: GO_0008883
+
+    Annotations: 
+        label_slim_status "IN - glutamyl-tRNA reductase activity - 22"^^xsd:string
+    
+    
+Class: GO_0015297
+
+    Annotations: 
+        label_slim_status "IN - antiporter activity - 5"^^xsd:string
+    
+    
+Class: GO_0008767
+
+    Annotations: 
+        label_slim_status "IN - UDP-galactopyranose mutase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004047
+
+    Annotations: 
+        label_slim_status "IN - aminomethyltransferase activity - 67"^^xsd:string
+    
+    
+Class: GO_0008889
+
+    Annotations: 
+        label_slim_status "IN - glycerophosphodiester phosphodiesterase activity - 9"^^xsd:string
+    
+    
+Class: GO_0008887
+
+    Annotations: 
+        label_slim_status "IN - glycerate kinase activity - 2"^^xsd:string
+    
+    
+Class: GO_0008409
+
+    Annotations: 
+        label_slim_status "IN - 5'-3' exonuclease activity - 40"^^xsd:string
+    
+    
+Class: GO_0050380
+
+    Annotations: 
+        label_slim_status "IN - undecaprenyl-diphosphatase activity - 33"^^xsd:string
+    
+    
+Class: GO_0003879
+
+    Annotations: 
+        label_slim_status "IN - ATP phosphoribosyltransferase activity - 25"^^xsd:string
+    
+    
+Class: GO_0008408
+
+    Annotations: 
+        label_slim_status "IN - 3'-5' exonuclease activity - 262"^^xsd:string
+    
+    
+Class: GO_0008649
+
+    Annotations: 
+        label_slim_status "IN - rRNA methyltransferase activity - 31"^^xsd:string
+    
+    
+Class: GO_0003878
+
+    Annotations: 
+        label_slim_status "IN - ATP citrate synthase activity - 6"^^xsd:string
+    
+    
+Class: GO_0003877
+
+    Annotations: 
+        label_slim_status "IN - ATP adenylyltransferase activity - 10"^^xsd:string
+    
+    
+Class: GO_0003755
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-prolyl cis-trans isomerase activity - 147"^^xsd:string
+    
+    
+Class: GO_0003995
+
+    Annotations: 
+        label_slim_status "IN - acyl-CoA dehydrogenase activity - 132"^^xsd:string
+    
+    
+Class: GO_0003874
+
+    Annotations: 
+        label_slim_status "IN - 6-pyruvoyltetrahydropterin synthase activity - 29"^^xsd:string
+    
+    
+Class: GO_0003994
+
+    Annotations: 
+        label_slim_status "IN - aconitate hydratase activity - 67"^^xsd:string
+    
+    
+Class: GO_0003873
+
+    Annotations: 
+        label_slim_status "IN - 6-phosphofructo-2-kinase activity - 3"^^xsd:string
+    
+    
+Class: GO_0003872
+
+    Annotations: 
+        label_slim_status "IN - 6-phosphofructokinase activity - 8"^^xsd:string
+    
+    
+Class: GO_0003993
+
+    Annotations: 
+        label_slim_status "IN - acid phosphatase activity - 2"^^xsd:string
+    
+    
+Class: GO_0003871
+
+    Annotations: 
+        label_slim_status "IN - 5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0018576
+
+    Annotations: 
+        label_slim_status "IN - catechol 1,2-dioxygenase activity - 1"^^xsd:string
+    
+    
+Class: GO_0030337
+
+    Annotations: 
+        label_slim_status "OUT - DNA polymerase processivity factor activity - 2"^^xsd:string
+    
+    
+Class: GO_0008531
+
+    Annotations: 
+        label_slim_status "IN - riboflavin kinase activity - 63"^^xsd:string
+    
+    
+Class: GO_0004174
+
+    Annotations: 
+        label_slim_status "IN - electron-transferring-flavoprotein dehydrogenase activity - 8"^^xsd:string
+    
+    
+Class: GO_0008410
+
+    Annotations: 
+        label_slim_status "IN - CoA-transferase activity - 6"^^xsd:string
+    
+    
+Class: GO_0004055
+
+    Annotations: 
+        label_slim_status "IN - argininosuccinate synthase activity - 170"^^xsd:string
+    
+    
+Class: GO_0009982
+
+    Annotations: 
+        label_slim_status "IN - pseudouridine synthase activity - 81"^^xsd:string
+    
+    
+Class: GO_0004176
+
+    Annotations: 
+        label_slim_status "IN - ATP-dependent peptidase activity - 58"^^xsd:string
+    
+    
+Class: GO_0016158
+
+    Annotations: 
+        label_slim_status "IN - 3-phytase activity - 11"^^xsd:string
+    
+    
+Class: GO_0008772
+
+    Annotations: 
+        label_slim_status "IN - [isocitrate dehydrogenase (NADP+)] kinase activity - 2"^^xsd:string
+    
+    
+Class: GO_0004177
+
+    Annotations: 
+        label_slim_status "IN - aminopeptidase activity - 123"^^xsd:string
+    
+    
+Class: GO_0004298
+
+    Annotations: 
+        label_slim_status "IN - threonine-type endopeptidase activity - 4"^^xsd:string
+    
+    
+Class: GO_0004057
+
+    Annotations: 
+        label_slim_status "IN - arginyltransferase activity - 5"^^xsd:string
+    
+    
+Class: GO_0008658
+
+    Annotations: 
+        label_slim_status "IN - penicillin binding - 54"^^xsd:string
+    
+    
+Class: GO_0051287
+
+    Annotations: 
+        label_slim_status "IN - NAD binding - 397"^^xsd:string
+    
+    
+Class: GO_0008897
+
+    Annotations: 
+        label_slim_status "IN - holo-[acyl-carrier-protein] synthase activity - 12"^^xsd:string
+    
+    
+Class: GO_0046912
+
+    Annotations: 
+        label_slim_status "IN - transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer - 177"^^xsd:string
+    
+    
+Class: GO_0008898
+
+    Annotations: 
+        label_slim_status "IN - S-adenosylmethionine-homocysteine S-methyltransferase activity - 61"^^xsd:string
+    
+    
+Class: GO_0016153
+
+    Annotations: 
+        label_slim_status "IN - urocanate hydratase activity - 12"^^xsd:string
+    
+    
+Class: GO_0016151
+
+    Annotations: 
+        label_slim_status "IN - nickel cation binding - 190"^^xsd:string
+    
+    
+Class: GO_0046914
+
+    Annotations: 
+        label_slim_status "IN - transition metal ion binding - 10"^^xsd:string
+    
+    
+Class: GO_0003989
+
+    Annotations: 
+        label_slim_status "IN - acetyl-CoA carboxylase activity - 119"^^xsd:string
+    
+    
+Class: GO_0003747
+
+    Annotations: 
+        label_slim_status "IN - translation release factor activity - 63"^^xsd:string
+    
+    
+Class: GO_0003746
+
+    Annotations: 
+        label_slim_status "IN - translation elongation factor activity - 100"^^xsd:string
+    
+    
+Class: GO_0018580
+
+    Annotations: 
+        label_slim_status "IN - nitronate monooxygenase activity - 6"^^xsd:string
+    
+    
+Class: GO_0031419
+
+    Annotations: 
+        label_slim_status "IN - cobalamin binding - 114"^^xsd:string
+    
+    
+Class: GO_0003743
+
+    Annotations: 
+        label_slim_status "IN - translation initiation factor activity - 174"^^xsd:string
+    
+    
+Class: GO_0003864
+
+    Annotations: 
+        label_slim_status "IN - 3-methyl-2-oxobutanoate hydroxymethyltransferase activity - 45"^^xsd:string
+    
+    
+Class: GO_0004180
+
+    Annotations: 
+        label_slim_status "IN - carboxypeptidase activity - 8"^^xsd:string
+    
+    
+Class: GO_0004181
+
+    Annotations: 
+        label_slim_status "IN - metallocarboxypeptidase activity - 35"^^xsd:string
+    
+    
+Class: GO_0050080
+
+    Annotations: 
+        label_slim_status "IN - malonyl-CoA decarboxylase activity - 4"^^xsd:string
+    
+    
+Class: GO_0004185
+
+    Annotations: 
+        label_slim_status "IN - serine-type carboxypeptidase activity - 9"^^xsd:string
+    
+    
+Class: GO_0004066
+
+    Annotations: 
+        label_slim_status "IN - asparagine synthase (glutamine-hydrolyzing) activity - 34"^^xsd:string
+    
+    
+Class: GO_0015079
+
+    Annotations: 
+        label_slim_status "IN - potassium ion transmembrane transporter activity - 1"^^xsd:string
+    
+    
+Class: GO_0016168
+
+    Annotations: 
+        label_slim_status "IN - chlorophyll binding - 104"^^xsd:string
+    
+    
+Class: GO_0008784
+
+    Annotations: 
+        label_slim_status "IN - alanine racemase activity - 28"^^xsd:string
+    
+    
+Class: GO_0042301
+
+    Annotations: 
+        label_slim_status "IN - phosphate ion binding - 11"^^xsd:string
+    
+    
+Class: GO_0004068
+
+    Annotations: 
+        label_slim_status "IN - aspartate 1-decarboxylase activity - 1"^^xsd:string
+    
+    
+Class: GO_0015078
+
+    Annotations: 
+        label_slim_status "IN - hydrogen ion transmembrane transporter activity - 142"^^xsd:string
+    
+    
+Class: GO_0003857
+
+    Annotations: 
+        label_slim_status "IN - 3-hydroxyacyl-CoA dehydrogenase activity - 38"^^xsd:string
+    
+    
+Class: GO_0016161
+
+    Annotations: 
+        label_slim_status "IN - beta-amylase activity - 2"^^xsd:string
+    
+    
+Class: GO_0003978
+
+    Annotations: 
+        label_slim_status "IN - UDP-glucose 4-epimerase activity - 1"^^xsd:string
+    
+    
+Class: GO_0003735
+
+    Annotations: 
+        label_slim_status "IN - structural constituent of ribosome - 2070"^^xsd:string
+    
+    
+Class: GO_0003855
+
+    Annotations: 
+        label_slim_status "IN - 3-dehydroquinate dehydratase activity - 91"^^xsd:string
+    
+    
+Class: GO_0003854
+
+    Annotations: 
+        label_slim_status "IN - 3-beta-hydroxy-delta5-steroid dehydrogenase activity - 2"^^xsd:string
+    
+    
+Class: GO_0003852
+
+    Annotations: 
+        label_slim_status "IN - 2-isopropylmalate synthase activity - 10"^^xsd:string
+    
+    
+Class: GO_0018112
+
+    Annotations: 
+        label_slim_status "IN - proline racemase activity - 4"^^xsd:string
+    
+    
+Class: GO_0001671
+
+    Annotations: 
+        label_slim_status "OUT - ATPase activator activity - 1"^^xsd:string
+    
+    
+Class: GO_0030234
+
+    Annotations: 
+        label_slim_status "OUT - enzyme regulator activity - 45"^^xsd:string
+    
+    
+Class: GO_0042586
+
+    Annotations: 
+        label_slim_status "IN - peptide deformylase activity - 12"^^xsd:string
+    
+    
+Class: GO_0019205
+
+    Annotations: 
+        label_slim_status "IN - nucleobase-containing compound kinase activity - 51"^^xsd:string
+    
+    
+Class: GO_0004190
+
+    Annotations: 
+        label_slim_status "IN - aspartic-type endopeptidase activity - 24"^^xsd:string
+    
+    
+Class: GO_0008792
+
+    Annotations: 
+        label_slim_status "IN - arginine decarboxylase activity - 4"^^xsd:string
+    
+    
+Class: GO_0004072
+
+    Annotations: 
+        label_slim_status "IN - aspartate kinase activity - 4"^^xsd:string
+    
+    
+Class: GO_0005283
+
+    Annotations: 
+        label_slim_status "IN - sodium:amino acid symporter activity - 16"^^xsd:string
+    
+    
+Class: GO_0008430
+
+    Annotations: 
+        label_slim_status "OUT - selenium binding - 9"^^xsd:string
+    
+    
+Class: GO_0004073
+
+    Annotations: 
+        label_slim_status "IN - aspartate-semialdehyde dehydrogenase activity - 1"^^xsd:string
+    
+    
+Class: GO_0004197
+
+    Annotations: 
+        label_slim_status "IN - cysteine-type endopeptidase activity - 10"^^xsd:string
+    
+    
+Class: GO_0005044
+
+    Annotations: 
+        label_slim_status "IN - scavenger receptor activity - 3"^^xsd:string
+    
+    
+Class: GO_0042578
+
+    Annotations: 
+        label_slim_status "IN - phosphoric ester hydrolase activity - 3"^^xsd:string
+    
+    
+Class: GO_0004198
+
+    Annotations: 
+        label_slim_status "IN - calcium-dependent cysteine-type endopeptidase activity - 3"^^xsd:string
+    
+    
+Class: GO_0008312
+
+    Annotations: 
+        label_slim_status "IN - 7S RNA binding - 62"^^xsd:string
+    
+    
+Class: GO_0046933
+
+    Annotations: 
+        label_slim_status "IN - proton-transporting ATP synthase activity, rotational mechanism - 177"^^xsd:string
+    
+    
+Class: GO_0008556
+
+    Annotations: 
+        label_slim_status "IN - potassium-transporting ATPase activity - 1"^^xsd:string
+    
+    
+Class: GO_0008677
+
+    Annotations: 
+        label_slim_status "IN - 2-dehydropantoate 2-reductase activity - 5"^^xsd:string
+    
+    
+Class: GO_0003849
+
+    Annotations: 
+        label_slim_status "IN - 3-deoxy-7-phosphoheptulonate synthase activity - 37"^^xsd:string
+    
+    
+Class: GO_0015087
+
+    Annotations: 
+        label_slim_status "IN - cobalt ion transmembrane transporter activity - 5"^^xsd:string
+    
+    
+Class: GO_0003848
+
+    Annotations: 
+        label_slim_status "IN - 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity - 49"^^xsd:string
+    
+    
+Class: GO_0003725
+
+    Annotations: 
+        label_slim_status "IN - double-stranded RNA binding - 2"^^xsd:string
+    
+    
+Class: GO_0003723
+
+    Annotations: 
+        label_slim_status "IN - RNA binding - 940"^^xsd:string
+    
+    
+Class: GO_0000334
+
+    Annotations: 
+        label_slim_status "IN - 3-hydroxyanthranilate 3,4-dioxygenase activity - 2"^^xsd:string
+    
+    
+Class: GO_0003964
+
+    Annotations: 
+        label_slim_status "IN - RNA-directed DNA polymerase activity - 6"^^xsd:string
+    
+    
+Class: GO_0003842
+
+    Annotations: 
+        label_slim_status "IN - 1-pyrroline-5-carboxylate dehydrogenase activity - 4"^^xsd:string
+    
+    
+Class: GO_0003840
+
+    Annotations: 
+        label_slim_status "IN - gamma-glutamyltransferase activity - 54"^^xsd:string
+    
+    
+Class: GO_0019211
+
+    Annotations: 
+        label_slim_status "OUT - phosphatase activator activity - 1"^^xsd:string
+    
+    
+Class: GO_0004086
+
+    Annotations: 
+        label_slim_status "OUT - obsolete carbamoyl-phosphate synthase activity - 118"^^xsd:string
+    
+    
+Class: GO_0008686
+
+    Annotations: 
+        label_slim_status "IN - 3,4-dihydroxy-2-butanone-4-phosphate synthase activity - 52"^^xsd:string
+    
+    
+Class: GO_0008442
+
+    Annotations: 
+        label_slim_status "IN - 3-hydroxyisobutyrate dehydrogenase activity - 3"^^xsd:string
+    
+    
+Class: GO_0008324
+
+    Annotations: 
+        label_slim_status "IN - cation transmembrane transporter activity - 31"^^xsd:string
+    
+    
+Class: GO_0008565
+
+    Annotations: 
+        label_slim_status "IN - protein transporter activity - 35"^^xsd:string
+    
+    
+Class: GO_0008685
+
+    Annotations: 
+        label_slim_status "IN - 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity - 27"^^xsd:string
+    
+    
+Class: GO_0004089
+
+    Annotations: 
+        label_slim_status "IN - carbonate dehydratase activity - 3"^^xsd:string
+    
+    
+Class: GO_0017153
+
+    Annotations: 
+        label_slim_status "IN - sodium:dicarboxylate symporter activity - 12"^^xsd:string
+    
+    
+Class: GO_0015093
+
+    Annotations: 
+        label_slim_status "IN - ferrous iron transmembrane transporter activity - 15"^^xsd:string
+    
+    
+Class: GO_0017150
+
+    Annotations: 
+        label_slim_status "IN - tRNA dihydrouridine synthase activity - 50"^^xsd:string
+    
+    
+Class: GO_0022857
+
+    Annotations: 
+        label_slim_status "IN - transmembrane transporter activity - 4"^^xsd:string
+    
+    
+Class: GO_0003713
+
+    Annotations: 
+        label_slim_status "OUT - transcription coactivator activity - 1"^^xsd:string
+    
+    
+Class: GO_0003951
+
+    Annotations: 
+        label_slim_status "IN - NAD+ kinase activity - 62"^^xsd:string
+    
+    
+Class: GO_0003830
+
+    Annotations: 
+        label_slim_status "IN - beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity - 6"^^xsd:string
+    
+    
+Class: GO_0003950
+
+    Annotations: 
+        label_slim_status "IN - NAD+ ADP-ribosyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0046961
+
+    Annotations: 
+        label_slim_status "IN - proton-transporting ATPase activity, rotational mechanism - 133"^^xsd:string
+    
+    
+Class: GO_0005184
+
+    Annotations: 
+        label_slim_status "IN - neuropeptide hormone activity - 1"^^xsd:string
+    
+    
+Class: GO_0004096
+
+    Annotations: 
+        label_slim_status "IN - catalase activity - 5"^^xsd:string
+    
+    
+Class: GO_0030145
+
+    Annotations: 
+        label_slim_status "IN - manganese ion binding - 91"^^xsd:string
+    
+    
+Class: GO_0051087
+
+    Annotations: 
+        label_slim_status "IN - chaperone binding - 26"^^xsd:string
+    
+    
+Class: GO_0003827
+
+    Annotations: 
+        label_slim_status "IN - alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0051082
+
+    Annotations: 
+        label_slim_status "IN - unfolded protein binding - 168"^^xsd:string
+    
+    
+Class: GO_0003824
+
+    Annotations: 
+        label_slim_status "OUT - catalytic activity - 6765"^^xsd:string
+    
+    
+Class: GO_0003700
+
+    Annotations: 
+        label_slim_status "IN - transcription factor activity, sequence-specific DNA binding - 506"^^xsd:string
+    
+    
+Class: GO_0003942
+
+    Annotations: 
+        label_slim_status "IN - N-acetyl-gamma-glutamyl-phosphate reductase activity - 27"^^xsd:string
+    
+    
+Class: GO_0003941
+
+    Annotations: 
+        label_slim_status "IN - L-serine ammonia-lyase activity - 1"^^xsd:string
+    
+    
+Class: GO_0043565
+
+    Annotations: 
+        label_slim_status "IN - sequence-specific DNA binding - 91"^^xsd:string
+    
+    
+Class: GO_0030246
+
+    Annotations: 
+        label_slim_status "IN - carbohydrate binding - 48"^^xsd:string
+    
+    
+Class: GO_0019239
+
+    Annotations: 
+        label_slim_status "OUT - deaminase activity - 3"^^xsd:string
+    
+    
+Class: GO_0005198
+
+    Annotations: 
+        label_slim_status "OUT - structural molecule activity - 56"^^xsd:string
+    
+    
+Class: GO_0009678
+
+    Annotations: 
+        label_slim_status "IN - hydrogen-translocating pyrophosphatase activity - 43"^^xsd:string
+    
+    
+Class: GO_0008108
+
+    Annotations: 
+        label_slim_status "IN - UDP-glucose:hexose-1-phosphate uridylyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0003937
+
+    Annotations: 
+        label_slim_status "IN - IMP cyclohydrolase activity - 48"^^xsd:string
+    
+    
+Class: GO_0008107
+
+    Annotations: 
+        label_slim_status "IN - galactoside 2-alpha-L-fucosyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0003935
+
+    Annotations: 
+        label_slim_status "IN - GTP cyclohydrolase II activity - 30"^^xsd:string
+    
+    
+Class: GO_0003934
+
+    Annotations: 
+        label_slim_status "IN - GTP cyclohydrolase I activity - 2"^^xsd:string
+    
+    
+Class: GO_0046983
+
+    Annotations: 
+        label_slim_status "IN - protein dimerization activity - 89"^^xsd:string
+    
+    
+Class: GO_0005086
+
+    Annotations: 
+        label_slim_status "OUT - ARF guanyl-nucleotide exchange factor activity - 1"^^xsd:string
+    
+    
+Class: GO_0008113
+
+    Annotations: 
+        label_slim_status "IN - peptide-methionine (S)-S-oxide reductase activity - 57"^^xsd:string
+    
+    
+Class: GO_0008234
+
+    Annotations: 
+        label_slim_status "IN - cysteine-type peptidase activity - 4"^^xsd:string
+    
+    
+Class: GO_0008233
+
+    Annotations: 
+        label_slim_status "IN - peptidase activity - 47"^^xsd:string
+    
+    
+Class: GO_0008236
+
+    Annotations: 
+        label_slim_status "IN - serine-type peptidase activity - 113"^^xsd:string
+    
+    
+Class: GO_0008115
+
+    Annotations: 
+        label_slim_status "IN - sarcosine oxidase activity - 8"^^xsd:string
+    
+    
+Class: GO_0005089
+
+    Annotations: 
+        label_slim_status "OUT - Rho guanyl-nucleotide exchange factor activity - 2"^^xsd:string
+    
+    
+Class: GO_0008235
+
+    Annotations: 
+        label_slim_status "IN - metalloexopeptidase activity - 30"^^xsd:string
+    
+    
+Class: GO_0008479
+
+    Annotations: 
+        label_slim_status "IN - queuine tRNA-ribosyltransferase activity - 122"^^xsd:string
+    
+    
+Class: GO_0008237
+
+    Annotations: 
+        label_slim_status "IN - metallopeptidase activity - 35"^^xsd:string
+    
+    
+Class: GO_0008119
+
+    Annotations: 
+        label_slim_status "IN - thiopurine S-methyltransferase activity - 1"^^xsd:string
+    
+    
+Class: GO_0008239
+
+    Annotations: 
+        label_slim_status "IN - dipeptidyl-peptidase activity - 14"^^xsd:string
+    
+    
+Class: GO_0003924
+
+    Annotations: 
+        label_slim_status "IN - GTPase activity - 209"^^xsd:string
+    
+    
+Class: GO_0003922
+
+    Annotations: 
+        label_slim_status "IN - GMP synthase (glutamine-hydrolyzing) activity - 20"^^xsd:string
+    
+    
+Class: GO_0000774
+
+    Annotations: 
+        label_slim_status "IN - adenyl-nucleotide exchange factor activity - 25"^^xsd:string
+    
+    
+Class: GO_0033897
+
+    Annotations: 
+        label_slim_status "IN - ribonuclease T2 activity - 3"^^xsd:string
+    
+    
+Class: GO_0008483
+
+    Annotations: 
+        label_slim_status "IN - transaminase activity - 116"^^xsd:string
+    
+    
+Class: GO_0008241
+
+    Annotations: 
+        label_slim_status "IN - peptidyl-dipeptidase activity - 2"^^xsd:string
+    
+    
+Class: GO_0030151
+
+    Annotations: 
+        label_slim_status "IN - molybdenum ion binding - 12"^^xsd:string
+    
+    
+Class: GO_0030272
+
+    Annotations: 
+        label_slim_status "IN - 5-formyltetrahydrofolate cyclo-ligase activity - 11"^^xsd:string
+    
+    
+Class: GO_0008484
+
+    Annotations: 
+        label_slim_status "IN - sulfuric ester hydrolase activity - 42"^^xsd:string
+    
+    
+Class: GO_0008121
+
+    Annotations: 
+        label_slim_status "IN - ubiquinol-cytochrome-c reductase activity - 19"^^xsd:string
+    
+    
+Class: GO_0008124
+
+    Annotations: 
+        label_slim_status "IN - 4-alpha-hydroxytetrahydrobiopterin dehydratase activity - 37"^^xsd:string
+    
+    
+Class: GO_0003919
+
+    Annotations: 
+        label_slim_status "IN - FMN adenylyltransferase activity - 17"^^xsd:string
+    
+    
+Class: GO_0008488
+
+    Annotations: 
+        label_slim_status "IN - gamma-glutamyl carboxylase activity - 3"^^xsd:string
+    
+    
+Class: GO_0003918
+
+    Annotations: 
+        label_slim_status "IN - DNA topoisomerase type II (ATP-hydrolyzing) activity - 485"^^xsd:string
+    
+    
+Class: GO_0003917
+
+    Annotations: 
+        label_slim_status "IN - DNA topoisomerase type I activity - 7"^^xsd:string
+    
+    
+Class: GO_0003916
+
+    Annotations: 
+        label_slim_status "IN - DNA topoisomerase activity - 191"^^xsd:string
+    
+    
+Class: GO_0017076
+
+    Annotations: 
+        label_slim_status "IN - purine nucleotide binding - 29"^^xsd:string
+    
+    
+Class: GO_0003913
+
+    Annotations: 
+        label_slim_status "IN - DNA photolyase activity - 94"^^xsd:string
+    
+    
+Class: GO_0003911
+
+    Annotations: 
+        label_slim_status "IN - DNA ligase (NAD+) activity - 78"^^xsd:string
+    
+    
