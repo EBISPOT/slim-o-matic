@@ -1,4 +1,4 @@
-This repository contains the code and files accompanying a paper submission to SWAT4LS 2016, http://www.swat4ls.org/workshops/amsterdam2016/
+This repository contains the code and files accompanying a paper submission to SWAT4LS 2016, http://ceur-ws.org/Vol-1795/paper23.pdf
 
 This code allows semi-automated generation of Gene Ontology (GO) slims, by using as input a list of GO terms and their associated count in an existing dataset. It then allows to visualize them in the GO hierarchy, thereby facilitating selection of appropriate GO terms for slim by data owners/domain experts.
 
